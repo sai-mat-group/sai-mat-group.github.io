@@ -127,6 +127,44 @@
 				<div class="media">
 					<div class="media-body">
 						<div class="title media-heading">
+							<a href="/news/wexler-paper/">Computational discovery of CCGSSe photovoltaic absorber published in J. Mater. Chem. A</a>
+						</div>
+						<div class="smallhead">
+							1 Apr 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/wexler-jmca-news-2021.png">
+				
+				
+				<div class="post">
+					<p>Recent work on the discovery of a new chalcogenide semiconductor, Cu<sub>2</sub>CdGeS<sub>3</sub>Se, which shows promising thermodynamic stability, optimal band gap, and robust resistance to formation of deep-trap-inducing defects, was published today in <a href="https://doi.org/10.1039/D0TA11603C" target="_blank">Journal of Materials Chemistry A</a>. The paper was written by <a href="https://rwexler.github.io/about/" target="_blank">Dr. Robert Wexler</a> (Princeton University), Dr. Sai Gautam Gopalakrishnan and <a href="https://research.seas.ucla.edu/carter/" target="_blank">Prof. Emily A. Carter</a> (University of California Los Angeles).</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
 							<a href="/news/aps-talk/">Sai Gautam gives talk at APS March Meeting</a>
 						</div>
 						<div class="smallhead">
@@ -604,7 +642,7 @@
 				
 				
 				<div class="post">
-					<p>Work on benchmarking defect formation energies and formation energies of binary Ge-containing compounds, which are relevant for quaternary chalcogenides that are typically used for photovoltaic and thermoelectric applications, was published today in <a href="https://doi.org/10.1103/PhysRevB.102.054101" target="_blank">Physical Review B</a>. The paper was written by Dr. Robert Wexler (Princeton University), Dr. Sai Gautam Gopalakrishnan and <a href="https://research.seas.ucla.edu/carter/" target="_blank">Prof. Emily A. Carter</a> (University of California Los Angeles).</p>
+					<p>Work on benchmarking defect formation energies and formation energies of binary Ge-containing compounds, which are relevant for quaternary chalcogenides that are typically used for photovoltaic and thermoelectric applications, was published today in <a href="https://doi.org/10.1103/PhysRevB.102.054101" target="_blank">Physical Review B</a>. The paper was written by <a href="https://rwexler.github.io/about/" target="_blank">Dr. Robert Wexler</a> (Princeton University), Dr. Sai Gautam Gopalakrishnan and <a href="https://research.seas.ucla.edu/carter/" target="_blank">Prof. Emily A. Carter</a> (University of California Los Angeles).</p>
 
 				</div>
 			</div>
