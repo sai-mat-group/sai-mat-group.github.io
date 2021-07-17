@@ -53,6 +53,12 @@
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="/images/favicon.png"/>	
 
+	<!-- Ideal image slider -->
+	<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+
+
 	<!-- Typekit -->
 	<script>
 	  //(function(d) {
@@ -119,6 +125,82 @@
 	<div class="container">	
 		
 	<div class="post-list">
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/lu-paper/">Theoretical screening study for Ca positive electrodes published in Chem. Mater.</a>
+						</div>
+						<div class="smallhead">
+							17 Jul 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/lu-cm-news-2021.png">
+				
+				
+				<div class="post">
+					<p>Wang and Juefan&#39;s paper on computationally screening for Ca posititve electrodes was published today in <a href="https://doi.org/10.1021/acs.chemmater.1c01992" target="_blank">Chemistry of Materials</a>. Searching through the chemical spaces of oxides and chalcogenides, the study used a set of robust filtering criteria, including redox-activity, thermodynamic stabiity, and charge-neutrality to arrive at a set of 10 candidate compounds, which were further evaluated using density functional theory-based calculations. Importantly, the study found two previously unreported candidates, namely, CaV<sub>2</sub>O<sub>4</sub> and CaNb<sub>2</sub>O<sub>4</sub>, both of which exhibit fair Ca mobility. Finally, the paper unearthed a set of updated design principles for constructing facile ionic conductors. The work was led by <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Prof. Piero Canepa</a> (National University of Singapore), in collaboration with Dr. Sai Gautam Gopalakrishnan.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/tanmay-joins/">Tanmay joins as a research intern</a>
+						</div>
+						<div class="smallhead">
+							1 Jul 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/team/tanmay-bhagwat.png">
+				
+				
+				<div class="post">
+					<p>The SAI MATerials group welcomes Tanmay Mohan Bhagwat, who will be a research intern. Tanmay graduated with a Bachelors in Mechanical Engineering from the Birla Institute of Technology and Science, Pilani (Hyderabad campus) in 2021. He will be working on computationally modelling photo(electro)catalysts.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
 	
 	<div class="blog-post">
 		<div class="row">
@@ -867,6 +949,9 @@
 		</div>
 	</div>
 
+	<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
 </body>
 </html>
 
