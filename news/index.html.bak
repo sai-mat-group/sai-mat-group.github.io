@@ -2,7 +2,7 @@
 <html lang="en">
 	<!-- Begin Jekyll SEO tag v2.7.1 -->
 <title>sai materials group / group news | Simulations and Informatics of Materials Group</title>
-<meta name="generator" content="Jekyll v3.9.0" />
+<meta name="generator" content="Jekyll v4.2.0" />
 <meta property="og:title" content="sai materials group / group news" />
 <meta name="author" content="Sai Gautam Gopalakrishnan" />
 <meta property="og:locale" content="en_US" />
@@ -14,7 +14,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="sai materials group / group news" />
 <script type="application/ld+json">
-{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://sai-mat-group.github.io/images/logo.png"},"name":"Sai Gautam Gopalakrishnan"},"headline":"sai materials group / group news","author":{"@type":"Person","name":"Sai Gautam Gopalakrishnan"},"description":"Computational Materials Science as applied to materials design for energy applications","@type":"WebPage","url":"http://sai-mat-group.github.io/news/index.html.bak","@context":"https://schema.org"}</script>
+{"description":"Computational Materials Science as applied to materials design for energy applications","url":"http://sai-mat-group.github.io/news/index.html.bak","author":{"@type":"Person","name":"Sai Gautam Gopalakrishnan"},"headline":"sai materials group / group news","@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://sai-mat-group.github.io/images/logo.png"},"name":"Sai Gautam Gopalakrishnan"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <head>
@@ -72,58 +72,53 @@
 			
 	<!-- jQuery -->
 	<script src="/js/jquery.min.js"></script>
-	
+
 	<!-- Bootstrap -->
-	<script src="/js/transition.js"></script>
-	<script src="/js/collapse.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<!--script src="/js/transition.js"></script>
+	<script src="/js/collapse.js"></script-->
 
 </head>
 
 <body>
-	
+
 	<div id="header">
-		<nav class="navbar navbar-default navbar-static-top" role="navigation">	 
-			<div class="container">	
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-element" aria-expanded="false">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-										
-					<object class="logo navbar-brand" data="/images/logo.svg" type="image/svg+xml"></object>
-					<a class="navbar-brand" href="/">SAI MATerials Group</a>
-					
-				</div>
-				<div class="collapse navbar-collapse" id="navbar-collapse-element">
-					<ul class="nav navbar-nav navbar-right">
+		<nav class="navbar navbar-expand-md navbar">	 
+			<div class="container">
+				<a class="navbar-brand" href="/">
+				<img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="/images/logo.svg">
+					SAI MATerials Group</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNav">
+					<ul class="navbar-nav nav-pills ml-auto">
 						
-						<li>
+						<li class="nav-link">
 						
-						<a href="/research/">Research</a>
+						<a class="mx-1" href="/research/">Research</a>
 						</li>
 						
-						<li>
+						<li class="nav-link">
 						
-						<a href="/papers/">Publications</a>
+						<a class="mx-1" href="/papers/">Publications</a>
 						</li>
 						
-						<li>
+						<li class="nav-link">
 						
-						<a href="/team/">Team</a></li>	  
+						<a class="mx-1" href="/team/">Team</a></li>	  
 						
-						<li>
+						<li class="nav-link">
 						
-						<a href="/join-us/">Join Us</a>
+						<a class="mx-1" href="/join-us/">Join Us</a>
 					</ul>
 				</div>
 			</div>
-		</nav>	
+		</nav>
 	</div>
-	
-	<div class="container">	
-		
+
+	<div class="container mt-4">
+
 	<div class="post-list">
 	
 	<div class="blog-post">
@@ -154,7 +149,8 @@
 				
 				
 				<div class="post">
-					<p>Wang and Juefan&#39;s paper on computationally screening for Ca posititve electrodes was published today in <a href="https://doi.org/10.1021/acs.chemmater.1c01992" target="_blank">Chemistry of Materials</a>. Searching through the chemical spaces of oxides and chalcogenides, the study used a set of robust filtering criteria, including redox-activity, thermodynamic stabiity, and charge-neutrality to arrive at a set of 10 candidate compounds, which were further evaluated using density functional theory-based calculations. Importantly, the study found two previously unreported candidates, namely, CaV<sub>2</sub>O<sub>4</sub> and CaNb<sub>2</sub>O<sub>4</sub>, both of which exhibit fair Ca mobility. Finally, the paper unearthed a set of updated design principles for constructing facile ionic conductors. The work was led by <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Prof. Piero Canepa</a> (National University of Singapore), in collaboration with Dr. Sai Gautam Gopalakrishnan.</p>
+					<p>Wang and Juefan’s paper on computationally screening for Ca posititve electrodes was published today in <a href="https://doi.org/10.1021/acs.chemmater.1c01992" target="_blank">Chemistry of Materials</a>. Searching through the chemical spaces of oxides and chalcogenides, the study used a set of robust filtering criteria, including redox-activity, thermodynamic stabiity, and charge-neutrality to arrive at a set of 10 candidate compounds, which were further evaluated using density functional theory-based calculations. Importantly, the study found two previously unreported candidates, namely, CaV<sub>2</sub>O<sub>4</sub> and CaNb<sub>2</sub>O<sub>4</sub>, both of which exhibit fair Ca mobility. Finally, the paper unearthed a set of updated design principles for constructing facile ionic conductors. The work was led by <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Prof. Piero Canepa</a> (National University of Singapore), in collaboration with Dr. Sai Gautam Gopalakrishnan.</p>
+
 
 				</div>
 			</div>
@@ -230,7 +226,7 @@
 				
 				
 				<div class="post">
-					<p>Dr. Sai Gautam Gopalakrishnan will deliver a (virtual) talk, as part of the &quot;EN05.05 -- Solar Thermochemical Water Splitting II&quot; symposium at the &quot;<a href="https://mrs.org/meetings-events/spring-meetings-exhibits/2021-mrs-spring-meeting" target="_blank">Materials Research Society (MRS) Spring Meeting</a>,&quot; 2021. He will speak about his post-doctoral work of identifying simultaneously redox-active oxide perovskites for solar thermochemical water splitting applications. The talk will be between 8.10-8.25 AM Indian Standard Time on April 21 (Wednesday). To join the talk, use your MRS credentials to login at the <a href="https://mrs2021.cd.pathable.com" target="_blank">meeting link</a>. The talk will also be available on-demand for a few weeks after the meeting is over. The slides presented will also be uploaded on the group website soon.</p>
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a (virtual) talk, as part of the “EN05.05 – Solar Thermochemical Water Splitting II” symposium at the “<a href="https://mrs.org/meetings-events/spring-meetings-exhibits/2021-mrs-spring-meeting" target="_blank">Materials Research Society (MRS) Spring Meeting</a>,” 2021. He will speak about his post-doctoral work of identifying simultaneously redox-active oxide perovskites for solar thermochemical water splitting applications. The talk will be between 8.10-8.25 AM Indian Standard Time on April 21 (Wednesday). To join the talk, use your MRS credentials to login at the <a href="https://mrs2021.cd.pathable.com" target="_blank">meeting link</a>. The talk will also be available on-demand for a few weeks after the meeting is over. The slides presented will also be uploaded on the group website soon.</p>
 
 				</div>
 			</div>
@@ -268,7 +264,7 @@
 				
 				
 				<div class="post">
-					<p>The SAI MATerials group welcomes Abhirup Bhadra, who will is a visiting doctoral student from the School of Chemical Engineering in University of New South Wales. Abhirup&#39;s research involves both experimental and computational aspects of all-solid-state batteries and he is pursuing his Ph.D. under the guidance of Dr. Dipan Kundu. Prior to the start of his Ph.D., Abhirup graduated with a Masters in Chemistry from Indian Institute of Technology Kharagpur. The group wishes Abhirup a pleasant stay and a sound execution of the computational aspects of his research while he is around.</p>
+					<p>The SAI MATerials group welcomes Abhirup Bhadra, who will is a visiting doctoral student from the School of Chemical Engineering in University of New South Wales. Abhirup’s research involves both experimental and computational aspects of all-solid-state batteries and he is pursuing his Ph.D. under the guidance of Dr. Dipan Kundu. Prior to the start of his Ph.D., Abhirup graduated with a Masters in Chemistry from Indian Institute of Technology Kharagpur. The group wishes Abhirup a pleasant stay and a sound execution of the computational aspects of his research while he is around.</p>
 
 				</div>
 			</div>
@@ -285,7 +281,7 @@
 				<div class="media">
 					<div class="media-body">
 						<div class="title media-heading">
-							<a href="/news/wexler-paper/">Computational discovery of CCGSSe photovoltaic absorber published in J. Mater. Chem. A</a>
+							<a href="/news/wexler-jmca/">Computational discovery of CCGSSe photovoltaic absorber published in J. Mater. Chem. A</a>
 						</div>
 						<div class="smallhead">
 							1 Apr 2021
@@ -307,6 +303,7 @@
 				
 				<div class="post">
 					<p>Recent work on the discovery of a new chalcogenide semiconductor, Cu<sub>2</sub>CdGeS<sub>3</sub>Se, which shows promising thermodynamic stability, optimal band gap, and robust resistance to formation of deep-trap-inducing defects, was published today in <a href="https://doi.org/10.1039/D0TA11603C" target="_blank">Journal of Materials Chemistry A</a>. The paper was written by <a href="https://rwexler.github.io/about/" target="_blank">Dr. Robert Wexler</a> (Princeton University), Dr. Sai Gautam Gopalakrishnan and <a href="https://research.seas.ucla.edu/carter/" target="_blank">Prof. Emily A. Carter</a> (University of California Los Angeles).</p>
+
 
 				</div>
 			</div>
@@ -344,7 +341,7 @@
 				
 				
 				<div class="post">
-					<p>Dr. Sai Gautam Gopalakrishnan will deliver a (virtual) talk, as part of the &quot;Energy Research -- Solar Energy&quot; symposium at the &quot;<a href="https://march.aps.org/" target="_blank">American Physical Society (APS) March Meeting</a>,&quot; 2021. He will speak about his post-doctoral work of finding oxide perovskites with simultaneous cation redox activity for solar thermochemical water splitting applications. The talk will be between 2.30-2.42 AM Indian Standard Time on March 17 (Wednesday) or, equivalently 4-4.12 PM Central Daylight Time on March 16 (Tuesday). To join the talk, use your APS credentials to login at the <a href="https://marchmeeting2021.onlineeventpro.freeman.com/" target="_blank">meeting link</a>. </p>
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a (virtual) talk, as part of the “Energy Research – Solar Energy” symposium at the “<a href="https://march.aps.org/" target="_blank">American Physical Society (APS) March Meeting</a>,” 2021. He will speak about his post-doctoral work of finding oxide perovskites with simultaneous cation redox activity for solar thermochemical water splitting applications. The talk will be between 2.30-2.42 AM Indian Standard Time on March 17 (Wednesday) or, equivalently 4-4.12 PM Central Daylight Time on March 16 (Tuesday). To join the talk, use your APS credentials to login at the <a href="https://marchmeeting2021.onlineeventpro.freeman.com/" target="_blank">meeting link</a>.</p>
 
 				</div>
 			</div>
@@ -382,7 +379,7 @@
 				
 				
 				<div class="post">
-					<p>The SAI MATerials group welcomes Ankit Kumar, who will be a Project Associate! Ankit graduated with a Bachelor&#39;s in Metallurgical and Materials Engineering from Indian Institute of Technology Roorkee. He will be working on cathode design for multivalent batteries.</p>
+					<p>The SAI MATerials group welcomes Ankit Kumar, who will be a Project Associate! Ankit graduated with a Bachelor’s in Metallurgical and Materials Engineering from Indian Institute of Technology Roorkee. He will be working on cathode design for multivalent batteries.</p>
 
 				</div>
 			</div>
@@ -572,7 +569,8 @@
 				
 				
 				<div class="post">
-					<p>Baltej and Ziliang&#39;s paper on exploring 3<i>d</i>-metal based NaSiCON cathodes for Na batteries, was published today in <a href="https://doi.org/10.1039/D0TA10688G" target="_blank">Journal of Materials Chemistry A</a>. The study employed density functional theory-based calculations to evaluate the average voltage and Na intercalation behavior in Na<sub>x</sub>MM&#39;(PO<sub>4</sub>)<sub>3</sub> compounds (M, M&#39; = 3<i>d</i> metal), within the NaSiCON structural framework and found several promising candidates. The work was led by Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> (National University of Singapore), in collaboration with Profs. <a href="https://www.eng.nus.edu.sg/mse/staff/cheetham/" target="_blank">Anthony K. Cheetham</a> (National University of Singapore and University of California Santa Barbara) and <a href="https://www.christian-masquelier.fr" target="_blank">Christian Masquelier</a> (Laboratoire de Réactivité et Chimie des Solides Amiens).</p>
+					<p>Baltej and Ziliang’s paper on exploring 3<i>d</i>-metal based NaSiCON cathodes for Na batteries, was published today in <a href="https://doi.org/10.1039/D0TA10688G" target="_blank">Journal of Materials Chemistry A</a>. The study employed density functional theory-based calculations to evaluate the average voltage and Na intercalation behavior in Na<sub>x</sub>MM’(PO<sub>4</sub>)<sub>3</sub> compounds (M, M’ = 3<i>d</i> metal), within the NaSiCON structural framework and found several promising candidates. The work was led by Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> (National University of Singapore), in collaboration with Profs. <a href="https://www.eng.nus.edu.sg/mse/staff/cheetham/" target="_blank">Anthony K. Cheetham</a> (National University of Singapore and University of California Santa Barbara) and <a href="https://www.christian-masquelier.fr" target="_blank">Christian Masquelier</a> (Laboratoire de Réactivité et Chimie des Solides Amiens).</p>
+
 
 				</div>
 			</div>
@@ -610,7 +608,8 @@
 				
 				
 				<div class="post">
-					<p>Sai Gautam&#39;s paper on discovery of oxide perovskites with simultaneous cation redox-activity, using density functional theory calculations, for solar thermochemical applications was published today in <a href="https://pubs.acs.org/doi/10.1021/acs.chemmater.0c02912" target="_blank">Chemistry of Materials</a>. The work was done in collaboration with <a href="https://sustainability.asu.edu/person/ellen-stechel/" target="_blank">Dr. Ellen B. Stechel</a> (Arizona State University) and <a href="https://research.seas.ucla.edu/carter/" target="_blank">Prof. Emily A. Carter</a> (University of California Los Angeles).</p>
+					<p>Sai Gautam’s paper on discovery of oxide perovskites with simultaneous cation redox-activity, using density functional theory calculations, for solar thermochemical applications was published today in <a href="https://pubs.acs.org/doi/10.1021/acs.chemmater.0c02912" target="_blank">Chemistry of Materials</a>. The work was done in collaboration with <a href="https://sustainability.asu.edu/person/ellen-stechel/" target="_blank">Dr. Ellen B. Stechel</a> (Arizona State University) and <a href="https://research.seas.ucla.edu/carter/" target="_blank">Prof. Emily A. Carter</a> (University of California Los Angeles).</p>
+
 
 				</div>
 			</div>
@@ -648,7 +647,7 @@
 				
 				
 				<div class="post">
-					<p>Dr. Sai Gautam Gopalakrishnan will deliver a webinar, as part of the &quot;<a href="https://sites.google.com/view/entropyiitd/home" target="_blank">Pratidhwani</a>&quot; series organized by the Department of Chemistry, Indian Institute of Technology Delhi. He will cover some of his post-doctoral work during the talk, on the topic of discovering new oxide perovskites with simultaneous cation reduction for solar thermochemical applications. To join the webinar, use the <a href="https://iitd1.webex.com/iitd1/j.php?MTID=m6d0437b4ef277834751051722f97433c" target="_blank">meeting link</a>. Meeting number is &quot;176 629 0449&quot; and meeting password is &quot;gVkzvQty338&quot;. You can also watch the webinar live on <a href="https://youtu.be/cNcOuc0tR-M" target="_blank">Youtube</a>.</p>
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a webinar, as part of the “<a href="https://sites.google.com/view/entropyiitd/home" target="_blank">Pratidhwani</a>” series organized by the Department of Chemistry, Indian Institute of Technology Delhi. He will cover some of his post-doctoral work during the talk, on the topic of discovering new oxide perovskites with simultaneous cation reduction for solar thermochemical applications. To join the webinar, use the <a href="https://iitd1.webex.com/iitd1/j.php?MTID=m6d0437b4ef277834751051722f97433c" target="_blank">meeting link</a>. Meeting number is “176 629 0449” and meeting password is “gVkzvQty338”. You can also watch the webinar live on <a href="https://youtu.be/cNcOuc0tR-M" target="_blank">Youtube</a>.</p>
 
 				</div>
 			</div>
@@ -724,7 +723,8 @@
 				
 				
 				<div class="post">
-					<p>Zeyu (Jerry) Deng&#39;s paper on mapping the phase behavior of rhombohedral Na<sub>1+x</sub>Zr<sub>2</sub>Si<sub>x</sub>P<sub>3-x</sub>, a NaSiCON solid electrolyte for Na batteries, was published today in <a href="https://pubs.acs.org/doi/10.1021/acs.chemmater.0c02695" target="_blank">Chemistry of Materials</a>. The study employed the cluster expansion-monte carlo framework, based on density functional theory calculations, to estimate the temperature-composition phase diagram of NaSiCON. The work was led by Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> (National University of Singapore), in collaboration with Profs. <a href="https://www.eng.nus.edu.sg/mse/staff/cheetham/" target="_blank">Anthony K. Cheetham</a> (National University of Singapore and University of California Santa Barbara) and <a href="https://www.christian-masquelier.fr" target="_blank">Christian Masquelier</a> (Laboratoire de Réactivité et Chimie des Solides Amiens).</p>
+					<p>Zeyu (Jerry) Deng’s paper on mapping the phase behavior of rhombohedral Na<sub>1+x</sub>Zr<sub>2</sub>Si<sub>x</sub>P<sub>3-x</sub>, a NaSiCON solid electrolyte for Na batteries, was published today in <a href="https://pubs.acs.org/doi/10.1021/acs.chemmater.0c02695" target="_blank">Chemistry of Materials</a>. The study employed the cluster expansion-monte carlo framework, based on density functional theory calculations, to estimate the temperature-composition phase diagram of NaSiCON. The work was led by Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> (National University of Singapore), in collaboration with Profs. <a href="https://www.eng.nus.edu.sg/mse/staff/cheetham/" target="_blank">Anthony K. Cheetham</a> (National University of Singapore and University of California Santa Barbara) and <a href="https://www.christian-masquelier.fr" target="_blank">Christian Masquelier</a> (Laboratoire de Réactivité et Chimie des Solides Amiens).</p>
+
 
 				</div>
 			</div>
@@ -762,7 +762,8 @@
 				
 				
 				<div class="post">
-					<p>Sai Gautam&#39;s paper on generating sub-lattice models entirely using 0 K density functional theory calculations, which can be used to predict off-stoichiometry in materials, was published today in <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adts.202000112" target="_blank">Advanced Theory and Simulations</a>. The work was done in collaboration with <a href="https://sustainability.asu.edu/person/ellen-stechel/" target="_blank">Dr. Ellen B. Stechel</a> (Arizona State University) and <a href="https://research.seas.ucla.edu/carter/" target="_blank">Prof. Emily A. Carter</a> (University of California Los Angeles).</p>
+					<p>Sai Gautam’s paper on generating sub-lattice models entirely using 0 K density functional theory calculations, which can be used to predict off-stoichiometry in materials, was published today in <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adts.202000112" target="_blank">Advanced Theory and Simulations</a>. The work was done in collaboration with <a href="https://sustainability.asu.edu/person/ellen-stechel/" target="_blank">Dr. Ellen B. Stechel</a> (Arizona State University) and <a href="https://research.seas.ucla.edu/carter/" target="_blank">Prof. Emily A. Carter</a> (University of California Los Angeles).</p>
+
 
 				</div>
 			</div>
@@ -840,6 +841,7 @@
 				<div class="post">
 					<p>Nidhish Sagar, a senior (or final year) undergraduate student at the Department of Materials Engineering, IISc, has joined the group today. He will be working on machine learning based on density functonal theory calculations for his senior thesis.</p>
 
+
 				</div>
 			</div>
 			<div class="col-md-1"></div>
@@ -874,6 +876,7 @@
 				<div class="post">
 					<p>Dr. Sai Gautam Gopalakrishnan joins the Materials Engineering department, Indian Institute of Science, as a tenure-track Assistant Professor!</p>
 
+
 				</div>
 			</div>
 			<div class="col-md-1"></div>
@@ -905,46 +908,48 @@
 <!-- Infinite scroll -->
 <script async src="/js/infinite-scroll.js"></script>
 
-	
+
 	</div>
 
 	<div class="spacer"></div>
 
-	<div class="container">
+	<div class="container mt-4">
 		<div class="row">
-			<div class="col-md-12 reduced gutter">
-				<ul class="list-inline">
-					<li class="footernav">
-						<i class="fa fa-angle-right"></i> <a class="footerlink" href="/news">Group News</a>
-					</li>
-					
-					<li class="footernav">
-						<i class="fa fa-angle-right"></i> <a class="footerlink" href="/misc/funders/">Funders</a>
-					</li>
-					
-					<li class="footernav">
-						<i class="fa fa-angle-right"></i> <a class="footerlink" href="/misc/contact/">Contact</a>
-					</li>
-					
-					<li class="footernav">
-						<i class="fa fa-angle-right"></i> <a class="footerlink" target="_blank" rel="noopener noreferrer" href="https://materials.iisc.ac.in">Materials Engineering</a>
-					</li>
-					<li class="footernav">
-						<i class="fa fa-angle-right"></i> <a class="footerlink" target="_blank" rel="noopener noreferrer" href="https://iisc.ac.in">IISc</a>
-					</li>
-					<li> <a class="footerimage" href="https://twitter.com/goths19" target="_blank" rel="noopener noreferrer">
+			<div class="col-lg-12 reduced gutter">
+				<div class="pad-left">
+					<ul class="list-inline">
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/news">Group News</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/misc/funders/">Funders</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/misc/contact/">Contact</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" target="_blank" rel="noopener noreferrer" href="https://materials.iisc.ac.in">Materials Engineering</a>
+						</li>
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" target="_blank" rel="noopener noreferrer" href="https://iisc.ac.in">IISc</a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://twitter.com/goths19" target="_blank" rel="noopener noreferrer">
 							<i class="fa fa-twitter"></i></a>
-					</li>
-					<li> <a class="footerimage" href="https://github.com/sai-mat-group" target="_blank" rel="noopener noreferrer">
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://github.com/sai-mat-group" target="_blank" rel="noopener noreferrer">
 							<i class="fa fa-github"></i></a>
-					</li>
-					<li> <a class="footerimage" href="https://scholar.google.com/citations?user=XGqBCZAAAAAJ&hl=en" target="_blank" rel="noopner noreferrer">
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://scholar.google.com/citations?user=XGqBCZAAAAAJ&hl=en" target="_blank" rel="noopner noreferrer">
 							<i class="ai ai-google-scholar"></i></a>
-					</li>
-				</ul>
-				<hr>
-				<p class="colophon">&copy; <script>document.write( new Date().getFullYear() );</script> Sai Gautam Gopalakrishnan - Powered by <a class="off" href="https://jekyllrb.com" target="_blank" rel="noopener noreferrer">Jekyll</a> and adapted from <a class="off" href="https://bedford.io" target=+_blank" rel="noopener noreferrer">bedford.io</a>, with inputs from <a class="off" href="https://caneparesearch.org" target="_blank" rel="noopener noreferrer">PC</a>.
-				</p>
+						</li>
+					</ul>
+					<hr>
+					<p class="colophon">&copy; <script>document.write( new Date().getFullYear() );</script> Sai Gautam Gopalakrishnan - Powered by <a class="off-note" href="https://jekyllrb.com" target="_blank" rel="noopener noreferrer">Jekyll</a> and adapted from <a class="off-note" href="https://bedford.io" target=+_blank" rel="noopener noreferrer">bedford.io</a>, with inputs from <a class="off-note" href="https://caneparesearch.org" target="_blank" rel="noopener noreferrer">PC</a>.
+					</p>
+				</div>
 			</div>
 		</div>
 	</div>
