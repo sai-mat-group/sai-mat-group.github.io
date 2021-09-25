@@ -1663,6 +1663,10 @@ a.badge-dark:focus, a.badge-dark.focus { outline: 0; box-shadow: 0 0 0 0.2rem rg
 
 .media-body { flex: 1; }
 
+img.alumni-picture { filter: grayscale(1); transition: grayscale 0.5s; }
+
+img.alumni-picture:hover { filter: grayscale(0); }
+
 .list-group { display: flex; flex-direction: column; padding-left: 0; margin-bottom: 0; border-radius: 0.25rem; }
 
 .list-group-item-action { width: 100%; color: #495057; text-align: inherit; }
