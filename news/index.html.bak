@@ -14,7 +14,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="sai materials group / group news" />
 <script type="application/ld+json">
-{"description":"Computational Materials Science as applied to materials design for energy applications","headline":"sai materials group / group news","url":"http://sai-mat-group.github.io/news/index.html.bak","author":{"@type":"Person","name":"Sai Gautam Gopalakrishnan"},"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://sai-mat-group.github.io/images/logo.png"},"name":"Sai Gautam Gopalakrishnan"},"@context":"https://schema.org"}</script>
+{"description":"Computational Materials Science as applied to materials design for energy applications","url":"http://sai-mat-group.github.io/news/index.html.bak","author":{"@type":"Person","name":"Sai Gautam Gopalakrishnan"},"headline":"sai materials group / group news","@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://sai-mat-group.github.io/images/logo.png"},"name":"Sai Gautam Gopalakrishnan"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <head>
@@ -120,6 +120,44 @@
 	<div class="container mt-4">
 
 	<div class="post-list">
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/sachin-adilakshmi-join/">Sachin and Adilakshmi join the group</a>
+						</div>
+						<div class="smallhead">
+							18 Nov 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/sachin-adilakshmi-news-2021.png">
+				
+				
+				<div class="post">
+					<p>Sachin Kumar (left in picture) and Adilakshmi Chirumamilla(right) have joined the SAI MATerials group to pursue their Masters thesis (graduating in 2023). Sachin and Adilakshmi graduated with a Bachelors in Metallurgical Engineering, Birsa Institute of Technology Sindri, and Metallurgical and Materials Engineering, Rajiv Gandhi University of Knowledge Technologies, Nuzvid, respectively. We wish Sachin and Adilakshmi the best in their academic careers and beyond.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
 	
 	<div class="blog-post">
 		<div class="row">

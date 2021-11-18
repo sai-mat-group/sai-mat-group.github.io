@@ -126,6 +126,8 @@ pre code { overflow-wrap: normal; white-space: pre; }
 
 img.offset { float: right; margin: 12px 0px 10px 15px; }
 
+img.offset-news { float: none; margin: 12px 0px 10px 15px; }
+
 img.avatar { width: 20px; }
 
 .post img { float: none; margin-left: auto; margin-right: auto; margin-top: 10px; margin-bottom: 10px; }
