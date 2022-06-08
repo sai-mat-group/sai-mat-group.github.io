@@ -129,6 +129,83 @@
 				<div class="media">
 					<div class="media-body">
 						<div class="title media-heading">
+							<a href="/news/wang-jmca/">Interface paper published in J. Mater. Chem. A</a>
+						</div>
+						<div class="smallhead">
+							8 Jun 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/wang-jmca-news-2022.png">
+				
+				
+				<div class="post">
+					<p>Juefan’s paper on understanding the stability and transport properties of interfaces formed via decomposition of common solid electrolytes against Li metal, was published today in <a href="https://doi.org/10.1039/D2TA02202H" target="_blank">Journal of Materials Chemistry A</a>. The study employed density functional theory calculations and ab initio molecular dynamics simulations and trained a machine learned interatomic potential (specifically, moment tensor potentials) to perform longer timescale simulations on larger interfacial models. Importantly, the study found certain decomposition products (e.g., Li<sub>2</sub>S) to be highly resistant to Li motion across the interface, while phases such as Li<sub>3</sub>P faciliate Li-transport. The work was led by Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> (National University of Singapore), in collaboration with Prof. Sai Gautam Gopalakrishnan.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/group-lunch/">Board game tournament and group lunch</a>
+						</div>
+						<div class="smallhead">
+							28 May 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/group-lunch-may-2022.png">
+				
+				
+				<div class="post">
+					<p>The group played its first board games tournament, involving “Pandemic” and “Settlers of Catan”. Adilakshmi became the winner of the tournament. The games were split across two days, a group lunch, and also a photoshoot. Hope that this will be the first of several board game contests to come in the near future.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
 							<a href="/news/avni-joins/">Avni joins the group</a>
 						</div>
 						<div class="smallhead">
@@ -151,6 +228,44 @@
 				
 				<div class="post">
 					<p>Avni Mandloi joins the group as a summer research intern. Avni is an upcoming third year undergraduate student at the Department of Metallurgical and Materials Engineering, Visvesvaraya National Institute of Technology, Nagpur. We wish Avni a productive summer and a succesful career as a materials scientist.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/mrs-talk/">Sai Gautam gives talk at MRS Spring Meeting</a>
+						</div>
+						<div class="smallhead">
+							9 May 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/mrs-may-2022.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical talk, as part of the “DS04.03 – Recent Advances in Data-Driven Discovery of Materials for Energy Conversion and Storage” symposium at the “<a href="https://mrs.org/meetings-events/spring-meetings-exhibits/2022-mrs-spring-meeting" target="_blank">Materials Research Society (MRS) Spring Meeting</a>,” 2022. The meeting takes place at the Hawaii convention center, Honolulu, USA. He will speak about the recent research work on discovery of Ca-ion battery cathodes by the group. The talk will be between 3.45-4.00 PM Hawaii Standard Time on May 9 (Tuesday), which is 7.15-7.30 AM Indian Standard Time on May 10 (Wednesday). Do join the talk if you are around in the conference. The slides presented will also be uploaded on the group website soon.</p>
 
 				</div>
 			</div>
