@@ -139,6 +139,74 @@
 				<div class="media">
 					<div class="media-body">
 						<div class="title media-heading">
+							<a href="/news/shell-talk/">Sai Gautam talks at the Shell.ai-JNCASR Scientific Conference</a>
+						</div>
+						<div class="smallhead">
+							23 Sep 2022
+						</div>
+						<div class="spacer"></div>
+						<div class="post">
+							<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical, invited talk as part of the scientific conference organized by <a href="https://shell.ai" target="_blank">Shell.ai</a>(Shell India) and the <a href="https://www.jncasr.ac.in/" target="_blank">Jawaharlal Nehru Centre for Advanced Scientific Research</a>(JNCASR). The conference is a confluence of academic and industry experts on materials challenges for sustainability, and is scheduled to take place at the <a href="https://www.tajhotels.com/en-in/taj/taj-bangalore/" target="_blank">Taj Bengaluru Airport</a>, Bengaluru, India. Sai will present an overview of the computational and machine learning research done in the group, at 11.30am, Indian Standard Time, on September 23 (Friday). Do join the talk if you are around.</p>
+
+<p>Some pictures from the conference and the talk.</p>
+<center>
+<img src="../../images/news/shell-sept-2022-image1.jpg" alt="Talk" width="500" />
+<br />
+<img src="../../images/news/shell-sept-2022-image2.jpg" alt="Sai-mat-group" width="500" />
+<br />
+<img src="../../images/news/shell-sept-2022-image3.jpg" alt="Speaker-organizer-group" width="500" />
+</center>
+
+						</div>
+					</div>
+					<a class="pull-right" href="/news/shell-talk/">
+						<img width=350 class="media-object" src="/images/news/shell-sept-2022.png">
+					</a>
+				</div>
+				<div class="bigspacer"></div>
+				<div class="spacer"></div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/jha-paper-pccp/">Lithium bisulfate paper published in Phys. Chem. Chem. Phys.</a>
+						</div>
+						<div class="smallhead">
+							7 Sep 2022
+						</div>
+						<div class="spacer"></div>
+						<div class="post">
+							<p>Pawan’s paper on evaluating possible anionic redox in lithium bisulfate cathodes was published today in <a href="https://doi.org/10.1039/D2CP00473A" target="_blank">Physical Chemistry Chemical Physics</a> (PCCP). The study used multiple theoretical probes to verify that oxygen within the sulfate polyanionic groups participate in redox activity as lithium (de)intercalates in Co- and Ni-based bisulfate compositions. In the case of Fe- and Mn-based bisulfates, the cation continues to be the center of redox activity, with no perceptible participation from oxygen atoms. The work was led by Prof. Sai Gautam Gopalakrishnan, in collaboration with Prof. <a href="http://www.mrc.iisc.ac.in/prabeer-barpanda/" target="_blank">Prabeer Barpanda</a>, and with computational support from Prof. <a href="https://eecs.iisc.ac.in/people/mayank-shrivastava/" target="_blank">Mayank Shrivastava</a> at Indian Institute of Science.</p>
+
+
+						</div>
+					</div>
+					<a class="pull-right" href="/news/jha-paper-pccp/">
+						<img width=350 class="media-object" src="/images/news/jha-pccp-news-2022.png">
+					</a>
+				</div>
+				<div class="bigspacer"></div>
+				<div class="spacer"></div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
 							<a href="/news/iasc-associate/">Sai Gautam elected as an Associate in IASc</a>
 						</div>
 						<div class="smallhead">
@@ -366,65 +434,6 @@
 					</div>
 					<a class="pull-right" href="/news/imlb-unsw/">
 						<img width=350 class="media-object" src="/images/news/imlb-june-2022.png">
-					</a>
-				</div>
-				<div class="bigspacer"></div>
-				<div class="spacer"></div>
-			</div>
-			<div class="col-md-1"></div>
-		</div>
-	</div>
-	
-	<div class="blog-post">
-		<div class="row">
-			<div class="col-md-1"></div>
-			<div class="col-md-12">
-				<div class="media">
-					<div class="media-body">
-						<div class="title media-heading">
-							<a href="/news/wang-jmca/">Interface paper published in J. Mater. Chem. A</a>
-						</div>
-						<div class="smallhead">
-							8 Jun 2022
-						</div>
-						<div class="spacer"></div>
-						<div class="post">
-							<p>Juefan’s paper on understanding the stability and transport properties of interfaces formed via decomposition of common solid electrolytes against Li metal, was published today in <a href="https://doi.org/10.1039/D2TA02202H" target="_blank">Journal of Materials Chemistry A</a>. The study employed density functional theory calculations and ab initio molecular dynamics simulations and trained a machine learned interatomic potential (specifically, moment tensor potentials) to perform longer timescale simulations on larger interfacial models. Importantly, the study found certain decomposition products (e.g., Li<sub>2</sub>S) to be highly resistant to Li motion across the interface, while phases such as Li<sub>3</sub>P faciliate Li-transport. The work was led by Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> (National University of Singapore), in collaboration with Prof. Sai Gautam Gopalakrishnan.</p>
-
-
-						</div>
-					</div>
-					<a class="pull-right" href="/news/wang-jmca/">
-						<img width=350 class="media-object" src="/images/news/wang-jmca-news-2022.png">
-					</a>
-				</div>
-				<div class="bigspacer"></div>
-				<div class="spacer"></div>
-			</div>
-			<div class="col-md-1"></div>
-		</div>
-	</div>
-	
-	<div class="blog-post">
-		<div class="row">
-			<div class="col-md-1"></div>
-			<div class="col-md-12">
-				<div class="media">
-					<div class="media-body">
-						<div class="title media-heading">
-							<a href="/news/group-lunch-2022/">Board game tournament and group lunch</a>
-						</div>
-						<div class="smallhead">
-							28 May 2022
-						</div>
-						<div class="spacer"></div>
-						<div class="post">
-							<p>The group played its first board games tournament, involving “Pandemic” and “Settlers of Catan”. Adilakshmi became the winner of the tournament. The games were split across two days, a group lunch, and also a photoshoot. Hope that this will be the first of several board game contests to come in the near future.</p>
-
-						</div>
-					</div>
-					<a class="pull-right" href="/news/group-lunch-2022/">
-						<img width=350 class="media-object" src="/images/news/group-lunch-may-2022.png">
 					</a>
 				</div>
 				<div class="bigspacer"></div>
