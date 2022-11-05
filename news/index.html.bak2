@@ -139,6 +139,66 @@
 				<div class="media">
 					<div class="media-body">
 						<div class="title media-heading">
+							<a href="/news/iitb-talk/">Sai Gautam gives talk at IIT Bombay</a>
+						</div>
+						<div class="smallhead">
+							20 Oct 2022
+						</div>
+						<div class="spacer"></div>
+						<div class="post">
+							<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical talk at the <a href="https://www.chem.iitb.ac.in/" target="_blank">Department of Chemistry</a>, <a href="https://www.iitb.ac.in/" target="_blank">Indian Institute of Technology, Bombay</a> (IITB) on 20<sup>th</sup> October, 2022, from 4-5pm. The talk will be in the Seminar room of the Department of Chemistry and will be hosted by <a href="https://www.chem.iitb.ac.in/~srini/team.html" target="_blank">Dr. Srinivasan Ramakrishnan</a>. Sai Gautam will be presenting some of the latest battery research done by the group.</p>
+
+<p>Do join the talk if you will be around in the vicinity.</p>
+
+						</div>
+					</div>
+					<a class="pull-right" href="/news/iitb-talk/">
+						<img width=350 class="media-object" src="/images/news/iitb-talk-news-2022.png">
+					</a>
+				</div>
+				<div class="bigspacer"></div>
+				<div class="spacer"></div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/october-joinees-2022/">Hasna, Arnab, and Ankit join the group</a>
+						</div>
+						<div class="smallhead">
+							1 Oct 2022
+						</div>
+						<div class="spacer"></div>
+						<div class="post">
+							<p>October 2022 had three new Masters student entrants to the SAI MATerials group, including Hasna Sabreen (top left in picture), Arnab Pyne (top right), and Ankit Kumar Gupta (bottom). The group wishes all the new members a productive stay.</p>
+
+						</div>
+					</div>
+					<a class="pull-right" href="/news/october-joinees-2022/">
+						<img width=350 class="media-object" src="/images/news/october-joinees-news-2022.png">
+					</a>
+				</div>
+				<div class="bigspacer"></div>
+				<div class="spacer"></div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
 							<a href="/news/shell-talk/">Sai Gautam talks at the Shell.ai-JNCASR Scientific Conference</a>
 						</div>
 						<div class="smallhead">
@@ -371,69 +431,6 @@
 					</div>
 					<a class="pull-right" href="/news/reshma-iisc-news/">
 						<img width=350 class="media-object" src="/images/news/devi-npjcm-iisc-news-2022.jpeg">
-					</a>
-				</div>
-				<div class="bigspacer"></div>
-				<div class="spacer"></div>
-			</div>
-			<div class="col-md-1"></div>
-		</div>
-	</div>
-	
-	<div class="blog-post">
-		<div class="row">
-			<div class="col-md-1"></div>
-			<div class="col-md-12">
-				<div class="media">
-					<div class="media-body">
-						<div class="title media-heading">
-							<a href="/news/devi-npjcm/">Migration barrier paper published in npj Comput. Mater.</a>
-						</div>
-						<div class="smallhead">
-							22 Jul 2022
-						</div>
-						<div class="spacer"></div>
-						<div class="post">
-							<p>Reshma’s paper on benchmarking the computational predictions of migration barriers (which influence battery rate performance), against available experimental data, over a range of battery electrodes and solid electrolytes, was published today in <a href="https://doi.org/10.1038/s41524-022-00837-0" target="_blank">npj Computational Materials</a>. The study compares the migration barrier predictions with experiments using the strongly constrained and appropriately normed (SCAN), the generalized gradient approximation (GGA), and their Hubbard <i>U</i> corrected frameworks in six electrodes and three solid electrolytes. Importantly, the study found that SCAN gave better predictions of migration barriers overall, with higher computational costs and convergence difficulties, while GGA’s qualitative predictions were reliable. The work was led by Prof. Sai Gautam Gopalakrishnan, in collaboration with Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> of the National University of Singapore.</p>
-
-
-						</div>
-					</div>
-					<a class="pull-right" href="/news/devi-npjcm/">
-						<img width=350 class="media-object" src="/images/news/devi-npjcm-news-2022.png">
-					</a>
-				</div>
-				<div class="bigspacer"></div>
-				<div class="spacer"></div>
-			</div>
-			<div class="col-md-1"></div>
-		</div>
-	</div>
-	
-	<div class="blog-post">
-		<div class="row">
-			<div class="col-md-1"></div>
-			<div class="col-md-12">
-				<div class="media">
-					<div class="media-body">
-						<div class="title media-heading">
-							<a href="/news/imlb-unsw/">Sai Gautam presents poster at IMLB 2022 Meeting and gives a talk at UNSW</a>
-						</div>
-						<div class="smallhead">
-							26 Jun 2022
-						</div>
-						<div class="spacer"></div>
-						<div class="post">
-							<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical poster as part of the “<a href="https://imlb2022.org/" target="_blank">International Meeting on Lithium Batteries (IMLB)</a>,” 2022 meeting. The meeting takes place at the International convention center, Sydney, USA. He will present the just accepted research work on migration barriers in battery materials done by the group. The poster will be available physically at the conference from 26<sup>th</sup> June, 7.30am local time till 6pm local time on 30<sup>th</sup>. A digital copy of the poster is also made available <a href="https://sai-mat-group.github.io/pdfs/presentations/sai-migrationbarriers-imlb2022-poster.pdf" target="_blank">here</a>.</p>
-
-<p>Following the IMLB meeting, Sai Gautam will also be delivering a physical talk at the University of New South Wales, School of Chemical Engineering. He will be hosted by Dr. Dipan Kundu and the talk is scheduled at 10am local time on 1<sup>st</sup> July, at G02 (SEB/E8). The talk will present some of the recent research work done by the group on migration barriers and materials discovery on Ca-cathodes. The talk will also be live-streamed on the <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGI3MmFkNmUtM2VkYi00YTRlLTlkNGUtYTljNDczNmYxMTIx%40thread.v2/0?context=%7b%22Tid%22%3a%223ff6cfa4-e715-48db-b8e1-0867b9f9fba3%22%2c%22Oid%22%3a%226c6dd86a-dcc9-4c69-adfe-4694627c4fdb%22%7d" target="_blank">Microsoft Teams</a> platform.</p>
-
-<p>Do join the poster if you are around in the IMLB meeting and the talk also (either in person or virtually). The slides presented will be uploaded on the group website soon.</p>
-
-						</div>
-					</div>
-					<a class="pull-right" href="/news/imlb-unsw/">
-						<img width=350 class="media-object" src="/images/news/imlb-june-2022.png">
 					</a>
 				</div>
 				<div class="bigspacer"></div>
