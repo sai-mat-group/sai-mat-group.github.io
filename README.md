@@ -1,6 +1,6 @@
 # <b> Simulations And Informatics of MATerials Group</b><br>
 
-This is the repository containing the website of the research group of [Prof. Sai Gautam Gopalakrishnan](https://materials.iisc.ac.in/faculty-list/). 
+This is the repository containing the website of the research group of [Prof. Sai Gautam Gopalakrishnan](https://materials.iisc.ac.in/faculty-list). 
 
 ## Build site
 The website uses the framework of [GitHub Pages](https://pages.github.com) along with [Jekyll](https://jekyllrb.com) to render a collection of [Markdown](https://daringfireball.net/projects/markdown/syntax) files. While the HTML and CSS files are made available publicly here, please email [me](mailto:saigautamg@iisc.ac.in) for access to the full repository containing all the Jekyll build and Markdown files.
