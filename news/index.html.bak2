@@ -209,6 +209,35 @@
 				<div class="media">
 					<div class="media-body">
 						<div class="title media-heading">
+							<a href="/news/arpita-joins/">Arpita joins the group</a>
+						</div>
+						<div class="smallhead">
+							1 Nov 2022
+						</div>
+						<div class="spacer"></div>
+						<div class="post">
+							<p>Arpita Paul joins the group as a Department of Science and Technology (DST)-Inspire Faculty Fellow. Before joining Indian Institute of Science, Arpita had post-doctoral stints at the Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) and University of Minnesota. Arpita received her PhD from the Theoretical Sciences Unit of JNCASR. We wish Arpita a productive stay in the group and success in her future academic career.</p>
+
+						</div>
+					</div>
+					<a class="pull-right" href="/news/arpita-joins/">
+						<img width=350 class="media-object" src="/images/news/arpita-paul-news.jpeg">
+					</a>
+				</div>
+				<div class="bigspacer"></div>
+				<div class="spacer"></div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
 							<a href="/news/tsounis-angewchem/">MXene minireview published in Angew. Chem.</a>
 						</div>
 						<div class="smallhead">
@@ -411,36 +440,6 @@
 					</div>
 					<a class="pull-right" href="/news/deb-jmr/">
 						<img width=350 class="media-object" src="/images/news/deb-jmr-news-2022.png">
-					</a>
-				</div>
-				<div class="bigspacer"></div>
-				<div class="spacer"></div>
-			</div>
-			<div class="col-md-1"></div>
-		</div>
-	</div>
-	
-	<div class="blog-post">
-		<div class="row">
-			<div class="col-md-1"></div>
-			<div class="col-md-12">
-				<div class="media">
-					<div class="media-body">
-						<div class="title media-heading">
-							<a href="/news/zeng-paper-nc/">Kinetic Monte Carlo paper published in Nat. Commun.</a>
-						</div>
-						<div class="smallhead">
-							2 Aug 2022
-						</div>
-						<div class="spacer"></div>
-						<div class="post">
-							<p>Zeyu (Jerry) Deng’s paper on evaluating ionic transport in mixed polyanionic solid electrolyte systems using kinetic Monte Carlo was published today in <a href="https://doi.org/10.1038/s41467-022-32190-7" target="_blank">Nature Communications</a>. The study constructed a local cluster expansion model based on nudged elastic band calculations, and use kinetic Monte Carlo simulations to evaluate Na transport in Na<sub>1+x</sub>Zr<sub>2</sub>Si<sub>x</sub>P<sub>3-x</sub>O<sub>12</sub>-NaSICON solid electrolyte. Subsequent experimentals found that the highest Na conductivity is achieved around a composition of Na<sub>3.4</sub>Zr<sub>2</sub>Si<sub>2.4</sub>P<sub>0.6</sub>O<sub>12</sub> (0.165 S cm<sup>-1</sup> at 473 K), in line with theoretical predictions (0.170 S cm<sup>-1</sup> at 473 K for the same composition). The work was led by Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> (National University of Singapore), in collaboration with Profs. <a href="https://www.eng.nus.edu.sg/mse/staff/cheetham/" target="_blank">Anthony K. Cheetham</a> (National University of Singapore and University of California Santa Barbara) and <a href="https://www.christian-masquelier.fr" target="_blank">Christian Masquelier</a> (Laboratoire de Réactivité et Chimie des Solides Amiens), and Dr. Sai Gautam Gopalakrishnan.</p>
-
-
-						</div>
-					</div>
-					<a class="pull-right" href="/news/zeng-paper-nc/">
-						<img width=350 class="media-object" src="/images/news/deng-nc-news-2022.png">
 					</a>
 				</div>
 				<div class="bigspacer"></div>
