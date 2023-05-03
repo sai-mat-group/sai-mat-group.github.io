@@ -155,6 +155,64 @@
     <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
+				<a href="/pdfs/presentations/tekliye-canasicon-fomad2023-talk.pdf" class="off">Exploration of NaSICON frameworks as calcium-ion battery cathodes</a>
+			</div>
+			<div class="smallspacer"></div>
+      
+			<div class="note">
+				Functional Oxide Materials and Devices (FOMAD) workshop at Silent Valley Resort, Kalasa, Karnataka, India
+			</div>
+      
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				Talk on 29 Apr 2023
+				by <a class="off" href="/team/dereje-bekele/">Dereje Bekele Tekliye</a>
+			</div>
+      
+			<div class="bigspacer"></div>
+			<div class="spacer"></div>
+        </div>
+    
+
+
+
+
+
+
+	
+
+    
+		<div class="col-lg-4 talkbox">
+			<div class="smallhead">
+				<a href="/pdfs/presentations/choyal-mlip-fomad2023-poster.pdf" class="off">Developing machine-learned interatomic potentials for Li-based disordered rocksalts</a>
+			</div>
+			<div class="smallspacer"></div>
+      
+			<div class="note">
+				Functional Oxide Materials and Devices (FOMAD) workshop at Silent Valley Resort, Kalasa, Karnataka, India
+			</div>
+      
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				Poster on 28 Apr 2023
+				by <a class="off" href="/team/vijay-choyal/">Vijay Choyal</a>
+			</div>
+      
+			<div class="bigspacer"></div>
+			<div class="spacer"></div>
+        </div>
+    
+
+
+
+
+
+
+	
+
+    
+		<div class="col-lg-4 talkbox">
+			<div class="smallhead">
 				<a href="/pdfs/presentations/deb-NaReview-symposium2023-talk.pdf" class="off">Critical overview of polyanionic frameworks as positive electrodes for Na-ion batteries</a>
 			</div>
 			<div class="smallspacer"></div>
@@ -172,7 +230,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -181,7 +239,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-winterschool-JNCASR2022-talk.pdf" class="off">Using computations and machine learning in designing materials for energy storage</a>
@@ -230,7 +288,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -239,7 +297,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-cloudcomputing-sswr2022-talk.pdf" class="off">Using the cloud for high performance computing&colon; my perspective</a>
@@ -259,7 +317,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -268,7 +326,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-migrationbarriers-imlb2022-poster.pdf" class="off">Role of exchange-correlation functionals on migration barrier predictions in battery materials</a>
@@ -317,7 +375,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -326,7 +384,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/reshma-migrationbarriers-icts2022-talk.pdf" class="off">Effect of Exchange-Correlation Functionals on the Estimation of Migration Barriers in Battery Materials</a>
@@ -349,7 +407,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -358,7 +416,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-batteries-mrsi2021-talk.pdf" class="off">Screening chemical spaces for positive electrodes in beyond-Li-ion batteries using computational techniques</a>
@@ -407,7 +465,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -416,7 +474,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-ma2021-nitt-talk.pdf" class="off">Theory-guided materials design for energy applications</a>
@@ -436,7 +494,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -445,7 +503,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-stch-mrsspring2021-talk.pdf" class="off">First principles screening of Ca-Ce-M-O (M = 3<i>d</i> transition metal) oxide perovskites for solar thermochemical applications</a>
@@ -494,7 +552,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -503,7 +561,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-stch-acsspring2019-talk.pdf" class="off">Estimating off-stoichiometry using density functional theory based calculations and the sub-lattice formalism</a>
@@ -523,7 +581,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -532,7 +590,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-czts-mrsfall2018-talk.pdf" class="off">Role of functional defects in Cu<sub>2</sub>ZnSnS<sub>4</sub> solar cells</a>
@@ -581,7 +639,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -590,7 +648,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-czts-imrc2018-talk.pdf" class="off">Effects of Cd and Ag doping in Cu<sub>2</sub>ZnSnS<sub>4</sub> solar cells</a>
@@ -610,7 +668,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -619,7 +677,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-conversion-ecsfall2017-talk.pdf" class="off">On the balance of intercalation and conversion reactions in battery cathodes</a>
@@ -668,7 +726,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -677,7 +735,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-ECSPrime2016-talk.pdf" class="off">Solvent co-intercalation and mobility bottlenecks in Mg-intercalation cathodes</a>
@@ -697,7 +755,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -706,7 +764,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-tacc2016-talk.pdf" class="off">Exploration of the multivalent chemical space for higher energy density batteries</a>
@@ -755,7 +813,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -764,7 +822,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-v2o5-grsbatteries2016-talk.pdf" class="off">First-principles study of V<sub>2</sub>O<sub>5</sub> polymorphs as Mg (and multi-valent) cathode materials</a>
@@ -784,7 +842,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -793,7 +851,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-v2o5-mrsspring2015-talk.pdf" class="off">Intercalation phase diagram of Mg in V<sub>2</sub>O<sub>5</sub> from first principles</a>
