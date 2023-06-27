@@ -155,6 +155,122 @@
     <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
+				<a href="/pdfs/presentations/reshma-migrationbarriers-icmat2023-talk.pdf" class="off">The effect of the exchange-correlation functionals on migration barrier estimation in battery materials</a>
+			</div>
+			<div class="smallspacer"></div>
+      
+			<div class="note">
+				11<sup>th</sup> International Conference on Materials for Advanced Technologies at Suntec Singapore Convention and Exhibition Centre, Singapore
+			</div>
+      
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				Talk on 29 Jun 2023
+				by <a class="off" href="/team/reshma-devi/">Reshma Devi Parthasarathy</a>
+			</div>
+      
+			<div class="bigspacer"></div>
+			<div class="spacer"></div>
+        </div>
+    
+
+
+
+
+
+
+	
+
+    
+		<div class="col-lg-4 talkbox">
+			<div class="smallhead">
+				<a href="/pdfs/presentations/choyal-mlip-icmat2023-talk.pdf" class="off">Constructing and evaluating machine-learned interatomic potentials for Li-based disordered rocksalts</a>
+			</div>
+			<div class="smallspacer"></div>
+      
+			<div class="note">
+				11<sup>th</sup> International Conference on Materials for Advanced Technologies at Suntec Singapore Convention and Exhibition Centre, Singapore
+			</div>
+      
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				Poster on 29 Jun 2023
+				by <a class="off" href="/team/vijay-choyal/">Vijay Choyal</a>
+			</div>
+      
+			<div class="bigspacer"></div>
+			<div class="spacer"></div>
+        </div>
+    
+
+
+
+
+
+
+	
+
+    
+		<div class="col-lg-4 talkbox">
+			<div class="smallhead">
+				<a href="/pdfs/presentations/tekliye-canasicon-icmat2023-talk.pdf" class="off">Exploration of NaSICON frameworks as calcium-ion battery cathodes</a>
+			</div>
+			<div class="smallspacer"></div>
+      
+			<div class="note">
+				11<sup>th</sup> International Conference on Materials for Advanced Technologies at Suntec Singapore Convention and Exhibition Centre, Singapore
+			</div>
+      
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				Talk on 28 Jun 2023
+				by <a class="off" href="/team/dereje-bekele/">Dereje Bekele Tekliye</a>
+			</div>
+      
+			<div class="bigspacer"></div>
+			<div class="spacer"></div>
+        </div>
+    </div>
+
+
+
+
+
+
+	
+
+    <div class="row">
+		<div class="col-lg-4 talkbox">
+			<div class="smallhead">
+				<a href="/pdfs/presentations/sai-p3-icmat2023-talk.pdf" class="off">Evaluation of layered oxide frameworks as K-ion cathodes</a>
+			</div>
+			<div class="smallspacer"></div>
+      
+			<div class="note">
+				11<sup>th</sup> International Conference on Materials for Advanced Technologies at Suntec Singapore Convention and Exhibition Centre, Singapore
+			</div>
+      
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				Talk on 28 Jun 2023
+				by <a class="off" href="/team/sai-gautam/">Sai Gautam Gopalakrishnan</a>
+			</div>
+      
+			<div class="bigspacer"></div>
+			<div class="spacer"></div>
+        </div>
+    
+
+
+
+
+
+
+	
+
+    
+		<div class="col-lg-4 talkbox">
+			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-CaNaSICON_MLIP-Germany-2023-talks.pdf" class="off">Materials discovery for energy storage using computations and machine learning</a>
 			</div>
 			<div class="smallspacer"></div>
@@ -201,7 +317,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -210,7 +326,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/choyal-mlip-fomad2023-poster.pdf" class="off">Developing machine-learned interatomic potentials for Li-based disordered rocksalts</a>
@@ -230,7 +346,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -239,7 +355,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/deb-NaReview-symposium2023-talk.pdf" class="off">Critical overview of polyanionic frameworks as positive electrodes for Na-ion batteries</a>
@@ -288,7 +404,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -297,7 +413,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-migrationbarriers-ICEE2022-talk.pdf" class="off">Role of exchange-correlation functionals in migration barrier predictions</a>
@@ -317,7 +433,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -326,7 +442,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-cloudcomputing-sswr2022-talk.pdf" class="off">Using the cloud for high performance computing&colon; my perspective</a>
@@ -375,7 +491,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -384,7 +500,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-cacathodes-mrsspring2022-talk.pdf" class="off">Computational Screening of Positive Electrode Materials for Ca-ion Batteries</a>
@@ -404,7 +520,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -413,7 +529,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/reshma-migrationbarriers-icts2022-talk.pdf" class="off">Effect of Exchange-Correlation Functionals on the Estimation of Migration Barriers in Battery Materials</a>
@@ -465,7 +581,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -474,7 +590,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-cms-mrsi2021-talk.pdf" class="off">Materials discovery for solar thermochemical water splitting applications using computational techniques</a>
@@ -494,7 +610,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -503,7 +619,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-ma2021-nitt-talk.pdf" class="off">Theory-guided materials design for energy applications</a>
@@ -552,7 +668,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -561,7 +677,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-pratidhwani2020-iitd-talk.pdf" class="off">Discovering oxide perovskites with simultaneous cation redox-activity using first-principles for solar thermochemical applications</a>
@@ -581,7 +697,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -590,7 +706,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-stch-acsspring2019-talk.pdf" class="off">Estimating off-stoichiometry using density functional theory based calculations and the sub-lattice formalism</a>
@@ -639,7 +755,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -648,7 +764,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-scan-mrsfall2018-poster.pdf" class="off">Need for a SCAN+<i>U</i> framework to describe the oxidation energetics of transition metal oxides</a>
@@ -668,7 +784,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -677,7 +793,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-czts-imrc2018-talk.pdf" class="off">Effects of Cd and Ag doping in Cu<sub>2</sub>ZnSnS<sub>4</sub> solar cells</a>
@@ -726,7 +842,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -735,7 +851,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-phdthesis-defense-2017.pdf" class="off">Thermodynamics and kinetics of Mg intercalation for multivalent cathode applications</a>
@@ -755,7 +871,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -764,7 +880,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-ECSPrime2016-talk.pdf" class="off">Solvent co-intercalation and mobility bottlenecks in Mg-intercalation cathodes</a>
@@ -813,7 +929,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
 
@@ -822,7 +938,7 @@
 
 	
 
-    
+    <div class="row">
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-v2o5-grcbatteries2016-poster.pdf" class="off">First-principles study of V<sub>2</sub>O<sub>5</sub> polymorphs as Mg (and multi-valent) cathode materials</a>
@@ -842,7 +958,7 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    </div>
+    
 
 
 
@@ -851,7 +967,7 @@
 
 	
 
-    <div class="row">
+    
 		<div class="col-lg-4 talkbox">
 			<div class="smallhead">
 				<a href="/pdfs/presentations/sai-v2o5-grsbatteries2016-talk.pdf" class="off">First-principles study of V<sub>2</sub>O<sub>5</sub> polymorphs as Mg (and multi-valent) cathode materials</a>
@@ -900,10 +1016,10 @@
 			<div class="bigspacer"></div>
 			<div class="spacer"></div>
         </div>
-    
+    </div>
 
 
-</div>
+
 
 
 	</div>
