@@ -645,10 +645,6 @@
 <lastmod>2022-12-28T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>http://sai-mat-group.github.io/papers/swathilakshmi-arxiv/</loc>
-<lastmod>2023-01-02T00:00:00+08:00</lastmod>
-</url>
-<url>
 <loc>http://sai-mat-group.github.io/team/anirudh-natarajan/</loc>
 <lastmod>2023-01-02T00:00:00+08:00</lastmod>
 </url>
@@ -723,6 +719,10 @@
 <url>
 <loc>http://sai-mat-group.github.io/presentations/sai-Germany-talks/</loc>
 <lastmod>2023-05-25T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://sai-mat-group.github.io/papers/swathilakshmi-jctc/</loc>
+<lastmod>2023-06-17T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/presentations/sai-icmat2023-talk/</loc>
@@ -1125,8 +1125,8 @@
 <lastmod>2021-04-02T13:50:28+08:00</lastmod>
 </url>
 <url>
-<loc>http://sai-mat-group.github.io/pdfs/papers/swathilakshmi-arxiv-2023.pdf</loc>
-<lastmod>2023-01-24T18:55:39+08:00</lastmod>
+<loc>http://sai-mat-group.github.io/pdfs/papers/swathilakshmi-jctc-2023.pdf</loc>
+<lastmod>2023-06-27T17:33:19+08:00</lastmod>
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/pdfs/papers/tekliye-cm-2022-si.pdf</loc>
@@ -1166,7 +1166,7 @@
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/pdfs/papers/wexler-ees-2023.pdf</loc>
-<lastmod>2023-05-04T03:22:15+08:00</lastmod>
+<lastmod>2023-06-27T17:39:38+08:00</lastmod>
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/pdfs/papers/wexler-jacs-2021-si.pdf</loc>
