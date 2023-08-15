@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+	<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Kinetic Monte Carlo simulations of sodium ion transport in NaSICON electrodes | Simulations and Informatics of Materials Group</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Kinetic Monte Carlo simulations of sodium ion transport in NaSICON electrodes" />
+<meta name="author" content="Sai Gautam Gopalakrishnan" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Abstract" />
+<meta property="og:description" content="Abstract" />
+<link rel="canonical" href="http://sai-mat-group.github.io/papers/wang-acsmaterlett/" />
+<meta property="og:url" content="http://sai-mat-group.github.io/papers/wang-acsmaterlett/" />
+<meta property="og:site_name" content="Simulations and Informatics of Materials Group" />
+<meta property="og:image" content="http://sai-mat-group.github.io/images/papers/wang-acsmaterlett-2023.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-08-14T00:00:00+05:30" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="http://sai-mat-group.github.io/images/papers/wang-acsmaterlett-2023.png" />
+<meta property="twitter:title" content="Kinetic Monte Carlo simulations of sodium ion transport in NaSICON electrodes" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sai Gautam Gopalakrishnan"},"dateModified":"2023-08-14T00:00:00+05:30","datePublished":"2023-08-14T00:00:00+05:30","description":"Abstract","headline":"Kinetic Monte Carlo simulations of sodium ion transport in NaSICON electrodes","image":"http://sai-mat-group.github.io/images/papers/wang-acsmaterlett-2023.png","mainEntityOfPage":{"@type":"WebPage","@id":"http://sai-mat-group.github.io/papers/wang-acsmaterlett/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://sai-mat-group.github.io/images/logo.png"},"name":"Sai Gautam Gopalakrishnan"},"url":"http://sai-mat-group.github.io/papers/wang-acsmaterlett/"}</script>
+<!-- End Jekyll SEO tag -->
+
+<head>
+	<meta charset="utf-8"/>
+	<title>Kinetic Monte Carlo simulations of sodium ion transport in NaSICON electrodes</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<meta name="google-site-verification" content="zEGG9gOi40Xq8GSeRtDEq17a6MV4LyM44AAc8mE7YxA" />
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZRNS1MC6F"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+	
+  	gtag('config', 'G-9ZRNS1MC6F');
+	</script>
+
+	<!-- Global site tag (gtag.js) - Old Google Analytics -->
+	<!--script async src="https://www.googletagmanager.com/gtag/js?id=UA-176100633-1"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+
+  	gtag('config', 'UA-176100633-1');
+	</script-->
+
+	<!-- Google Analytics -->
+	<!--script>
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-176100633-1', 'auto');
+	ga('send', 'pageview');
+	</script>
+	<script async src='https://www.google-analytics.com/analytics.js'></script-->
+	<!-- End Old Google Analytics -->
+
+	
+	<!-- RSS feed -->
+	<link rel="alternate" type="application/rss+xml" title="Simulations and Informatics of Materials Group" href="http://sai-mat-group.github.io/feed.xml">
+	
+    <!-- Customized Bootstrap + Font Awesome + Solarized -->
+    <link href="/css/style.css" rel="stylesheet" media="screen">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="/images/favicon.png"/>	
+
+	<!-- Ideal image slider -->
+	<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+
+
+	<!-- Typekit -->
+	<script>
+	  //(function(d) {
+		//var config = {
+		  //kitId: 'xeu8jut',
+		  //scriptTimeout: 3000
+		//},
+		//h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+	  //})(document);
+	</script>
+			
+	<!-- jQuery -->
+	<script src="/js/jquery.min.js"></script>
+
+	<!-- Bootstrap -->
+	<script src="/js/bootstrap.min.js"></script>
+	<!--script src="/js/transition.js"></script>
+	<script src="/js/collapse.js"></script-->
+
+</head>
+
+<body>
+
+	<div id="header">
+		<nav class="navbar navbar-expand-md navbar">	 
+			<div class="container">
+				<a class="navbar-brand" href="/">
+				<img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="/images/logo.svg">
+					SAI MATerials Group</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNav">
+					<ul class="navbar-nav nav-pills ml-auto">
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/research/">Research</a>
+						</li>
+						
+						<li class="nav-link active">
+						
+						<a class="mx-1" href="/papers/">Publications</a>
+						</li>
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/presentations/">Presentations</a>
+						</li>
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/team/">Team</a></li>	  
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/join-us/">Join Us</a>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</div>
+
+	<div class="container mt-4">
+
+	<div class="row">
+	<div class="col-md-12">
+		<div class="media">
+			<div class="col-md-3">
+			
+			<img class="pull-left pad-right media-object" src="/images/papers/wang-acsmaterlett-2023.png">
+			
+			</div>
+			<div class="col-md-9">
+			<div class="media-body titlebox">
+				<div class="paper-title media-heading">
+					Kinetic Monte Carlo simulations of sodium ion transport in NaSICON electrodes
+				</div>
+				<p>
+				<div class="smallhead">
+					Z. Wang, T. P. Mishra, W. Xie, Z. Deng, <b>G. Sai Gautam</b>, A. K. Cheetham, and P. Canepa;
+					ACS Mater. Lett. 5, 2499-2507 (2023)
+				</div>
+			</div>
+			</div>
+			<!---<div class="col-md-8">
+				<div class="post">
+					<h1 id="abstract">Abstract</h1>
+
+<p>The development of high-performance sodium (Na) ion batteries requires improved electrode materials. The energy and power densities of Na superionic conductor (NaSICON) electrode materials are promising for large-scale energy storage applications. However, several practical issues limit the full utilization of the theoretical energy densities of the NaSICON electrodes. A pressing challenge lies in the limited sodium extraction in low Na content NaSICONs, e.g., Na<sub>1</sub>V<sup>IV</sup>V<sup>IV</sup>(PO<sub>4</sub>)<sub>3</sub> ↔ V<sup>V</sup>V<sup>IV</sup>(PO<sub>4</sub>)<sub>3</sub> + e<sup>–</sup> + Na<sup>+</sup>. Therefore, it is important to quantify the Na-ion mobility in a broad range of NaSICON electrodes. Using a kinetic Monte Carlo approach bearing the accuracy of first-principles calculations, we elucidate the variability of Na-ion transport vs Na content in three important NaSICON electrode materials, Na<sub>x</sub>Ti<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>, Na<sub>x</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>, and Na<sub>x</sub>Cr<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>. We show Na<sup>+</sup> transport in NaSICON electrode materials is almost entirely determined by the local electrostatic and chemical environment set by the transition metals and the polyanionic scaffold. The competition with the ordering-disordering phenomena of Na vacancies also plays a role in influencing Na transport. We identify the Na content providing the highest room-temperature diffusivities in these electrodes, i.e., Na<sub>2.7</sub>Ti<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>, Na<sub>2.9</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>, and Na<sub>2.6</sub>Cr<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>. We link the variations in the Na<sup>+</sup> kinetic properties by analyzing the competition of ligand field stabilization transition metal ions and their ionic radii. We interpret the limited Na extraction at x = 1 observed experimentally by gaining insights into the local Na vacancy interplay. Targeted chemical substitutions of transition metals disrupting local charge arrangements will be critical to reducing the occurrence of strong Na<sup>+</sup>-vacancy orderings at low Na concentrations, thus expanding the accessible capacities of these electrode materials.</p>
+
+				</div>
+			</div>-->
+		</div>	
+	</div>
+</div>
+
+<div class="bigspacer"></div>
+
+<div class="row">
+	<div class="col-md-3">
+		<div class="bigspacer"></div>
+		<div class="glyphbox note">
+			
+			<div class="smallhead">
+				PDF
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-file-text-o fa-fw"></i>
+				<a class="off" href="/pdfs/papers/wang-acsmaterlett-2023.pdf">wang-acsmaterlett-2023.pdf</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+			<div class="smallhead">
+				Supporting Information
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-paperclip fa-fw"></i>
+				<a class="off" href="/pdfs/papers/wang-acsmaterlett-2023-si.pdf">wang-acsmaterlett-2023-si.pdf</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+			<div class="smallhead">
+				DOI
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="ai ai-doi"></i>
+				<a class="off" href="https://doi.org/10.1021/acsmaterialslett.3c00610">10.1021/acsmaterialslett.3c00610</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+			
+			<div class="smallhead">
+				arXiv
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-file-archive-o fa-fw"></i>
+				<a class="off" href="https://arxiv.org/abs/2308.04772">2308.04772</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+		</div>
+	</div>
+	<div class="col-md-8">
+		<div class="post">
+			<h1 id="abstract">Abstract</h1>
+
+<p>The development of high-performance sodium (Na) ion batteries requires improved electrode materials. The energy and power densities of Na superionic conductor (NaSICON) electrode materials are promising for large-scale energy storage applications. However, several practical issues limit the full utilization of the theoretical energy densities of the NaSICON electrodes. A pressing challenge lies in the limited sodium extraction in low Na content NaSICONs, e.g., Na<sub>1</sub>V<sup>IV</sup>V<sup>IV</sup>(PO<sub>4</sub>)<sub>3</sub> ↔ V<sup>V</sup>V<sup>IV</sup>(PO<sub>4</sub>)<sub>3</sub> + e<sup>–</sup> + Na<sup>+</sup>. Therefore, it is important to quantify the Na-ion mobility in a broad range of NaSICON electrodes. Using a kinetic Monte Carlo approach bearing the accuracy of first-principles calculations, we elucidate the variability of Na-ion transport vs Na content in three important NaSICON electrode materials, Na<sub>x</sub>Ti<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>, Na<sub>x</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>, and Na<sub>x</sub>Cr<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>. We show Na<sup>+</sup> transport in NaSICON electrode materials is almost entirely determined by the local electrostatic and chemical environment set by the transition metals and the polyanionic scaffold. The competition with the ordering-disordering phenomena of Na vacancies also plays a role in influencing Na transport. We identify the Na content providing the highest room-temperature diffusivities in these electrodes, i.e., Na<sub>2.7</sub>Ti<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>, Na<sub>2.9</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>, and Na<sub>2.6</sub>Cr<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>. We link the variations in the Na<sup>+</sup> kinetic properties by analyzing the competition of ligand field stabilization transition metal ions and their ionic radii. We interpret the limited Na extraction at x = 1 observed experimentally by gaining insights into the local Na vacancy interplay. Targeted chemical substitutions of transition metals disrupting local charge arrangements will be critical to reducing the occurrence of strong Na<sup>+</sup>-vacancy orderings at low Na concentrations, thus expanding the accessible capacities of these electrode materials.</p>
+
+		</div>
+	</div>
+	<div class="col-md-1"></div>
+</div>
+
+
+
+	</div>
+
+	<div class="spacer"></div>
+
+	<div class="container mt-4">
+		<div class="row">
+			<div class="col-lg-12 reduced gutter">
+				<div class="pad-left">
+					<ul class="list-inline">
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/news">Group News</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/misc/funders/">Funders</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/misc/contact/">Contact</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" target="_blank" rel="noopener noreferrer" href="https://materials.iisc.ac.in">Materials Engineering</a>
+						</li>
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" target="_blank" rel="noopener noreferrer" href="https://iisc.ac.in">IISc</a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://twitter.com/goths19" target="_blank" rel="noopener noreferrer">
+							<i class="fa fa-twitter"></i></a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://github.com/sai-mat-group" target="_blank" rel="noopener noreferrer">
+							<i class="fa fa-github"></i></a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://scholar.google.com/citations?user=XGqBCZAAAAAJ&hl=en" target="_blank" rel="noopner noreferrer">
+							<i class="ai ai-google-scholar"></i></a>
+						</li>
+					</ul>
+					<hr>
+					<p class="colophon">&copy; <script>document.write( new Date().getFullYear() );</script> Sai Gautam Gopalakrishnan - Powered by <a class="off-note" href="https://jekyllrb.com" target="_blank" rel="noopener noreferrer">Jekyll</a> and adapted from <a class="off-note" href="https://bedford.io" target=+_blank" rel="noopener noreferrer">bedford.io</a>, with inputs from <a class="off-note" href="https://caneparesearch.org" target="_blank" rel="noopener noreferrer">PC</a>.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+</body>
+</html>
+
