@@ -8,17 +8,17 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Abstract" />
 <meta property="og:description" content="Abstract" />
-<link rel="canonical" href="http://sai-mat-group.github.io/papers/devi-arxiv-2024/" />
-<meta property="og:url" content="http://sai-mat-group.github.io/papers/devi-arxiv-2024/" />
+<link rel="canonical" href="http://sai-mat-group.github.io/papers/devi-npjcm-2024/" />
+<meta property="og:url" content="http://sai-mat-group.github.io/papers/devi-npjcm-2024/" />
 <meta property="og:site_name" content="Simulations and Informatics of Materials Group" />
-<meta property="og:image" content="http://sai-mat-group.github.io/images/papers/devi-arxiv-2024.png" />
+<meta property="og:image" content="http://sai-mat-group.github.io/images/papers/devi-npjcm-2024.png" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2024-06-21T00:00:00+10:00" />
+<meta property="article:published_time" content="2024-12-20T00:00:00+11:00" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://sai-mat-group.github.io/images/papers/devi-arxiv-2024.png" />
+<meta property="twitter:image" content="http://sai-mat-group.github.io/images/papers/devi-npjcm-2024.png" />
 <meta property="twitter:title" content="Optimal pre-train/fine-tune strategies for accurate material property predictions" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sai Gautam Gopalakrishnan"},"dateModified":"2024-06-21T00:00:00+10:00","datePublished":"2024-06-21T00:00:00+10:00","description":"Abstract","headline":"Optimal pre-train/fine-tune strategies for accurate material property predictions","image":"http://sai-mat-group.github.io/images/papers/devi-arxiv-2024.png","mainEntityOfPage":{"@type":"WebPage","@id":"http://sai-mat-group.github.io/papers/devi-arxiv-2024/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://sai-mat-group.github.io/images/logo.png"},"name":"Sai Gautam Gopalakrishnan"},"url":"http://sai-mat-group.github.io/papers/devi-arxiv-2024/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sai Gautam Gopalakrishnan"},"dateModified":"2024-12-20T00:00:00+11:00","datePublished":"2024-12-20T00:00:00+11:00","description":"Abstract","headline":"Optimal pre-train/fine-tune strategies for accurate material property predictions","image":"http://sai-mat-group.github.io/images/papers/devi-npjcm-2024.png","mainEntityOfPage":{"@type":"WebPage","@id":"http://sai-mat-group.github.io/papers/devi-npjcm-2024/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://sai-mat-group.github.io/images/logo.png"},"name":"Sai Gautam Gopalakrishnan"},"url":"http://sai-mat-group.github.io/papers/devi-npjcm-2024/"}</script>
 <!-- End Jekyll SEO tag -->
 
 <head>
@@ -143,7 +143,7 @@
 		<div class="media">
 			<div class="col-md-3">
 			
-			<img class="pull-left pad-right media-object" src="/images/papers/devi-arxiv-2024.png">
+			<img class="pull-left pad-right media-object" src="/images/papers/devi-npjcm-2024.png">
 			
 			</div>
 			<div class="col-md-9">
@@ -154,7 +154,7 @@
 				<p>
 				<div class="smallhead">
 					R. Devi, K. T. Butler, and <b>G. Sai Gautam</b>;
-					arXiv: 2406.13142 (2024)
+					npj Comput. Mater. 10, 300 (2024)
 				</div>
 			</div>
 			</div>
@@ -162,7 +162,7 @@
 				<div class="post">
 					<h1 id="abstract">Abstract</h1>
 
-<p>Overcoming the challenge of limited data availability within materials science is crucial for the broad-based applicability of machine learning within materials science. One pathway to overcome this limited data availability is to use the framework of transfer learning (TL), where a pre-trained (PT) machine learning model (on a larger dataset) can be fine-tuned (FT) on a target (typically smaller) dataset. Our study systematically explores the effectiveness of various PT/FT strategies to learn and predict material properties with limited data. Specifically, we leverage graph neural networks (GNNs) to PT/FT on seven diverse curated materials datasets, encompassing sizes ranging from 941 to 132,752 datapoints. We consider datasets that cover a spectrum of material properties, ranging from band gaps (electronic) to formation energies (thermodynamic) and shear moduli (mechanical). We study the influence of PT and FT dataset sizes, strategies that can be employed for FT, and other hyperparameters on pair-wise TL among the datasets considered. We find our pair-wise PT-FT models to consistently outperform models trained from scratch on the target datasets. Importantly, we develop a GNN framework that is simultaneously PT on multiple properties (MPT), enabling the construction of generalized GNN models. Our MPT models outperform pair-wise PT-FT models on several datasets considered, and more significantly, on a 2D material band gap dataset that is completely out-of-distribution from the PT datasets. Finally, we expect our PT/FT and MPT frameworks to be generalizable to other GNNs and materials properties, which can accelerate materials design and discovery for various applications.</p>
+<p>A pathway to overcome limited data availability in materials science is to use the framework of transfer learning, where a pre-trained (PT) machine learning model (on a larger dataset) can be fine-tuned (FT) on a target (smaller) dataset. We systematically explore the effectiveness of various PT/FT strategies to learn and predict material properties and create generalizable models by PT on multiple properties (MPT) simultaneously. Specifically, we leverage graph neural networks (GNNs) to PT/FT on seven diverse curated materials datasets, with sizes ranging from 941 to 132,752. Besides identifying optimal PT/FT strategies and hyperparameters, we find our pair-wise PT-FT models to consistently outperform models trained from scratch on target datasets. Importantly, our MPT models outperform pair-wise models on several datasets and, more significantly, on a 2D material band gap dataset that is completely out-of-domain. Finally, we expect our PT/FT and MPT frameworks to accelerate materials design and discovery for various applications.</p>
 
 				</div>
 			</div>-->
@@ -183,11 +183,31 @@
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
 				<i class="fa fa-file-text-o fa-fw"></i>
-				<a class="off" href="/pdfs/papers/devi-arxiv-2024.pdf">devi-arxiv-2024.pdf</a>
+				<a class="off" href="/pdfs/papers/devi-npjcm-2024.pdf">devi-npjcm-2024.pdf</a>
 			</div>
 			<div class="bigspacer"></div>
 			
 			
+			<div class="smallhead">
+				Supporting Information
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-paperclip fa-fw"></i>
+				<a class="off" href="/pdfs/papers/devi-npjcm-2024-si.pdf">devi-npjcm-2024-si.pdf</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+			<div class="smallhead">
+				DOI
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="ai ai-doi"></i>
+				<a class="off" href="https://doi.org/10.1038/s41524-024-01486-1">10.1038/s41524-024-01486-1</a>
+			</div>
+			<div class="bigspacer"></div>
 			
 			
 			<div class="smallhead">
@@ -218,7 +238,7 @@
 		<div class="post">
 			<h1 id="abstract">Abstract</h1>
 
-<p>Overcoming the challenge of limited data availability within materials science is crucial for the broad-based applicability of machine learning within materials science. One pathway to overcome this limited data availability is to use the framework of transfer learning (TL), where a pre-trained (PT) machine learning model (on a larger dataset) can be fine-tuned (FT) on a target (typically smaller) dataset. Our study systematically explores the effectiveness of various PT/FT strategies to learn and predict material properties with limited data. Specifically, we leverage graph neural networks (GNNs) to PT/FT on seven diverse curated materials datasets, encompassing sizes ranging from 941 to 132,752 datapoints. We consider datasets that cover a spectrum of material properties, ranging from band gaps (electronic) to formation energies (thermodynamic) and shear moduli (mechanical). We study the influence of PT and FT dataset sizes, strategies that can be employed for FT, and other hyperparameters on pair-wise TL among the datasets considered. We find our pair-wise PT-FT models to consistently outperform models trained from scratch on the target datasets. Importantly, we develop a GNN framework that is simultaneously PT on multiple properties (MPT), enabling the construction of generalized GNN models. Our MPT models outperform pair-wise PT-FT models on several datasets considered, and more significantly, on a 2D material band gap dataset that is completely out-of-distribution from the PT datasets. Finally, we expect our PT/FT and MPT frameworks to be generalizable to other GNNs and materials properties, which can accelerate materials design and discovery for various applications.</p>
+<p>A pathway to overcome limited data availability in materials science is to use the framework of transfer learning, where a pre-trained (PT) machine learning model (on a larger dataset) can be fine-tuned (FT) on a target (smaller) dataset. We systematically explore the effectiveness of various PT/FT strategies to learn and predict material properties and create generalizable models by PT on multiple properties (MPT) simultaneously. Specifically, we leverage graph neural networks (GNNs) to PT/FT on seven diverse curated materials datasets, with sizes ranging from 941 to 132,752. Besides identifying optimal PT/FT strategies and hyperparameters, we find our pair-wise PT-FT models to consistently outperform models trained from scratch on target datasets. Importantly, our MPT models outperform pair-wise models on several datasets and, more significantly, on a 2D material band gap dataset that is completely out-of-domain. Finally, we expect our PT/FT and MPT frameworks to accelerate materials design and discovery for various applications.</p>
 
 		</div>
 	</div>
