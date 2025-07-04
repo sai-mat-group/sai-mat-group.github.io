@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+	<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Real-space methods for ab initio modelling of surfaces and interfaces under external potential bias | Simulations and Informatics of Materials Group</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Real-space methods for ab initio modelling of surfaces and interfaces under external potential bias" />
+<meta name="author" content="Sai Gautam Gopalakrishnan" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Abstract Accurate ab initio modeling of surfaces and interfaces, especially under an applied external potential bias, is important for describing and characterizing various phenomena that occur in electronic, catalytic, and energy storage devices. Leveraging the ability of real-space density functional theory (DFT) codes to accommodate generic boundary conditions, we introduce two methods for applying an external potential bias that can be suitable for modeling surfaces and interfaces. In the first method, an external constant electric field is applied by modifying the DFT Hamiltonian via the introduction of an auxiliary linear potential while solving the electrostatic potential arising in DFT using a Poisson equation with zero-Neumann boundary conditions. The second method directly enforces the desired external potential bias by imposing constraints on the electrostatic potential, thereby naturally mimicking experimental conditions. We describe the underlying DFT governing equations for the two setups within the real-space formalism employing finite-element discretization. First, we validate the constant electric field setup within real-space finite-element DFT (DFT-FE) with an equivalent approach using plane-wave DFT (i.e., using periodic boundary conditions) on three representative benchmark systems, namely, La-terminated Li7La3Zr2O12, GaAs (111), and Al FCC (111) slabs. Subsequently, we present a comprehensive evaluation of the two setups in terms of the average ground-state properties, such as surface and adsorption energies. Also, we present an approach to constrain the electrostatic potential over a localised region, which is non-trivial to implement in periodic DFT codes. The methods developed in our work provide an attractive alternative to plane-wave DFT approaches in applying external potential bias that usually suffer from the periodic boundary conditions restrictions and poor scalability on parallel computing architectures. Our framework offers a robust approach for investigating surfaces and interfaces without any underlying assumptions or correction schemes while allowing for simulations of larger length scales than possible with plane-wave DFT." />
+<meta property="og:description" content="Abstract Accurate ab initio modeling of surfaces and interfaces, especially under an applied external potential bias, is important for describing and characterizing various phenomena that occur in electronic, catalytic, and energy storage devices. Leveraging the ability of real-space density functional theory (DFT) codes to accommodate generic boundary conditions, we introduce two methods for applying an external potential bias that can be suitable for modeling surfaces and interfaces. In the first method, an external constant electric field is applied by modifying the DFT Hamiltonian via the introduction of an auxiliary linear potential while solving the electrostatic potential arising in DFT using a Poisson equation with zero-Neumann boundary conditions. The second method directly enforces the desired external potential bias by imposing constraints on the electrostatic potential, thereby naturally mimicking experimental conditions. We describe the underlying DFT governing equations for the two setups within the real-space formalism employing finite-element discretization. First, we validate the constant electric field setup within real-space finite-element DFT (DFT-FE) with an equivalent approach using plane-wave DFT (i.e., using periodic boundary conditions) on three representative benchmark systems, namely, La-terminated Li7La3Zr2O12, GaAs (111), and Al FCC (111) slabs. Subsequently, we present a comprehensive evaluation of the two setups in terms of the average ground-state properties, such as surface and adsorption energies. Also, we present an approach to constrain the electrostatic potential over a localised region, which is non-trivial to implement in periodic DFT codes. The methods developed in our work provide an attractive alternative to plane-wave DFT approaches in applying external potential bias that usually suffer from the periodic boundary conditions restrictions and poor scalability on parallel computing architectures. Our framework offers a robust approach for investigating surfaces and interfaces without any underlying assumptions or correction schemes while allowing for simulations of larger length scales than possible with plane-wave DFT." />
+<link rel="canonical" href="http://sai-mat-group.github.io/papers/ramakrishnan-jctc/" />
+<meta property="og:url" content="http://sai-mat-group.github.io/papers/ramakrishnan-jctc/" />
+<meta property="og:site_name" content="Simulations and Informatics of Materials Group" />
+<meta property="og:image" content="http://sai-mat-group.github.io/images/papers/ramakrishnan-jctc-2025.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-07-02T00:00:00+01:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="http://sai-mat-group.github.io/images/papers/ramakrishnan-jctc-2025.png" />
+<meta property="twitter:title" content="Real-space methods for ab initio modelling of surfaces and interfaces under external potential bias" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sai Gautam Gopalakrishnan"},"dateModified":"2025-07-02T00:00:00+01:00","datePublished":"2025-07-02T00:00:00+01:00","description":"Abstract Accurate ab initio modeling of surfaces and interfaces, especially under an applied external potential bias, is important for describing and characterizing various phenomena that occur in electronic, catalytic, and energy storage devices. Leveraging the ability of real-space density functional theory (DFT) codes to accommodate generic boundary conditions, we introduce two methods for applying an external potential bias that can be suitable for modeling surfaces and interfaces. In the first method, an external constant electric field is applied by modifying the DFT Hamiltonian via the introduction of an auxiliary linear potential while solving the electrostatic potential arising in DFT using a Poisson equation with zero-Neumann boundary conditions. The second method directly enforces the desired external potential bias by imposing constraints on the electrostatic potential, thereby naturally mimicking experimental conditions. We describe the underlying DFT governing equations for the two setups within the real-space formalism employing finite-element discretization. First, we validate the constant electric field setup within real-space finite-element DFT (DFT-FE) with an equivalent approach using plane-wave DFT (i.e., using periodic boundary conditions) on three representative benchmark systems, namely, La-terminated Li7La3Zr2O12, GaAs (111), and Al FCC (111) slabs. Subsequently, we present a comprehensive evaluation of the two setups in terms of the average ground-state properties, such as surface and adsorption energies. Also, we present an approach to constrain the electrostatic potential over a localised region, which is non-trivial to implement in periodic DFT codes. The methods developed in our work provide an attractive alternative to plane-wave DFT approaches in applying external potential bias that usually suffer from the periodic boundary conditions restrictions and poor scalability on parallel computing architectures. Our framework offers a robust approach for investigating surfaces and interfaces without any underlying assumptions or correction schemes while allowing for simulations of larger length scales than possible with plane-wave DFT.","headline":"Real-space methods for ab initio modelling of surfaces and interfaces under external potential bias","image":"http://sai-mat-group.github.io/images/papers/ramakrishnan-jctc-2025.png","mainEntityOfPage":{"@type":"WebPage","@id":"http://sai-mat-group.github.io/papers/ramakrishnan-jctc/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://sai-mat-group.github.io/images/logo.png"},"name":"Sai Gautam Gopalakrishnan"},"url":"http://sai-mat-group.github.io/papers/ramakrishnan-jctc/"}</script>
+<!-- End Jekyll SEO tag -->
+
+<head>
+	<meta charset="utf-8"/>
+	<title>Real-space methods for ab initio modelling of surfaces and interfaces under external potential bias</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<meta name="google-site-verification" content="zEGG9gOi40Xq8GSeRtDEq17a6MV4LyM44AAc8mE7YxA" />
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZRNS1MC6F"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+	
+  	gtag('config', 'G-9ZRNS1MC6F');
+	</script>
+
+	<!-- Global site tag (gtag.js) - Old Google Analytics -->
+	<!--script async src="https://www.googletagmanager.com/gtag/js?id=UA-176100633-1"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+
+  	gtag('config', 'UA-176100633-1');
+	</script-->
+
+	<!-- Google Analytics -->
+	<!--script>
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-176100633-1', 'auto');
+	ga('send', 'pageview');
+	</script>
+	<script async src='https://www.google-analytics.com/analytics.js'></script-->
+	<!-- End Old Google Analytics -->
+
+	
+	<!-- RSS feed -->
+	<link rel="alternate" type="application/rss+xml" title="Simulations and Informatics of Materials Group" href="http://sai-mat-group.github.io/feed.xml">
+	
+    <!-- Customized Bootstrap + Font Awesome + Solarized -->
+    <link href="/css/style.css" rel="stylesheet" media="screen">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="/images/favicon.png"/>	
+
+	<!-- Ideal image slider -->
+	<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+
+
+	<!-- Typekit -->
+	<script>
+	  //(function(d) {
+		//var config = {
+		  //kitId: 'xeu8jut',
+		  //scriptTimeout: 3000
+		//},
+		//h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+	  //})(document);
+	</script>
+			
+	<!-- jQuery -->
+	<script src="/js/jquery.min.js"></script>
+
+	<!-- Bootstrap -->
+	<script src="/js/bootstrap.min.js"></script>
+	<!--script src="/js/transition.js"></script>
+	<script src="/js/collapse.js"></script-->
+
+</head>
+
+<body>
+
+	<div id="header">
+		<nav class="navbar navbar-expand-md navbar">	 
+			<div class="container">
+				<a class="navbar-brand" href="/">
+				<img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="/images/logo.svg">
+					SAI MATerials Group</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNav">
+					<ul class="navbar-nav nav-pills ml-auto">
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/research/">Research</a>
+						</li>
+						
+						<li class="nav-link active">
+						
+						<a class="mx-1" href="/papers/">Publications</a>
+						</li>
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/presentations/">Presentations</a>
+						</li>
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/team/">Team</a></li>	  
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/join-us/">Join Us</a>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</div>
+
+	<div class="container mt-4">
+
+	<div class="row">
+	<div class="col-md-12">
+		<div class="media">
+			<div class="col-md-3">
+			
+			<img class="pull-left pad-right media-object" src="/images/papers/ramakrishnan-jctc-2025.png">
+			
+			</div>
+			<div class="col-md-9">
+			<div class="media-body titlebox">
+				<div class="paper-title media-heading">
+					Real-space methods for ab initio modelling of surfaces and interfaces under external potential bias
+				</div>
+				<p>
+				<div class="smallhead">
+					K. Ramakrishnan, <b>G. Sai Gautam</b>, and P. Motamarri;
+					J. Chem. Theory Comput., Article ASAP (2025)
+				</div>
+			</div>
+			</div>
+			<!---<div class="col-md-8">
+				<div class="post">
+					<h1 id="abstract">Abstract</h1>
+<p>Accurate ab initio modeling of surfaces and interfaces, especially under an applied external potential bias, is important for describing and characterizing various phenomena that occur in electronic, catalytic, and energy storage devices. Leveraging the ability of real-space density functional theory (DFT) codes to accommodate generic boundary conditions, we introduce two methods for applying an external potential bias that can be suitable for modeling surfaces and interfaces. In the first method, an external constant electric field is applied by modifying the DFT Hamiltonian via the introduction of an auxiliary linear potential while solving the electrostatic potential arising in DFT using a Poisson equation with zero-Neumann boundary conditions. The second method directly enforces the desired external potential bias by imposing constraints on the electrostatic potential, thereby naturally mimicking experimental conditions. We describe the underlying DFT governing equations for the two setups within the real-space formalism employing finite-element discretization. First, we validate the constant electric field setup within real-space finite-element DFT (DFT-FE) with an equivalent approach using plane-wave DFT (i.e., using periodic boundary conditions) on three representative benchmark systems, namely, La-terminated Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub>, GaAs (111), and Al FCC (111) slabs. Subsequently, we present a comprehensive evaluation of the two setups in terms of the average ground-state properties, such as surface and adsorption energies. Also, we present an approach to constrain the electrostatic potential over a localised region, which is non-trivial to implement in periodic DFT codes. The methods developed in our work provide an attractive alternative to plane-wave DFT approaches in applying external potential bias that usually suffer from the periodic boundary conditions restrictions and poor scalability on parallel computing architectures. Our framework offers a robust approach for investigating surfaces and interfaces without any underlying assumptions or correction schemes while allowing for simulations of larger length scales than possible with plane-wave DFT.</p>
+
+				</div>
+			</div>-->
+		</div>	
+	</div>
+</div>
+
+<div class="bigspacer"></div>
+
+<div class="row">
+	<div class="col-md-3">
+		<div class="bigspacer"></div>
+		<div class="glyphbox note">
+			
+			<div class="smallhead">
+				PDF
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-file-text-o fa-fw"></i>
+				<a class="off" href="/pdfs/papers/ramakrishnan-jctc-2025.pdf">ramakrishnan-jctc-2025.pdf</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+			<div class="smallhead">
+				Supporting Information
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-paperclip fa-fw"></i>
+				<a class="off" href="/pdfs/papers/ramakrishnan-jctc-2025-si.pdf">ramakrishnan-jctc-2025-si.pdf</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+			<div class="smallhead">
+				DOI
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="ai ai-doi"></i>
+				<a class="off" href="https://doi.org/10.1021/acs.jctc.5c00513">10.1021/acs.jctc.5c00513</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+			<div class="smallhead">
+				GitHub
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-github-alt fa-fw"></i>
+				<a class="off" href="https://github.com/matrixlabiisc/AppliedPotentialBias_JCTC">matrixlabiisc/<wbr>AppliedPotentialBias_<wbr>JCTC</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+			<div class="smallhead">
+				arXiv
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-file-archive-o fa-fw"></i>
+				<a class="off" href="https://arxiv.org/abs/2504.00998">2504.00998</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+		</div>
+	</div>
+	<div class="col-md-8">
+		<div class="post">
+			<h1 id="abstract">Abstract</h1>
+<p>Accurate ab initio modeling of surfaces and interfaces, especially under an applied external potential bias, is important for describing and characterizing various phenomena that occur in electronic, catalytic, and energy storage devices. Leveraging the ability of real-space density functional theory (DFT) codes to accommodate generic boundary conditions, we introduce two methods for applying an external potential bias that can be suitable for modeling surfaces and interfaces. In the first method, an external constant electric field is applied by modifying the DFT Hamiltonian via the introduction of an auxiliary linear potential while solving the electrostatic potential arising in DFT using a Poisson equation with zero-Neumann boundary conditions. The second method directly enforces the desired external potential bias by imposing constraints on the electrostatic potential, thereby naturally mimicking experimental conditions. We describe the underlying DFT governing equations for the two setups within the real-space formalism employing finite-element discretization. First, we validate the constant electric field setup within real-space finite-element DFT (DFT-FE) with an equivalent approach using plane-wave DFT (i.e., using periodic boundary conditions) on three representative benchmark systems, namely, La-terminated Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub>, GaAs (111), and Al FCC (111) slabs. Subsequently, we present a comprehensive evaluation of the two setups in terms of the average ground-state properties, such as surface and adsorption energies. Also, we present an approach to constrain the electrostatic potential over a localised region, which is non-trivial to implement in periodic DFT codes. The methods developed in our work provide an attractive alternative to plane-wave DFT approaches in applying external potential bias that usually suffer from the periodic boundary conditions restrictions and poor scalability on parallel computing architectures. Our framework offers a robust approach for investigating surfaces and interfaces without any underlying assumptions or correction schemes while allowing for simulations of larger length scales than possible with plane-wave DFT.</p>
+
+		</div>
+	</div>
+	<div class="col-md-1"></div>
+</div>
+
+
+
+	</div>
+
+	<div class="spacer"></div>
+
+	<div class="container mt-4">
+		<div class="row">
+			<div class="col-lg-12 reduced gutter">
+				<div class="pad-left">
+					<ul class="list-inline">
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/news">Group News</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/misc/funders/">Funders</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/misc/contact/">Contact</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" target="_blank" rel="noopener noreferrer" href="https://materials.iisc.ac.in">Materials Engineering</a>
+						</li>
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" target="_blank" rel="noopener noreferrer" href="https://iisc.ac.in">IISc</a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://twitter.com/goths19" target="_blank" rel="noopener noreferrer">
+							<i class="fa fa-twitter"></i></a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://linkedin.com/in/sai-gautam-gopalakrishnan" target="_blank" rel="noopener noreferrer">
+							<i class="fa fa-brands fa-linkedin"></i></a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://github.com/sai-mat-group" target="_blank" rel="noopener noreferrer">
+							<i class="fa fa-github"></i></a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://scholar.google.com/citations?user=XGqBCZAAAAAJ&hl=en" target="_blank" rel="noopner noreferrer">
+							<i class="ai ai-google-scholar"></i></a>
+						</li>
+					</ul>
+					<hr>
+					<p class="colophon">&copy; <script>document.write( new Date().getFullYear() );</script> Sai Gautam Gopalakrishnan - Powered by <a class="off-note" href="https://jekyllrb.com" target="_blank" rel="noopener noreferrer">Jekyll</a> and adapted from <a class="off-note" href="https://bedford.io" target=+_blank" rel="noopener noreferrer">bedford.io</a>, with inputs from <a class="off-note" href="https://caneparesearch.org" target="_blank" rel="noopener noreferrer">PC</a>.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+</body>
+</html>
+
