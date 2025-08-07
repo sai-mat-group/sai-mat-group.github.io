@@ -1,0 +1,3017 @@
+<!DOCTYPE html>
+<html lang="en">
+	<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>sai materials group / group news | Simulations and Informatics of Materials Group</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="sai materials group / group news" />
+<meta name="author" content="Sai Gautam Gopalakrishnan" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Computational Materials Science as applied to materials design for energy applications" />
+<meta property="og:description" content="Computational Materials Science as applied to materials design for energy applications" />
+<link rel="canonical" href="http://sai-mat-group.github.io/news-archive/index.html.bak" />
+<meta property="og:url" content="http://sai-mat-group.github.io/news-archive/index.html.bak" />
+<meta property="og:site_name" content="Simulations and Informatics of Materials Group" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="sai materials group / group news" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Sai Gautam Gopalakrishnan"},"description":"Computational Materials Science as applied to materials design for energy applications","headline":"sai materials group / group news","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://sai-mat-group.github.io/images/logo.png"},"name":"Sai Gautam Gopalakrishnan"},"url":"http://sai-mat-group.github.io/news-archive/index.html.bak"}</script>
+<!-- End Jekyll SEO tag -->
+
+<head>
+	<meta charset="utf-8"/>
+	<title>sai materials group / group news</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<meta name="google-site-verification" content="zEGG9gOi40Xq8GSeRtDEq17a6MV4LyM44AAc8mE7YxA" />
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZRNS1MC6F"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+	
+  	gtag('config', 'G-9ZRNS1MC6F');
+	</script>
+
+	<!-- Global site tag (gtag.js) - Old Google Analytics -->
+	<!--script async src="https://www.googletagmanager.com/gtag/js?id=UA-176100633-1"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+
+  	gtag('config', 'UA-176100633-1');
+	</script-->
+
+	<!-- Google Analytics -->
+	<!--script>
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-176100633-1', 'auto');
+	ga('send', 'pageview');
+	</script>
+	<script async src='https://www.google-analytics.com/analytics.js'></script-->
+	<!-- End Old Google Analytics -->
+
+	
+	<!-- RSS feed -->
+	<link rel="alternate" type="application/rss+xml" title="Simulations and Informatics of Materials Group" href="http://sai-mat-group.github.io/feed.xml">
+	
+    <!-- Customized Bootstrap + Font Awesome + Solarized -->
+    <link href="/css/style.css" rel="stylesheet" media="screen">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="/images/favicon.png"/>	
+
+	<!-- Ideal image slider -->
+	<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+
+
+	<!-- Typekit -->
+	<script>
+	  //(function(d) {
+		//var config = {
+		  //kitId: 'xeu8jut',
+		  //scriptTimeout: 3000
+		//},
+		//h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+	  //})(document);
+	</script>
+			
+	<!-- jQuery -->
+	<script src="/js/jquery.min.js"></script>
+
+	<!-- Bootstrap -->
+	<script src="/js/bootstrap.min.js"></script>
+	<!--script src="/js/transition.js"></script>
+	<script src="/js/collapse.js"></script-->
+
+</head>
+
+<body>
+
+	<div id="header">
+		<nav class="navbar navbar-expand-md navbar">	 
+			<div class="container">
+				<a class="navbar-brand" href="/">
+				<img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="/images/logo.svg">
+					SAI MATerials Group</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNav">
+					<ul class="navbar-nav nav-pills ml-auto">
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/research/">Research</a>
+						</li>
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/papers/">Publications</a>
+						</li>
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/presentations/">Presentations</a>
+						</li>
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/team/">Team</a></li>	  
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/join-us/">Join Us</a>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</div>
+
+	<div class="container mt-4">
+
+	<div class="post-list">
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/reshma-colloquium/">Reshma gives her PhD colloquium</a>
+						</div>
+						<div class="smallhead">
+							15 Jul 2025
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/reshma-colloquium-2025.jpg">
+				
+				
+				<div class="post">
+					<p>Reshma Devi gave her PhD colloquium in the Department of Materials Engineering, Indian Institute of Science on 15<sup>th</sup> July, 2025, at 2.30pm Indian time, The venue was the KP Abraham auditorium in the Department of Materials Engineering. Her thesis is titled, “Elucidation and prediction of ion transport in battery materials: A first-principles and machine learning study”. The group wishes her a smooth defense and a quick graduation.</p>
+
+<p>Reshma’s colloquium slides will be made available on the website soon.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/priti-shankar/">Sai Gautam wins the Prof. Priti Shankar Teaching Award</a>
+						</div>
+						<div class="smallhead">
+							15 Mar 2024
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/sai-priti-shankar-2024.jpg">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan was awarded the <a href="https://iisc.ac.in/institute-awards/prof-priti-shankar-teaching-award-for-assistant-professors/" target="_blank">Prof. Priti Shankar Teaching Award for Assistant Professors</a> by the Indian Institute of Science (IISc). He was conferred the award at the <a href="https://iisc.ac.in/about/administration/court/" target="_blank">IISc Court</a> meeting on 15<sup>th</sup> March 2024, which was presided over by the President of the IISc Court, <a href="" target="_blank">Mr. N. Chandrasekaran</a>, Chairman of Tata Sons.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/student-symposium-sports-meet-2024/">Group's presence at the annual department student symposium and sports meet</a>
+						</div>
+						<div class="smallhead">
+							1 Mar 2024
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/IIScLogo.png">
+				
+				
+				<div class="post">
+					<p>Ankur, Ankit, Hasna, Debolina, and Aqshat participated in the 37<sup>th</sup> <a href="https://sites.google.com/view/mte-symposium2024-iisc" target="_blank">Annual Students Symposium</a> organized by the Department of Materials Engineering, Indian Institute of Science, on 29<sup>th</sup> February and 1<sup>st</sup> March, 2024. Ankur and Ankit spoke about their recent research while Debolina, Hasna, and Aqshat presented posters on their work. Do join in if around.</p>
+
+<p>Congratulations to Debolina on winning the ‘Best poster’ award at the symposium!</p>
+
+<p>Several group members participated in the Annual Sports Meet of the Department of Materials Engineering, Indian Institute of Science. The group would like to congratulate:</p>
+<ul>
+<li>Ankur on winning the Gold in Chess</li>
+<li>Tejus on winning the Gold in Football</li>
+<li>Dereje on winning the Silver in Football</li>
+<li>Santosh on winning the Silver in Badminton</li>
+</ul>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/arci-talk-2024/">Sai Gautam gives talk at ARCI, Hyderabad</a>
+						</div>
+						<div class="smallhead">
+							27 Feb 2024
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/arci-talk-news-2022.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical, invited talk at the <a href="https://arci.res.in/" target="_blank">International Advanced Research Centre for powder metallurgy and new materials (ARCI)</a>, Hyderabad on 27<sup>th</sup> February, 2024, from 10.30-11.30am. Sai Gautam will be presenting some of the latest battery research done by the group.</p>
+
+<p>Do join the talk if you will be around in the vicinity.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/acssi-talk-poster-2024/">Talks, posters, and awards at the ACSSI 2024 conference</a>
+						</div>
+						<div class="smallhead">
+							19 Feb 2024
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/acssi-feb-2024.png">
+				
+				
+				<div class="post">
+					<p>Reshma, Dereje, Debolina, Aqshat, and Pawan will be presenting their recent research work at the 18<sup>th</sup> Asian Conference on Solid State Ionics (ACSSI), at the Meenakshi College for Women, Chennai, India. The conference is organized by the Asian Society for Solid State Ionics. While Reshma and Pawan give talks, Debolina, Dereje, and Aqshat present posters at the conference. More details available at the conference website <a href="http://www.acssi2024.com/" target="_blank">here</a>. Do tune in if around.</p>
+
+<p>Congrats to Reshma and Dereje on winning the ‘Best Oral’ and ‘Best Poster’ presentation awards, respectively, at the ACSSI 2024 conference. Dereje’s poster can be found <a href="https://sai-mat-group.github.io/pdfs/presentations/tekliye-canasicon-acssi2024-poster.pdf" target="_blank">here</a>.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/sai-talk-tcgcrest-2024/">Sai Gautam gives an invited talk at RISE, TCG-CREST</a>
+						</div>
+						<div class="smallhead">
+							17 Feb 2024
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/tcg-crest-news-2024.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical, invited talk as part of the one day workshop on “<a href="https://www.tcgcrest.org/rise-one-day-battery-workshop-on-current-challenges-in-na-ion-and-solid-state-batteries/" target="_blank">Current challenges in Na-ion and solid-state Batteries</a>”, to be held at the <a href="https://www.tcgcrest.org/institutes/rise/" target="_blank">Research Institute for Sustainable Energy</a> (RISE), which is a part of <a href="https://www.tcgcrest.org/" target="_blank"> The Chatterjee Group (TCG)-Centres for Research and Education in Science and Technology (CREST)</a>, Kolkata, India. Sai Gautam will be giving an overview of using computational and informatics tools for materials design in energy storage. The chief guest of the workshop is <a href="https://pme.uchicago.edu/faculty/y-shirley-meng" target="_blank">Prof. Shirley Meng</a> from University of Chicago. If you are in the TCG-CREST campus, do drop by.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/january-joinees-2024/">Debsundar and Subramanian join the group</a>
+						</div>
+						<div class="smallhead">
+							8 Jan 2024
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/january-joinees-news-2024.png">
+				
+				
+				<div class="post">
+					<p>January 2024 had two new Masters student entrants to the SAI MATerials group, including Debsundar Dey (left in picture), and Subramanian R S (right). The group wishes the new members a productive stay.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/igstc-germany/">Sai Gautam to visit University of Paderborn and other institutions in Germany</a>
+						</div>
+						<div class="smallhead">
+							31 May 2023
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/IGSTC_logo.jpg">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will be visiting the <a href="https://chemie.uni-paderborn.de/en/" target="_blank">Department of Chemistry</a> at the <a href="https://www.uni-paderborn.de/en/" target="_blank">University of Paderborn</a> in May 2023. Sai Gautam will be spending all of May in Germany, as part of his <a href="https://www.igstc.org/home/pecfar" target="_blank">Paired Early Career Fellowship in Applied Research (PECFAR)</a> granted by the <a href="https://www.igstc.org/" target="_blank">Indo German Science and Technology Centre (IGSTC)</a>, and will be hosted by <a href="https://chemie.uni-paderborn.de/arbeitskreise/technische-chemie/steinrueck/jun-prof-dr-hans-georg-steinrueck" target="_blank">Jun-Prof. Dr. Hans-Georg Steinrück</a>. While in Germany, Sai Gautam will be delivering talks at the following locations within Germany. Do attend one (or several) of the talks if you are in the area!</p>
+
+<ul>
+<li>8-May: <a href="https://www.hu-berlin.de/en" target="_blank">Humboldt-Universität zu Berlin</a> (Adlershof campus, hosted by <a href="https://adelhelmgroup.com/2021/02/25/philipp-adelhelm/" target="_blank">Prof. Philipp Adelhelm</a>)</li>
+<li>10-May: University of Paderborn (hosted by Jun-Prof. Dr. Hans-Georg Steinrück)</li>
+<li>16-May: <a href="https://www.uni-bayreuth.de/en" target="_blank">University of Bayreuth</a> (hosted by <a href="https://www.bianchini.uni-bayreuth.de/en/team/bianchini/" target="_blank">Prof. Dr. Matteo Bianchini</a>)</li>
+<li>17-May: <a href="https://hiu-batteries.de/en/" target="_blank">Helmholtz-Institut Ulm</a> (hosted by <a href="https://hiu-batteries.de/forschung/forschungsgruppen/solidstatechemistry/prof-dr-maximilian-fichtner/" target="_blank">Prof. Dr. Maximilian Fichtner</a>)</li>
+<li>23-May: <a href="https://www.fz-juelich.de/en/" target="_blank"> Forschungszentrum Jülich</a> (hosted by <a href="https://www.fz-juelich.de/profile/kaghazchi_p" target="_blank">Dr. Payam Kaghazchi</a>)</li>
+<li>25-May: <a href="https://www.uni-muenster.de/en/" target="_blank">Universität Münster</a> (hosted by <a href="https://www.uni-muenster.de/Chemie.ac/forschung/ak_zeier/zeier/index.html" target="_blank">Prof. Wolfgang Zeier</a>)</li>
+</ul>
+
+<p>The slides presented in Sai Gautam’s talks are available at the group website, <a href="https://sai-mat-group.github.io/pdfs/presentations/sai-CaNaSICON_MLIP-Germany-2023-talks.pdf" target="_blank">here</a>.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/fomad-news-2024/">Dereje and Vijay at FOMAD 2023</a>
+						</div>
+						<div class="smallhead">
+							27 Apr 2023
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/fomad-2023-logo-news.png">
+				
+				
+				<div class="post">
+					<p>Dereje and Vijay will be presenting their research work as part of the “Functional Oxides: Materials and Devices (FOMAD)” 2023 workshop, being organized by the <a href="http://www.cense.iisc.ac.in/" target="_blank">Centre for Nano Science and Engineering (CeNSE)</a>, Indian Institute of Science. The workshop is scheduled to be held between 28<sup>th</sup> and 30<sup>th</sup> April, 2023, at the Silent Valley Resort, Kalasa, Karnataka, India. Dereje will be giving an oral presentation while Vijay will be presenting the poster.</p>
+
+<p>Congrats to Vijay on winning the ‘Best Poster’ presentation award at FOMAD 2023. Vijay’s poster can be found at <a href="https://sai-mat-group.github.io/pdfs/presentations/choyal-mlip-fomad2023-poster.pdf" target="_blank">this link</a>, while Dereje’s talk is <a href="https://sai-mat-group.github.io/pdfs/presentations/tekliye-canasicon-fomad2023-talk.pdf" target="_blank">here</a>. A nice video compilation of the workshop can be found <a href="https://www.youtube.com/watch?v=-yZca0v0W2s" target="_blank">here</a>.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/kumar-pccp-news/">Pnictide photovoltaics paper published in Phys. Chem. Chem. Phys.</a>
+						</div>
+						<div class="smallhead">
+							7 Mar 2023
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/kumar-pccp-news-2023.png">
+				
+				
+				<div class="post">
+					<p>Jayant’s paper on discovering novel pnictide semiconductors for photovoltaic applications, was published today in <a href="https://doi.org/10.1039/D2CP04453F" target="_blank">Physical Chemistry Chemical Physics</a>. The work evaluates a set of 20 binary, ternary, and quaternary pnictide (i.e., nitride and phosphide) compositions, in terms of their band gap, 0 K thermodynamic stability, and point defect formation energies, which are relevant performance-determining metrics for potential use as photovoltaics. Importantly, our work identified three pnictide chemistries, namely, SrZn<sub>2</sub>N<sub>2</sub>, SrZn<sub>2</sub>P<sub>2</sub>, and CaZn<sub>2</sub>P<sub>2</sub>, to be promising candidates. The work was led by Prof. Sai Gautam Gopalakrishnan, and performed fully at Indian Institute of Science.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/icam2023-talk/">Sai Gautam gives an invited talk at the ICAM 2023 conference</a>
+						</div>
+						<div class="smallhead">
+							21 Feb 2023
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/icam-feb-2023.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical, invited talk as part of the <a href="https://sites.google.com/unigoa.ac.in/icam-2023/home" target="_blank">International Conference on Advanced Materials: Properties and Applications</a> (ICAM) organized by <a href="https://www.unigoa.ac.in/" target="_blank">Goa University</a> (IEEE). The talk is scheduled to take place at the Chemistry Auditorium (Block E), Goa University. Sai will present the recent work done on screening cathode materials for Ca-batteries, at 12pm, Indian Standard Time, on February 21 (Monday). Do join the talk if you are around.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/patra-jmca-news/">Niobium NaSICON paper published in J. Mater. Chem. A</a>
+						</div>
+						<div class="smallhead">
+							9 Feb 2023
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/patra-jmca-news-2023.png">
+				
+				
+				<div class="post">
+					<p>Biplab’s paper, with contributions from Debolina Deb of the group, on using a Niobium sodium superionic conductor (NaSICON) framework as an anode for Li- and Na-ion batteries, was published today in <a href="https://doi.org/10.1021/10.1039/d2ta05971a" target="_blank">Journal of Materials Chemistry A</a>. The study demonstrates electrochemically that an `empty’ Nb<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> framework can reversibly intercalate Li and Na ions, at 1.86 V and 1.46 V vs. the corresponding metallic states, respectively, resulting in possible use as an anode in Li-ion and Na-ion battery frameworks. We correlated the phase behavior and average voltage in Na-intercalation Nb<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>. The work was led by <a href="https://www.jncasr.ac.in/faculty/prem" target="_blank">Prof. Premkumar Senguttuvan</a> of the <a href="https://www.jncasr.ac.in/research/research-units/new-chemistry-unit" target="_blank">New Chemistry Unit</a>, <a href="https://www.jncasr.ac.in/" target="_blank">Jawaharlal Nehru Centre for Advanced Scientific Research</a>, in collaboration with Prof. Sai Gautam Gopalakrishnan.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/student-symposium-sports-meet-2023/">Group's presence at the annual department student symposium and sports meet</a>
+						</div>
+						<div class="smallhead">
+							28 Jan 2023
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/IIScLogo.png">
+				
+				
+				<div class="post">
+					<p>Debolina will be giving an oral presentation at the 36<sup>th</sup> <a href="https://sites.google.com/iisc.ac.in/mte-symposium2023-iisc" target="_blank">Annual Students Symposium</a> organized by the Department of Materials Engineering, Indian Institute of Science, on 27<sup>th</sup> and 28<sup>th</sup> January, 2023.</p>
+
+<p>A copy of Debolina’s talk can be found <a href="https://sai-mat-group.github.io/pdfs/presentations/deb-NaReview-symposium2023-talk.pdf" target="_blank">here</a>.</p>
+
+<p>Several group members participated in the Annual Sports Meet of the Department of Materials Engineering, Indian Institute of Science. The group congratulates Dereje’s team on winning the Gold in Football.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/debolina-studentsymposium-talk/">Debolina gives talk as part of the Annual Student Symposium</a>
+						</div>
+						<div class="smallhead">
+							28 Jan 2023
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/IIScLogo.png">
+				
+				
+				<div class="post">
+					<p>Debolina will be presenting her work, “Critical overview of polyanionic frameworks as positive electrodes for Na-ion batteries” as part of the <a href="https://sites.google.com/iisc.ac.in/mte-symposium2023-iisc" target="_blank">36<sup>th</sup> Annual Student Symposium</a>, organized by the <a href="https://materials.iisc.ac.in/" target="_blank">Department of Materials Engineering</a>, Indian Institute of Science. The talk will be physically held at the Lecture Theatre of the department from 11.05-11.25am, Indian Standard Time. Do join the talk if you are around.</p>
+
+<p>The slides presented are available <a href="https://sai-mat-group.github.io/pdfs/presentations/deb-NaReview-symposium2023-talk.pdf" target="_blank">here</a>.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/january-joinees-2023/">Anirudh and Aqshat join the group</a>
+						</div>
+						<div class="smallhead">
+							9 Jan 2023
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/january-joinees-news-2023.png">
+				
+				
+				<div class="post">
+					<p>January 2023 had two new undergraduate student entrants to the SAI MATerials group, Anirudh Natarajan (left in picture) from National Institute of Technology Tiruchirappalli, and Aqshat Seth (right) from Birla Institute of Technology and Science - Hyderabad Campus. The group wishes both the new members a productive stay.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/barman-mtc-news/">Mo-alluaudite paper published in Materials Today Chemistry</a>
+						</div>
+						<div class="smallhead">
+							5 Jan 2023
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/barman-mtc-news-2023.png">
+				
+				
+				<div class="post">
+					<p>Pubali’s paper, with contributions from Pawan’s computations, on the synthesis and demonstration of a new alluaudite-based cathode framework for Na-ion batteries, was published today in <a href="https://doi.org/10.1016/j.mtchem.2022.101316" target="_blank">Materials Today Chemistry</a>. The study was the first demonstration of electrochemical activity in Na<sub>3.36</sub>Co<sub>1.32</sub>(MoO<sub>4</sub>)<sub>3</sub> alluaudite, which can exhibit a high voltage (~4 V vs. Na, 4.1 V vs. Li) due to the Co<sup>3+</sup>/Co<sup>2+</sup> redox activity. Density functional theory-based voltage calculations were in alignment with the experimental measurements as well. The work was led by Prof. <a href="http://www.prabeer.org/" target="_blank">Prabeer Barpanda</a> of Indian Institute of Science, in collaboration with Prof. Sai Gautam Gopalakrishnan and others.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/group-retreat-and-lunch-2022/">Group lunch and retreat</a>
+						</div>
+						<div class="smallhead">
+							28 Dec 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/group-lunch-dec-2022.jpeg">
+				
+				
+				<div class="post">
+					<p>We had a two day group retreat, on December 27 and December 28, which was broken by a group lunch on December 27. Some pictures from the lunch outing, which included some liquid nitrogen dishes as well. Hope other upcoming group outings are equally enjoyable as well.</p>
+
+<center>
+<img src="../../images/news/group-lunch-dec-2022-image1.jpeg" alt="kulfi" width="500" />
+<br />
+<img src="../../images/news/group-lunch-dec-2022-image2.jpeg" alt="paan" width="500" />
+<br />
+<img src="../../images/news/group-lunch-dec-2022-image3.JPG" alt="pav bhaji fondue" width="500" />
+<br />
+<img src="../../images/news/group-lunch-dec-2022-image4.JPG" alt="group picture" width="500" />
+<br />
+<img src="../../images/news/group-lunch-dec-2022-image5.jpeg" alt="group picture" width="500" />
+</center>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/pt-jubilee-conference/">Platinum jubilee conference</a>
+						</div>
+						<div class="smallhead">
+							21 Dec 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/pt-jubilee-conference-2022.png">
+				
+				
+				<div class="post">
+					<p>The Department of <a href="https://materials.iisc.ac.in" target="_blank">Materials Engineering</a>, Indian Institute of Science, on account of celebrating its 75<sup>th</sup> year of existence, organized a <a href="https://materials75.org.in/" target="_blank">Platinum Jubilee conference</a>, titled “Perspectives in Materials Research”, from Dec 21-23, 2022.</p>
+
+<p>Dr. Sai Gautam Gopalakrishnan is organizing the “Computational Materials Science and Engineering” symposium as part of the conference, with talks scheduled on all three days of the conference. Do attend the conference if around.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/jncasr-talk/">Sai Gautam gives an invited talk at the JNCASR winter school</a>
+						</div>
+						<div class="smallhead">
+							14 Dec 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/jncasr-talk-dec-2022.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical, invited talk as part of the winter school on “Computational Modeling and Simulations of Materials for Energy and Environment” organized by the <a href="https://www.jncasr.ac.in/research/research-units/theoretical-sciences-unit" target="_blank">Theoretical Sciences Unit</a>, <a href="https://www.jncasr.ac.in/" target="_blank">Jawaharlal Nehru Centre for Advanced Scientific Research</a> (JNCASR), Bengaluru, India. The talk is scheduled to take place at the <a href="https://www.jncasr.ac.in/facilities/conference-hall" target="_blank">AMRL Auditorium</a> in JNCASR. Sai will give a pedagogical talk on using computations and machine learning for designing materials with energy storage applications. The talk will be from 2pm, Indian Standard Time, on December 14 (Wednesday). If you are in JNCASR campus, do drop by.</p>
+
+<p>You can find a copy of the slides presented <a href="https://sai-mat-group.github.io/pdfs/presentations/sai-winterschool-JNCASR2022-talk.pdf" target="_blank">here</a>.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/icee-talk/">Sai Gautam gives an invited talk at the IEEE-ICEE conference</a>
+						</div>
+						<div class="smallhead">
+							12 Dec 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/icee-dec-2022.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical, invited talk as part of the <a href="https://ieee-icee.org/" target="_blank">6<sup>th</sup> International Conference on Emerging Electronics</a> (ICEE) organized by the <a href="https://www.ieee.org/" target="_blank">Institute of Electrical and Electronics Engineers</a> (IEEE). The talk is scheduled to take place at the <a href="https://ieee-icee.org/venue-accomodation/" target="_blank">Hilton and Hilton Garden Inn</a>, Embassy Manyata Business Park, Bengaluru, India. Sai will present the recent work done on benchmarking migration barriers done recently in the group, at 4.45pm, Indian Standard Time, on December 12 (Monday), as part of Session No. 17 (titled “Photo-rechargeable and high-capacity batteries”). Do join the talk if you are around.</p>
+
+<p>You can find a copy of the slides presented <a href="https://sai-mat-group.github.io/pdfs/presentations/reshma-migrationbarriers-icts2022-talk.pdf" target="_blank">here</a>.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/sswr-talk/">Sai Gautam gives an invited talk at the SSWR-IMechE Quarterly lecture series</a>
+						</div>
+						<div class="smallhead">
+							3 Dec 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/sswr-talk-dec-2022.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical, invited talk as part of the quaterly lecture series organized by the <a href="https://nssw2023.in/" target="_blank">Society for Shock Wave Research</a> (SSWR) India chapter and the <a href="https://www.imeche.org/" target="_blank">Institution of Mechanical Engineers</a> (IMechE). The talk is scheduled to take place at the Auditorium in the <a href="http://aero.iisc.ac.in/" target="_blank">Department of Aerospace Engineering</a>, Indian Institute of Science. Sai will present his perspective on the usage of cloud computing for high-performance computing from an Indian perspective. The talk will be from 11.30am, Indian Standard Time, on December 3 (Saturday). Do listen in if you are around.</p>
+
+<p>You can find a copy of the slides presented <a href="https://sai-mat-group.github.io/pdfs/presentations/sai-cloudcomputing-sswr2022-talk.pdf" target="_blank">here</a>.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/tekliye-cm-news/">Ca-NaSICON paper published in Chem. Mater.</a>
+						</div>
+						<div class="smallhead">
+							12 Nov 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/tekliye-cm-news-2022.png">
+				
+				
+				<div class="post">
+					<p>Dereje’s paper, with contributions from Ankit Kumar as well, on evaluating the sodium superionic conductor (NaSICON) frameworks as Ca cathodes, was published today in <a href="https://doi.org/10.1021/acs.chemmater.2c02841" target="_blank">Chemistry of Materials</a>. The study evaluates the intercalation voltages, theoretical gravimetric capacities, 0 K thermodynamic stabilities, and Ca-migration barriers in silicate, phosphate, and sulfate NaSICON frameworks containing redox-active 3<i>d</i> transition metals. Importantly, our work identified three NaSICON chemistries, namely, Ca<sub>x</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>, Ca<sub>x</sub>Mn<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>, and Ca<sub>x</sub>Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>, to be promising Ca-cathode candidates. The work was led by Prof. Sai Gautam Gopalakrishnan, in collaboration with Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> of the National University of Singapore.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/dillip-acsaem-news/">Zinc cobaltite paper published in ACS Appl. Energy Mater.</a>
+						</div>
+						<div class="smallhead">
+							8 Nov 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/dillip-acsaem-news-2022.png">
+				
+				
+				<div class="post">
+					<p>Dillip’s paper, with contributions from Tanmay Mohan Bhagwat of the group, on utilising defective zinc cobaltite (ZCO) as a bifunctional oxygen electrocatalyst, was published today in <a href="https://doi.org/10.1021/acsaem.2c02257" target="_blank">ACS Applied Energy Materials</a>. The study demonstrates that ZCO can exhibit better electrocatalytic activity toward both oxygen reduction reaction and oxygen evolution reaction compared to prevalant standard, namely, Pt/C and IrO<sub>2</sub>. We correlated the better performance of ZCO to the changes in the electronic structure induced by defect formation, as calculated using density functional theory. The work was led by <a href="https://sscu.iisc.ac.in/bhattacharyya/" target="_blank">Prof. Aninda Jiban Bhattacharyya</a> of the <a href="https://sscu.iisc.ac.in/" target="_blank">Solid State Chemistry Unit</a>, Indian Institute of Science, in collaboration with Prof. Sai Gautam Gopalakrishnan.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/arpita-joins/">Arpita joins the group</a>
+						</div>
+						<div class="smallhead">
+							1 Nov 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/arpita-paul-news.jpeg">
+				
+				
+				<div class="post">
+					<p>Arpita Paul joins the group as a Department of Science and Technology (DST)-Inspire Faculty Fellow. Before joining Indian Institute of Science, Arpita had post-doctoral stints at the Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) and University of Minnesota. Arpita received her PhD from the Theoretical Sciences Unit of JNCASR. We wish Arpita a productive stay in the group and success in her future academic career.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/tsounis-angewchem/">MXene minireview published in Angew. Chem.</a>
+						</div>
+						<div class="smallhead">
+							24 Oct 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/tsounis-angewchem-news-2022.png">
+				
+				
+				<div class="post">
+					<p>Constantine’s minireview, with inputs from Rutvij Pankaj Kulkarni of the group, on improving MXene electrocatalysts was published today in <a href="https://doi.org/10.1002/anie.202210828" target="_blank">Angewandte Chemie</a> (Angew. Chem.). The work reviews multiple types of MXenes that are possible, their surface terminations and thermodynamic stability, besides commenting on discovering new MXenes and facilitating large-scale manufacture of such materials as electrocatalysts. The work was led by <a href="https://lese.mavt.ethz.ch/the-group/person-detail.MjQ5OTU3.TGlzdC8yMDU0LC0xODg0NTcyOTgx.html" target="_blank">Dr. Denis Kuznetsov</a> (Eidgenössische Technische Hochschule Zürich) and <a href="https://www.pcrg.unsw.edu.au/staff/rose-amal" target="_blank">Prof. Rose Amal</a> (University of New South Wales), in collaboration with <a href="https://www.unsw.edu.au/staff/priyank-kumar" target="_blank">Dr. Priyank V. Kumar</a> (University of New South Wales), and Prof. Sai Gautam Gopalakrishnan.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/iitb-talk/">Sai Gautam gives talk at IIT Bombay</a>
+						</div>
+						<div class="smallhead">
+							20 Oct 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/iitb-talk-news-2022.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical talk at the <a href="https://www.chem.iitb.ac.in/" target="_blank">Department of Chemistry</a>, <a href="https://www.iitb.ac.in/" target="_blank">Indian Institute of Technology, Bombay</a> (IITB) on 20<sup>th</sup> October, 2022, from 4-5pm. The talk will be in the Seminar room of the Department of Chemistry and will be hosted by <a href="https://www.chem.iitb.ac.in/~srini/team.html" target="_blank">Dr. Srinivasan Ramakrishnan</a>. Sai Gautam will be presenting some of the latest battery research done by the group.</p>
+
+<p>Do join the talk if you will be around in the vicinity.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/october-joinees-2022/">Hasna, Arnab, and Ankit join the group</a>
+						</div>
+						<div class="smallhead">
+							1 Oct 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/october-joinees-news-2022.png">
+				
+				
+				<div class="post">
+					<p>October 2022 had three new Masters student entrants to the SAI MATerials group, including Hasna Sabreen (top left in picture), Arnab Pyne (top right), and Ankit Kumar Gupta (bottom). The group wishes all the new members a productive stay.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/shell-talk/">Sai Gautam talks at the Shell.ai-JNCASR Scientific Conference</a>
+						</div>
+						<div class="smallhead">
+							23 Sep 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/shell-sept-2022.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical, invited talk as part of the scientific conference organized by <a href="https://shell.ai" target="_blank">Shell.ai</a>(Shell India) and the <a href="https://www.jncasr.ac.in/" target="_blank">Jawaharlal Nehru Centre for Advanced Scientific Research</a>(JNCASR). The conference is a confluence of academic and industry experts on materials challenges for sustainability, and is scheduled to take place at the <a href="https://www.tajhotels.com/en-in/taj/taj-bangalore/" target="_blank">Taj Bengaluru Airport</a>, Bengaluru, India. Sai will present an overview of the computational and machine learning research done in the group, at 11.30am, Indian Standard Time, on September 23 (Friday). Do join the talk if you are around.</p>
+
+<p>Some pictures from the conference and the talk.</p>
+<center>
+<img src="../../images/news/shell-sept-2022-image1.jpg" alt="Talk" width="500" />
+<br />
+<img src="../../images/news/shell-sept-2022-image2.jpg" alt="Sai-mat-group" width="500" />
+<br />
+<img src="../../images/news/shell-sept-2022-image3.jpg" alt="Speaker-organizer-group" width="500" />
+</center>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/jha-paper-pccp/">Lithium bisulfate paper published in Phys. Chem. Chem. Phys.</a>
+						</div>
+						<div class="smallhead">
+							7 Sep 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/jha-pccp-news-2022.png">
+				
+				
+				<div class="post">
+					<p>Pawan’s paper on evaluating possible anionic redox in lithium bisulfate cathodes was published today in <a href="https://doi.org/10.1039/D2CP00473A" target="_blank">Physical Chemistry Chemical Physics</a> (PCCP). The study used multiple theoretical probes to verify that oxygen within the sulfate polyanionic groups participate in redox activity as lithium (de)intercalates in Co- and Ni-based bisulfate compositions. In the case of Fe- and Mn-based bisulfates, the cation continues to be the center of redox activity, with no perceptible participation from oxygen atoms. The work was led by Prof. Sai Gautam Gopalakrishnan, in collaboration with Prof. <a href="http://www.mrc.iisc.ac.in/prabeer-barpanda/" target="_blank">Prabeer Barpanda</a>, and with computational support from Prof. <a href="https://eecs.iisc.ac.in/people/mayank-shrivastava/" target="_blank">Mayank Shrivastava</a> at Indian Institute of Science.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/iasc-associate/">Sai Gautam elected as an Associate in IASc</a>
+						</div>
+						<div class="smallhead">
+							11 Aug 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/iasc-associate-news-2022.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan has been selected as an “Associate” by the <a href="https://www.ias.ac.in/" target="_blank">Indian Academy of Sciences (IASc)</a>, Bengaluru. Established by Sir C. V. Raman, IASc is a prestigious collection of Indian scientists and researchers with the main objective of promoting the progress and upholding the cause of science. The <a href="https://fellows.ias.ac.in/listing/associateDirectory" target="_blank">Associate</a> program of IASc is aimed at identifying promising young scientists and motivating them to excel further. A maximum of 100 associates, across the disciplines of basic and applied sciences, and engineering, are on the role of IASc at any point. 2022 saw the selection of <a href="https://fellows.ias.ac.in/listing/a?associate.yearelected=2022" target="_blank">17</a> researchers as Associates. As an associate, Sai Gautam will play an active role in the activities of the academy, including hosting summer internship fellows, editing journals of the academy, hosting workshops, etc.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/deb-jmr/">Na cathode review paper published in J. Mater. Res.</a>
+						</div>
+						<div class="smallhead">
+							3 Aug 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/deb-jmr-news-2022.png">
+				
+				
+				<div class="post">
+					<p>Debolina’s review paper on polyanionic cathodes for Na-ion batteries was published today in <a href="https://doi.org/10.1557/s43578-022-00646-7" target="_blank">Journal of Materials Research</a>. Being an invited feature paper-review, the work compiles some of the latest developments in the design of polyanionic cathodes that are relevant for Na-ion batteries. The work was led by Prof. Sai Gautam Gopalakrishnan with Debolina Deb doing the heavy-lifting of reviewing the literature.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/zeng-paper-nc/">Kinetic Monte Carlo paper published in Nat. Commun.</a>
+						</div>
+						<div class="smallhead">
+							2 Aug 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/deng-nc-news-2022.png">
+				
+				
+				<div class="post">
+					<p>Zeyu (Jerry) Deng’s paper on evaluating ionic transport in mixed polyanionic solid electrolyte systems using kinetic Monte Carlo was published today in <a href="https://doi.org/10.1038/s41467-022-32190-7" target="_blank">Nature Communications</a>. The study constructed a local cluster expansion model based on nudged elastic band calculations, and use kinetic Monte Carlo simulations to evaluate Na transport in Na<sub>1+x</sub>Zr<sub>2</sub>Si<sub>x</sub>P<sub>3-x</sub>O<sub>12</sub>-NaSICON solid electrolyte. Subsequent experimentals found that the highest Na conductivity is achieved around a composition of Na<sub>3.4</sub>Zr<sub>2</sub>Si<sub>2.4</sub>P<sub>0.6</sub>O<sub>12</sub> (0.165 S cm<sup>-1</sup> at 473 K), in line with theoretical predictions (0.170 S cm<sup>-1</sup> at 473 K for the same composition). The work was led by Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> (National University of Singapore), in collaboration with Profs. <a href="https://www.eng.nus.edu.sg/mse/staff/cheetham/" target="_blank">Anthony K. Cheetham</a> (National University of Singapore and University of California Santa Barbara) and <a href="https://www.christian-masquelier.fr" target="_blank">Christian Masquelier</a> (Laboratoire de Réactivité et Chimie des Solides Amiens), and Dr. Sai Gautam Gopalakrishnan.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/august-joinees-2022/">Pritam, Sougat, and Javeed join the group</a>
+						</div>
+						<div class="smallhead">
+							1 Aug 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/august-joinees-news-2022.png">
+				
+				
+				<div class="post">
+					<p>Three new members joined the group in August 2022, including Pritam Ghosh (top left in picture), Sougat Purohit (top right), and Javeed Ahmad Dar (bottom). Sougat and Javeed will be pursuing their doctoral thesis research, while Pritam will be a project associate. The group wishes a productive stay for all three new members.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/arci-talk/">Sai Gautam gives talk at ARCI, Chennai</a>
+						</div>
+						<div class="smallhead">
+							29 Jul 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/arci-talk-news-2022.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical talk at the <a href="https://arci.res.in/" target="_blank">International Advanced Research Centre for powder metallurgy and new materials (ARCI)</a>, Chennai on 29<sup>th</sup> July, 2022, from 11am-12pm. The talk will be at the ground floor conference room in the <a href="https://respark.iitm.ac.in/" target="_blank">Indian Institute of Technology Madras Research Park</a>, where ARCI is located. Sai Gautam will be presenting some of the latest battery research done by the group.</p>
+
+<p>Do join the talk if you will be around in the vicinity.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/reshma-iisc-news/">Reshma's migration barrier paper featured on IISc website and twitter handle</a>
+						</div>
+						<div class="smallhead">
+							25 Jul 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/devi-npjcm-iisc-news-2022.jpeg">
+				
+				
+				<div class="post">
+					<p>Reshma’s paper on migration barriers that was published in <a href="https://doi.org/10.1038/s41524-022-00837-0" target="_blank">npj Computational Materials</a> was featured on the <a href="https://iisc.ac.in/events/computer-simulations-aid-scientists-in-gauging-battery-performance/" target="_blank">IISc website</a> and the <a href="https://twitter.com/iiscbangalore/status/1551564871392604160" target="_blank">IISc twitter</a> handle. The <a href="mailto:news@iisc.ac.in">IISc news team</a> interviewed both Dr. Sai Gautam Gopalakrishnan and Reshma Devi on the significance and practical applications of the work and have written an article in easy-to-understand language with interview snippets as well. The article has been written by Dr. Narmada Khare and edited by Ms. Ranjini Raghunath.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/devi-npjcm/">Migration barrier paper published in npj Comput. Mater.</a>
+						</div>
+						<div class="smallhead">
+							22 Jul 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/devi-npjcm-news-2022.png">
+				
+				
+				<div class="post">
+					<p>Reshma’s paper on benchmarking the computational predictions of migration barriers (which influence battery rate performance), against available experimental data, over a range of battery electrodes and solid electrolytes, was published today in <a href="https://doi.org/10.1038/s41524-022-00837-0" target="_blank">npj Computational Materials</a>. The study compares the migration barrier predictions with experiments using the strongly constrained and appropriately normed (SCAN), the generalized gradient approximation (GGA), and their Hubbard <i>U</i> corrected frameworks in six electrodes and three solid electrolytes. Importantly, the study found that SCAN gave better predictions of migration barriers overall, with higher computational costs and convergence difficulties, while GGA’s qualitative predictions were reliable. The work was led by Prof. Sai Gautam Gopalakrishnan, in collaboration with Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> of the National University of Singapore.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/imlb-unsw/">Sai Gautam presents poster at IMLB 2022 Meeting and gives a talk at UNSW</a>
+						</div>
+						<div class="smallhead">
+							26 Jun 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/imlb-june-2022.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical poster as part of the “<a href="https://imlb2022.org/" target="_blank">International Meeting on Lithium Batteries (IMLB)</a>,” 2022 meeting. The meeting takes place at the International convention center, Sydney, USA. He will present the just accepted research work on migration barriers in battery materials done by the group. The poster will be available physically at the conference from 26<sup>th</sup> June, 7.30am local time till 6pm local time on 30<sup>th</sup>. A digital copy of the poster is also made available <a href="https://sai-mat-group.github.io/pdfs/presentations/sai-migrationbarriers-imlb2022-poster.pdf" target="_blank">here</a>.</p>
+
+<p>Following the IMLB meeting, Sai Gautam will also be delivering a physical talk at the University of New South Wales, School of Chemical Engineering. He will be hosted by Dr. Dipan Kundu and the talk is scheduled at 10am local time on 1<sup>st</sup> July, at G02 (SEB/E8). The talk will present some of the recent research work done by the group on migration barriers and materials discovery on Ca-cathodes. The talk will also be live-streamed on the <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGI3MmFkNmUtM2VkYi00YTRlLTlkNGUtYTljNDczNmYxMTIx%40thread.v2/0?context=%7b%22Tid%22%3a%223ff6cfa4-e715-48db-b8e1-0867b9f9fba3%22%2c%22Oid%22%3a%226c6dd86a-dcc9-4c69-adfe-4694627c4fdb%22%7d" target="_blank">Microsoft Teams</a> platform.</p>
+
+<p>Do join the poster if you are around in the IMLB meeting and the talk also (either in person or virtually). The slides presented will be uploaded on the group website soon.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/wang-jmca/">Interface paper published in J. Mater. Chem. A</a>
+						</div>
+						<div class="smallhead">
+							8 Jun 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/wang-jmca-news-2022.png">
+				
+				
+				<div class="post">
+					<p>Juefan’s paper on understanding the stability and transport properties of interfaces formed via decomposition of common solid electrolytes against Li metal, was published today in <a href="https://doi.org/10.1039/D2TA02202H" target="_blank">Journal of Materials Chemistry A</a>. The study employed density functional theory calculations and ab initio molecular dynamics simulations and trained a machine learned interatomic potential (specifically, moment tensor potentials) to perform longer timescale simulations on larger interfacial models. Importantly, the study found certain decomposition products (e.g., Li<sub>2</sub>S) to be highly resistant to Li motion across the interface, while phases such as Li<sub>3</sub>P faciliate Li-transport. The work was led by Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> (National University of Singapore), in collaboration with Prof. Sai Gautam Gopalakrishnan.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/group-lunch-2022/">Board game tournament and group lunch</a>
+						</div>
+						<div class="smallhead">
+							28 May 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/group-lunch-may-2022.png">
+				
+				
+				<div class="post">
+					<p>The group played its first board games tournament, involving “Pandemic” and “Settlers of Catan”. Adilakshmi became the winner of the tournament. The games were split across two days, a group lunch, and also a photoshoot. Hope that this will be the first of several board game contests to come in the near future.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/avni-joins/">Avni joins the group</a>
+						</div>
+						<div class="smallhead">
+							16 May 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/team/avni-mandloi.png">
+				
+				
+				<div class="post">
+					<p>Avni Mandloi joins the group as a summer research intern. Avni is an upcoming third year undergraduate student at the Department of Metallurgical and Materials Engineering, Visvesvaraya National Institute of Technology, Nagpur. We wish Avni a productive summer and a succesful career as a materials scientist.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/mrs-talk-2022/">Sai Gautam gives talk at MRS Spring 2022 Meeting</a>
+						</div>
+						<div class="smallhead">
+							9 May 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/mrs-may-2022.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a physical talk, as part of the “DS04.03 – Recent Advances in Data-Driven Discovery of Materials for Energy Conversion and Storage” symposium at the “<a href="https://mrs.org/meetings-events/spring-meetings-exhibits/2022-mrs-spring-meeting" target="_blank">Materials Research Society (MRS) Spring Meeting</a>,” 2022. The meeting takes place at the Hawaii convention center, Honolulu, USA. He will speak about the recent research work on discovery of Ca-ion battery cathodes by the group. The talk will be between 3.45-4.00 PM Hawaii Standard Time on May 9 (Tuesday), which is 7.15-7.30 AM Indian Standard Time on May 10 (Wednesday). Do join the talk if you are around in the conference. The slides presented will also be uploaded on the group website soon.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/reshma-aps-icts-talk/">Reshma gives talk as part of the APS March Satellite Meeting 2022 held at ICTS</a>
+						</div>
+						<div class="smallhead">
+							15 Mar 2022
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/devi-mar-icts-2022.png">
+				
+				
+				<div class="post">
+					<p>Reshma will be presenting her work, “Effect of Exchange-Correlation Functionals on the Estimation of Migration Barriers in Battery Materials” as part of student talks at the <a href="https://www.icts.res.in/discussion-meeting/sataps2022" target="_blank">American Physical Society March Satellite 2022 Meeting</a> organized by the <a href="https://www.icts.res.in/" target="_blank">International Centre for Theoretical Sciences</a> (ICTS). The talk will be physically held at ICTS from 2.45-3pm Indian Standard Time. Do join the talk if you are around.</p>
+
+<p>A recorded version of the talk is now available on <a href="https://www.youtube.com/watch?v=qfyF7jWAAtY" target="_blank">YouTube</a> and the slides are available <a href="https://www.icts.res.in/sites/default/files/seminar%20doc%20files/Reshma%20Devi.pdf" target="_blank">here</a>.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/mrsi-talks/">Sai Gautam gives talks at MRSI Meeting</a>
+						</div>
+						<div class="smallhead">
+							22 Dec 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/mrsi-dec-2021.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver two (virtual) invited talks, as part of the “Computational Materials Science” (CMS) and “Batteries, Fuel Cells, and Supercapacitors” (BFCS) symposia at the “<a href="http://www.mrsi.org.in/agm2021/" target="_blank">Third Indian Materials Conclave and 32<sup>nd</sup>Annual General Meeting</a>,” 2021 of the <a href="https://www.mrsi.org.in/" target="_blank">Materials Research Society of India</a> (MRSI). He will speak about his post-doctoral work of finding oxide perovskites for solar thermochemical water splitting applications in the CMS symposium, while he will present some of his recent work on screening for cathode materials in Ca- and Na-batteries in the BFCS symposium. The CMS and BFCS talks will be on Dec 22 and Dec 23, respectively, with both talks scheduled at 5.15pm, Indian Standard Time. To join the talk, use the credentials sent to you by MRSI upon registration.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/nhpc-hackathon/">SAI MATerials group wins US$ 10k in the National HPC Hackathon challenge</a>
+						</div>
+						<div class="smallhead">
+							7 Dec 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/nhpc-hackathon-news-2021.png">
+				
+				
+				<div class="post">
+					<p>Our research group is one of the three winners of the <a href="https://nationalhpc-hackathon.hackerearth.com/" target="_blank">National High Performance Computing (HPC) Hackathon</a>, organized by Intel and Amazon Web Services, under the thematic area of “Chemistry”. The hackathon is part of ongoing efforts by Intel, AWS, and the office of the Principal Scientific Advisor (PSA), India, to port existing computing solutions and optimize them on cloud systems. Our group has won computational time on the AWS cloud, which is worth US$ 10,000. The ideation proposal for the hackathon was developed largely by <a href="https://sai-mat-group.github.io/team/vijay-choyal/">Dr. Vijay Choyal</a> and <a href="https://sai-mat-group.github.io/team/rutvij-kulkarni/">Rutvij Pankaj Kulkarni</a>, with guidance from Dr. Sai Gautam Gopalakrishnan.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/wang-paper/">Na<sub>x</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> phase diagram paper published in J. Mater. Chem. A</a>
+						</div>
+						<div class="smallhead">
+							3 Dec 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/wang-jmca-news-2021.png">
+				
+				
+				<div class="post">
+					<p>Ziliang’s paper on constructing the temperature-composition phase diagram of the NaSICON cathode, Na<sub>x</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>, was published today in <a href="https://doi.org/10.1039/D1TA09249A" target="_blank">Journal of Materials Chemistry A</a>. The study employed density functional theory-based calculations and a cluster expansion-Monte Carlo approach to calculate the phase diagram and importantly discovered two new phases not observed previously, namely Na<sub>2</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub> and Na<sub>3.5</sub>V<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>. The work was led by Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> (National University of Singapore), in collaboration with Profs. <a href="https://www.eng.nus.edu.sg/mse/staff/cheetham/" target="_blank">Anthony K. Cheetham</a> (National University of Singapore and University of California Santa Barbara), <a href="https://www.christian-masquelier.fr" target="_blank">Christian Masquelier</a> (Laboratoire de Réactivité et Chimie des Solides Amiens), and Dr. Sai Gautam Gopalakrishnan.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/sachin-adilakshmi-join/">Sachin and Adilakshmi join the group</a>
+						</div>
+						<div class="smallhead">
+							18 Nov 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/sachin-adilakshmi-news-2021.png">
+				
+				
+				<div class="post">
+					<p>Sachin Kumar (left in picture) and Adilakshmi Chirumamilla(right) have joined the SAI MATerials group to pursue their Masters thesis (graduating in 2023). Sachin and Adilakshmi graduated with a Bachelors in Metallurgical Engineering, Birsa Institute of Technology Sindri, and Metallurgical and Materials Engineering, Rajiv Gandhi University of Knowledge Technologies, Nuzvid, respectively. We wish Sachin and Adilakshmi the best in their academic careers and beyond.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/group-lunch-2021/">Dr. Tilak Das' visit and first group lunch</a>
+						</div>
+						<div class="smallhead">
+							16 Nov 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/group-lunch-nov-2021.png">
+				
+				
+				<div class="post">
+					<p>Coinciding with the visit of <a href="" target="_blank">Dr. Tilak Das</a>, who gave a talk on his recent research on photocatalysis to the SAI-MAT group, we went on our first lunch as a group to a restaurant near campus. Hope that this will be the first of several group outings to come in the near future.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/olong-pccp/">Study benchmarking properties of layered transition metal oxides published in Phys. Chem. Chem. Phys.</a>
+						</div>
+						<div class="smallhead">
+							14 Oct 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/olong-pccp-news-2021.png">
+				
+				
+				<div class="post">
+					<p>Our recent work on benchmarking the interlayer spacing, intercalation voltage, thermodynamic stability, and electronic properties of redox-active layered transition metal oxides was published today in <a href="https://doi.org/10.1039/D1CP03163E" target="_blank">Physical Chemistry Chemical Physics</a>. We benchmarked a total of eight exchange-correlation functionals, namely the strongly constrained and appropriately normed (SCAN), Perdew-Burke-Ernzerhof (PBE), the corresponding Hubbard <em>U</em> corrected functionals, and with or without van der Waals corrections. Our work will benefit in selecting the right theoretical framework for accurately modelling intercalation-based cathodes for Li-ion batteries and beyond. The paper was written by <a href="https://rwexler.github.io/about/" target="_blank">Ms. Olivia Long</a> (Stanford University), Dr. Sai Gautam Gopalakrishnan, and <a href="https://research.seas.ucla.edu/carter/" target="_blank">Prof. Emily A. Carter</a> (University of California Los Angeles and Princeton University).</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/august-joinees/">Anooj, Swathi, Ankur, and Vijay join the group</a>
+						</div>
+						<div class="smallhead">
+							31 Aug 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/august-joinees-news-2021.png">
+				
+				
+				<div class="post">
+					<p>August 2021 had four new entrants to the SAI MATerials group, including Anooj Sathyan (top left in picture), Swathilakshmi (top right), Ankur Srivastava (bottom left), and Vijay Choyal (bottom right). Anooj will be pursuing his Bachelors thesis research (on machine learning related topics), while Swathi will be an intern learning the ropes of density functional theory calculations. Ankur is a Ph.D. student, co-advised with Prof. Aloke Paul (Materials Engineering, Indian Institute of Science) and will focus on diffusion studies. Vijay Choyal is the first postdoctoral researcher of the group, who will also be an Institute of Eminence fellow. The group wishes a productive stay for all four new members.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/wexler-jacs/">Machine learning oxygen vacancy formation energies in perovskites published in J. Am. Chem. Soc.</a>
+						</div>
+						<div class="smallhead">
+							16 Aug 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/wexler-jacs-news-2021.png">
+				
+				
+				<div class="post">
+					<p>Recent work on the building a robust and physically-intuitive machine learning model on predicting oxygen vacancy formation energies in ternary oxide perovskites  was published today in <a href="https://doi.org/10.1021/jacs.1c05570" target="_blank">Journal of American Chemical Society</a>. The model uses metrics such as solid-state reduction potentials, crystal bond dissociation energies, energy above the convex hull, and the band gap at Gamma point, thus allowing for equivalent models to be built with either experimental or theoretical data or both. The paper was written by <a href="https://rwexler.github.io/about/" target="_blank">Dr. Robert Wexler</a> (Princeton University), Dr. Sai Gautam Gopalakrishnan, <a href="https://sustainability.asu.edu/person/ellen-stechel/" target="_blank">Dr. Ellen Stechel</a> (Arizona State University) and <a href="https://research.seas.ucla.edu/carter/" target="_blank">Prof. Emily A. Carter</a> (University of California Los Angeles).</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/cheme-talk/">Sai Gautam gives talk at the Chemical Engineering department, Indian Institute of Science</a>
+						</div>
+						<div class="smallhead">
+							8 Aug 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/sai-cheme-news-2021.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a (virtual) talk, as part of the <a href="https://chemeng.iisc.ac.in/chemeweb/sem-aug-21.htm" target="_blank">Aug-Dec 2021 seminar series</a> organized by the <a href="https://chemeng.iisc.ac.in/" target="_blank">Department of Chemical Engineering</a>, Indian Institute of Science. The talk will be on “combining density functional theory and thermodynamic frameworks for materials design in energy applications” and the abstract is provided below. The talk will be on <b>12<sup>th</sup> Aug</b>, 2021 (Thursday), <b>4-5pm</b> Indian Standard Time. Please use <a href="https://teams.microsoft.com/l/meetup-join/19%3afdbe2e37f2254563a6736f262916af24%40thread.tacv2/1628421115836?context=%7b%22Tid%22%3a%226f15cd97-f6a7-41e3-b2c5-ad4193976476%22%2c%22Oid%22%3a%2225088498-1dbd-4b68-8735-339e63b482db%22%7d" target="_blank">this link</a> to join in.</p>
+
+<h3>Abstract</h3>
+<p>Updating our energy infrastructure, in terms of moving away from fossil-fuel-based sources to renewable and sustainable sources, is a critical need to ensure that the dramatic effects of climate change are mitigated. However, the performance of devices that are employed in energy generation, storage, or harvesting applications are typically limited by the materials that are used. Hence, it is important to design novel materials that can improve the efficiencies of such energy-based applications. Computational materials science, based on density functional theory calculations and supplemented by thermodynamic and kinetic principles and machine learning, can accelerate the process of materials design, especially in energy applications.</p>
+
+<p>In the first part of my talk, I will present some of our recent work on unearthing promising electrode materials in Ca-ion battery systems. While the state-of-the-art energy storage systems are Li-ion batteries, they are approaching the practical limits of their achievable energy densities apart from other safety, cost, and supply-chain constraints. In this respect, Ca-based intercalation systems can offer a viable alternative, since electrochemical devices based on Ca can achieve energy densities equivalent to (or better than) Li-ion systems, and can alleviate the cost and safety constraints. However, the lack of Ca-ion intercalation electrodes (i.e., cathodes) has so far hindered the practical development of Ca-ion batteries. In this work, we search through Ca-containing ternary oxides and other chalcogenides, which can function as Ca-ion cathodes. Specifically, we use constraints on charge-neutrality, redox-activity, and thermodynamic stability to identify an initial list of candidates, following which we perform nudged elastic band calculations to estimate migration barriers for Ca-diffusion in the candidate structures. Importantly, we identify two promising materials, namely CaV2O4 and CaNb2O4, that exhibit reasonable migration barriers, intercalation voltage, and thermodynamic stability upon Ca (de)intercalation, Finally, we also update a set of design rules that can be used to identify more intercalation systems for Ca-ion batteries.</p>
+
+<p>In the second part of the talk, we will explore the chemical space of Ca-Ce-M-O (M=3d transition metal) oxide perovskites, which have the potential to exhibit higher entropies of reduction, and hence higher productivity with respect to H2 or CO generation in solar thermochemical (STC) water/CO2 splitting applications. STC processes have the potential to be an efficient way to generate renewable fuels or fuel precursors using concentrated sunlight. Specifically, an STC process can use redox-active, off-stoichiometric transition-metal oxide substrates to split water and CO2, generating syngas, H2 and CO. Specifically, we explore systems with Ca and/or Ce occupying the A site and M occupying the B site within an ABO3 framework, using DFT-based calculations. While we consider only Ca and/or Ce on the A-site because of their similar size and the potential redox-activity of Ce, we evaluate all 3d transition metals except Zn on the B-site (Zn+3 is uncommon in solids). We evaluate the oxygen vacancy formation energy (~enthalpy of reduction in an STC process), electronic properties, and thermodynamic stability of ternary Ca-M-O, Ce-M-O, and quaternary Ca-Ce-M-O perovskites, identify promising candidates, and extract metrics that govern the enthalpy and entropy of reduction that are key to improving STC efficiencies.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/lu-paper/">Theoretical screening study for Ca positive electrodes published in Chem. Mater.</a>
+						</div>
+						<div class="smallhead">
+							17 Jul 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/lu-cm-news-2021.png">
+				
+				
+				<div class="post">
+					<p>Wang and Juefan’s paper on computationally screening for Ca posititve electrodes was published today in <a href="https://doi.org/10.1021/acs.chemmater.1c01992" target="_blank">Chemistry of Materials</a>. Searching through the chemical spaces of oxides and chalcogenides, the study used a set of robust filtering criteria, including redox-activity, thermodynamic stabiity, and charge-neutrality to arrive at a set of 10 candidate compounds, which were further evaluated using density functional theory-based calculations. Importantly, the study found two previously unreported candidates, namely, CaV<sub>2</sub>O<sub>4</sub> and CaNb<sub>2</sub>O<sub>4</sub>, both of which exhibit fair Ca mobility. Finally, the paper unearthed a set of updated design principles for constructing facile ionic conductors. The work was led by <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Prof. Piero Canepa</a> (National University of Singapore), in collaboration with Dr. Sai Gautam Gopalakrishnan.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/tanmay-joins/">Tanmay joins as a research intern</a>
+						</div>
+						<div class="smallhead">
+							1 Jul 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/team/tanmay-bhagwat.png">
+				
+				
+				<div class="post">
+					<p>The SAI MATerials group welcomes Tanmay Mohan Bhagwat, who will be a research intern. Tanmay graduated with a Bachelors in Mechanical Engineering from the Birla Institute of Technology and Science, Pilani (Hyderabad campus) in 2021. He will be working on computationally modelling photo(electro)catalysts.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/mrs-talk-2021/">Sai Gautam gives talk at MRS 2021 Spring Meeting</a>
+						</div>
+						<div class="smallhead">
+							21 Apr 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/mrs-apr-2021.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a (virtual) talk, as part of the “EN05.05 – Solar Thermochemical Water Splitting II” symposium at the “<a href="https://mrs.org/meetings-events/spring-meetings-exhibits/2021-mrs-spring-meeting" target="_blank">Materials Research Society (MRS) Spring Meeting</a>,” 2021. He will speak about his post-doctoral work of identifying simultaneously redox-active oxide perovskites for solar thermochemical water splitting applications. The talk will be between 8.10-8.25 AM Indian Standard Time on April 21 (Wednesday). To join the talk, use your MRS credentials to login at the <a href="https://mrs2021.cd.pathable.com" target="_blank">meeting link</a>. The talk will also be available on-demand for a few weeks after the meeting is over. The slides presented will also be uploaded on the group website soon.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/abhirup-joins/">Abhirup joins the SAI MATerials group</a>
+						</div>
+						<div class="smallhead">
+							2 Apr 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/team/abhirup-bhadra.png">
+				
+				
+				<div class="post">
+					<p>The SAI MATerials group welcomes Abhirup Bhadra, who will is a visiting doctoral student from the School of Chemical Engineering in University of New South Wales. Abhirup’s research involves both experimental and computational aspects of all-solid-state batteries and he is pursuing his Ph.D. under the guidance of Dr. Dipan Kundu. Prior to the start of his Ph.D., Abhirup graduated with a Masters in Chemistry from Indian Institute of Technology Kharagpur. The group wishes Abhirup a pleasant stay and a sound execution of the computational aspects of his research while he is around.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/wexler-jmca/">Computational discovery of CCGSSe photovoltaic absorber published in J. Mater. Chem. A</a>
+						</div>
+						<div class="smallhead">
+							1 Apr 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/wexler-jmca-news-2021.png">
+				
+				
+				<div class="post">
+					<p>Recent work on the discovery of a new chalcogenide semiconductor, Cu<sub>2</sub>CdGeS<sub>3</sub>Se, which shows promising thermodynamic stability, optimal band gap, and robust resistance to formation of deep-trap-inducing defects, was published today in <a href="https://doi.org/10.1039/D0TA11603C" target="_blank">Journal of Materials Chemistry A</a>. The paper was written by <a href="https://rwexler.github.io/about/" target="_blank">Dr. Robert Wexler</a> (Princeton University), Dr. Sai Gautam Gopalakrishnan and <a href="https://research.seas.ucla.edu/carter/" target="_blank">Prof. Emily A. Carter</a> (University of California Los Angeles).</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/aps-talk/">Sai Gautam gives talk at APS March Meeting</a>
+						</div>
+						<div class="smallhead">
+							17 Mar 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/aps-mar-2021.png">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a (virtual) talk, as part of the “Energy Research – Solar Energy” symposium at the “<a href="https://march.aps.org/" target="_blank">American Physical Society (APS) March Meeting</a>,” 2021. He will speak about his post-doctoral work of finding oxide perovskites with simultaneous cation redox activity for solar thermochemical water splitting applications. The talk will be between 2.30-2.42 AM Indian Standard Time on March 17 (Wednesday) or, equivalently 4-4.12 PM Central Daylight Time on March 16 (Tuesday). To join the talk, use your APS credentials to login at the <a href="https://marchmeeting2021.onlineeventpro.freeman.com/" target="_blank">meeting link</a>.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/ankit-joins/">Ankit joins the SAI MATerials group</a>
+						</div>
+						<div class="smallhead">
+							11 Mar 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/team/ankit-kumar.png">
+				
+				
+				<div class="post">
+					<p>The SAI MATerials group welcomes Ankit Kumar, who will be a Project Associate! Ankit graduated with a Bachelor’s in Metallurgical and Materials Engineering from Indian Institute of Technology Roorkee. He will be working on cathode design for multivalent batteries.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/dereje-joins/">Dereje joins the SAI MATerials group</a>
+						</div>
+						<div class="smallhead">
+							8 Mar 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/team/dereje-bekele.png">
+				
+				
+				<div class="post">
+					<p>The SAI MATerials group welcomes Dereje Bekele Tekliye, who will be pursuing a Ph.D. in Materials Engineering! Dereje graduated with a Masters in Metallurgical Engineering from Jimma University, Ethiopia. He will be working on understanding the thermodynamics of cathode materials for energy storage applications.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/jayant-sanyam-join/">Jayant and Sanyam join as Masters students</a>
+						</div>
+						<div class="smallhead">
+							24 Feb 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/jayant-sanyam-news-2021.png">
+				
+				
+				<div class="post">
+					<p>Jayant Kumar (left in picture) and Sanyam Nitin Totade (right) have joined the SAI MATerials group to pursue their Masters thesis! Jayant and Sanyam graduated with a Bachelors in Metallurgical and Materials Engineering from the National Institute of Technology, Jamshedpur and the Visvesvaraya National Institute of Technology, respectively. Jayant and Sanyam look forward to learning and utilizing computational tools for materials design in energy applications.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/debolina-joins/">Debolina joins the SAI MATerials group</a>
+						</div>
+						<div class="smallhead">
+							23 Feb 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/team/debolina-deb.png">
+				
+				
+				<div class="post">
+					<p>The SAI MATerials group welcomes Debolina Deb, who will be pursuing a Ph.D. in Materials Engineering! Debolina graduated with a Masters in Chemical Engineering from the Institute of Chemical Technology, Mumbai. She will be working on designing cathode materials for energy storage applications.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/rutvij-joins/">Rutvij joins as a research intern</a>
+						</div>
+						<div class="smallhead">
+							4 Jan 2021
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/team/rutvij-kulkarni.png">
+				
+				
+				<div class="post">
+					<p>Rutvij Pankaj Kulkarni, who will be pursuing his Bachelors thesis work, joins the SAI MATerials group as a research intern. Rutvij is an undergraduate student of Mechanical Engineering at the Birla Institute of Technnology and Science, Pilani (Hyderabad Campus). He will be working on combining machine learning and density functional theory calculations for energy storage applications.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/singh-paper/">NaSiCON cathode chemical map paper published in J. Mater. Chem. A</a>
+						</div>
+						<div class="smallhead">
+							23 Nov 2020
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/singh-jmca-news-2020.png">
+				
+				
+				<div class="post">
+					<p>Baltej and Ziliang’s paper on exploring 3<i>d</i>-metal based NaSiCON cathodes for Na batteries, was published today in <a href="https://doi.org/10.1039/D0TA10688G" target="_blank">Journal of Materials Chemistry A</a>. The study employed density functional theory-based calculations to evaluate the average voltage and Na intercalation behavior in Na<sub>x</sub>MM’(PO<sub>4</sub>)<sub>3</sub> compounds (M, M’ = 3<i>d</i> metal), within the NaSiCON structural framework and found several promising candidates. The work was led by Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> (National University of Singapore), in collaboration with Profs. <a href="https://www.eng.nus.edu.sg/mse/staff/cheetham/" target="_blank">Anthony K. Cheetham</a> (National University of Singapore and University of California Santa Barbara) and <a href="https://www.christian-masquelier.fr" target="_blank">Christian Masquelier</a> (Laboratoire de Réactivité et Chimie des Solides Amiens).</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/mixedperovskite-paper/">Mixed perovskite paper published in Chem. Mater.</a>
+						</div>
+						<div class="smallhead">
+							18 Nov 2020
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/sai-cm-news-2020.png">
+				
+				
+				<div class="post">
+					<p>Sai Gautam’s paper on discovery of oxide perovskites with simultaneous cation redox-activity, using density functional theory calculations, for solar thermochemical applications was published today in <a href="https://pubs.acs.org/doi/10.1021/acs.chemmater.0c02912" target="_blank">Chemistry of Materials</a>. The work was done in collaboration with <a href="https://sustainability.asu.edu/person/ellen-stechel/" target="_blank">Dr. Ellen B. Stechel</a> (Arizona State University) and <a href="https://research.seas.ucla.edu/carter/" target="_blank">Prof. Emily A. Carter</a> (University of California Los Angeles).</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/pratidhwani-talk/">Sai Gautam gives webinar hosted by IIT-Delhi</a>
+						</div>
+						<div class="smallhead">
+							12 Nov 2020
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/pratidhwani-2020.jpg">
+				
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan will deliver a webinar, as part of the “<a href="https://sites.google.com/view/entropyiitd/home" target="_blank">Pratidhwani</a>” series organized by the Department of Chemistry, Indian Institute of Technology Delhi. He will cover some of his post-doctoral work during the talk, on the topic of discovering new oxide perovskites with simultaneous cation reduction for solar thermochemical applications. To join the webinar, use the <a href="https://iitd1.webex.com/iitd1/j.php?MTID=m6d0437b4ef277834751051722f97433c" target="_blank">meeting link</a>. Meeting number is “176 629 0449” and meeting password is “gVkzvQty338”. You can also watch the webinar live on <a href="https://youtu.be/cNcOuc0tR-M" target="_blank">Youtube</a>.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/reshma-joins/">Reshma joins the SAI MATerials group</a>
+						</div>
+						<div class="smallhead">
+							13 Oct 2020
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/team/reshma-devi.png">
+				
+				
+				<div class="post">
+					<p>The SAI MATerials group welcomes our first Ph. D. student, Reshma Devi Parthasarathy! Reshma graduated with a Masters in Physics from the National Institute of Technology in Surathkal, Karnataka. She will be working on solid state diffusion in ionic materials for energy storage applications.</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/zeng-paper/">NaSiCON phase behavior paper published in Chem. Mater.</a>
+						</div>
+						<div class="smallhead">
+							28 Aug 2020
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/deng-cm-news-2020.png">
+				
+				
+				<div class="post">
+					<p>Zeyu (Jerry) Deng’s paper on mapping the phase behavior of rhombohedral Na<sub>1+x</sub>Zr<sub>2</sub>Si<sub>x</sub>P<sub>3-x</sub>, a NaSiCON solid electrolyte for Na batteries, was published today in <a href="https://pubs.acs.org/doi/10.1021/acs.chemmater.0c02695" target="_blank">Chemistry of Materials</a>. The study employed the cluster expansion-monte carlo framework, based on density functional theory calculations, to estimate the temperature-composition phase diagram of NaSiCON. The work was led by Prof. <a href="https://www.eng.nus.edu.sg/mse/staff/pieremanuele-canepa/" target="_blank">Piero Canepa</a> (National University of Singapore), in collaboration with Profs. <a href="https://www.eng.nus.edu.sg/mse/staff/cheetham/" target="_blank">Anthony K. Cheetham</a> (National University of Singapore and University of California Santa Barbara) and <a href="https://www.christian-masquelier.fr" target="_blank">Christian Masquelier</a> (Laboratoire de Réactivité et Chimie des Solides Amiens).</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/sublattice-paper/">Sub-lattice paper published in Adv. Theory Simul.</a>
+						</div>
+						<div class="smallhead">
+							17 Aug 2020
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/sai-ats-news-2020.png">
+				
+				
+				<div class="post">
+					<p>Sai Gautam’s paper on generating sub-lattice models entirely using 0 K density functional theory calculations, which can be used to predict off-stoichiometry in materials, was published today in <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adts.202000112" target="_blank">Advanced Theory and Simulations</a>. The work was done in collaboration with <a href="https://sustainability.asu.edu/person/ellen-stechel/" target="_blank">Dr. Ellen B. Stechel</a> (Arizona State University) and <a href="https://research.seas.ucla.edu/carter/" target="_blank">Prof. Emily A. Carter</a> (University of California Los Angeles).</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/wexler-paper/">Paper on functional challenges published in Phys. Rev. B</a>
+						</div>
+						<div class="smallhead">
+							5 Aug 2020
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/news/wexler-prb-news-2020.png">
+				
+				
+				<div class="post">
+					<p>Work on benchmarking defect formation energies and formation energies of binary Ge-containing compounds, which are relevant for quaternary chalcogenides that are typically used for photovoltaic and thermoelectric applications, was published today in <a href="https://doi.org/10.1103/PhysRevB.102.054101" target="_blank">Physical Review B</a>. The paper was written by <a href="https://rwexler.github.io/about/" target="_blank">Dr. Robert Wexler</a> (Princeton University), Dr. Sai Gautam Gopalakrishnan and <a href="https://research.seas.ucla.edu/carter/" target="_blank">Prof. Emily A. Carter</a> (University of California Los Angeles).</p>
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/nidhish-joins/">Nidhish joins the SAI MATerials group</a>
+						</div>
+						<div class="smallhead">
+							1 Aug 2020
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				
+				<img class="offset" src="/images/team/nidhish-sagar.png">
+				
+				
+				<div class="post">
+					<p>Nidhish Sagar, a senior (or final year) undergraduate student at the Department of Materials Engineering, IISc, has joined the group today. He will be working on machine learning based on density functonal theory calculations for his senior thesis.</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
+							<a href="/news/sgg-joins/">Sai Gautam joins IISc</a>
+						</div>
+						<div class="smallhead">
+							20 Jul 2020
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				
+				<div class="post">
+					<p>Dr. Sai Gautam Gopalakrishnan joins the Materials Engineering department, Indian Institute of Science, as a tenure-track Assistant Professor!</p>
+
+
+				</div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="spacer"></div>
+	</div>
+	
+</div>
+
+
+<!---Uncomment if number of news items becomes too large
+<div class="infinite-spinner"></div>
+
+<div class="row">
+	<div class="col-md-12">
+		<div id="scroll" class="centered-pills">
+			<ul class="nav nav-pills note">
+				<li role="presentation">
+					<a class="off" href="/news/">
+						<i class="fa fa-chevron-up fa-fw"></i> Back to top
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+-->
+<!-- Infinite scroll -->
+<script async src="/js/infinite-scroll.js"></script>
+
+
+	</div>
+
+	<div class="spacer"></div>
+
+	<div class="container mt-4">
+		<div class="row">
+			<div class="col-lg-12 reduced gutter">
+				<div class="pad-left">
+					<ul class="list-inline">
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/news">Group News</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/misc/funders/">Funders</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/misc/contact/">Contact</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" target="_blank" rel="noopener noreferrer" href="https://materials.iisc.ac.in">Materials Engineering</a>
+						</li>
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" target="_blank" rel="noopener noreferrer" href="https://iisc.ac.in">IISc</a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://twitter.com/goths19" target="_blank" rel="noopener noreferrer">
+							<i class="fa fa-twitter"></i></a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://linkedin.com/in/sai-gautam-gopalakrishnan" target="_blank" rel="noopener noreferrer">
+							<i class="fa fa-brands fa-linkedin"></i></a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://github.com/sai-mat-group" target="_blank" rel="noopener noreferrer">
+							<i class="fa fa-github"></i></a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://scholar.google.com/citations?user=XGqBCZAAAAAJ&hl=en" target="_blank" rel="noopner noreferrer">
+							<i class="ai ai-google-scholar"></i></a>
+						</li>
+					</ul>
+					<hr>
+					<p class="colophon">&copy; <script>document.write( new Date().getFullYear() );</script> Sai Gautam Gopalakrishnan - Powered by <a class="off-note" href="https://jekyllrb.com" target="_blank" rel="noopener noreferrer">Jekyll</a> and adapted from <a class="off-note" href="https://bedford.io" target=+_blank" rel="noopener noreferrer">bedford.io</a>, with inputs from <a class="off-note" href="https://caneparesearch.org" target="_blank" rel="noopener noreferrer">PC</a>.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+</body>
+</html>
+
