@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+	<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Accelerating the discovery of disordered multi-component solid-state electrolytes using machine learning interatomic potentials | Simulations and Informatics of Materials Group</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Accelerating the discovery of disordered multi-component solid-state electrolytes using machine learning interatomic potentials" />
+<meta name="author" content="Sai Gautam Gopalakrishnan" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Abstract Machine learning interatomic potentials (MLIPs) are rapidly emerging as powerful tools for materials simulations, offering a promising pathway to explore complex systems beyond the reach of traditional methods. This study investigates the application of MLIPs focused on the MACE architecture, to multi-component, disordered solid-state electrolytes (SSEs), a critical class of materials for the next-generation solid-state batteries. We first benchmark the performance of MACE against established SSE families, Na1+xZr2SixP3−xO12 and Li3+xP1−xGexS4−4xO4x, confirming their general applicability while identifying key considerations for robust potential development in chemically diverse systems. This workflow, emphasizing the selection of representative configurations, provides critical insights for constructing reliable models in complex, multi-components environments. We further demonstrate the predictive power of this approach by constructing a high-performance MLIP for the novel halide system Li3InxY1−xBr6yCl6−6y (x, y ∈ [0, 1] and x + y ≥ 1), leading to the identification of the Li3In0.5Y0.5Br3Cl3 stoichiometry with the most favorable predicted ion transport properties. By analyzing the molecular dynamics (MD) trajectories generated in this work using our MLIP, we identified two distinct Li-ion migration pathways in this material. The trained model facilitates the computational investigation of intricate mixed cation/anion substitutions in halide SSEs, offering new insights into higher-entropy systems incorporating multi-components. Our results underscore the capability of MLIPs to accelerate the discovery cycle of complex functional materials and provide a robust computational framework for designing advanced SSEs." />
+<meta property="og:description" content="Abstract Machine learning interatomic potentials (MLIPs) are rapidly emerging as powerful tools for materials simulations, offering a promising pathway to explore complex systems beyond the reach of traditional methods. This study investigates the application of MLIPs focused on the MACE architecture, to multi-component, disordered solid-state electrolytes (SSEs), a critical class of materials for the next-generation solid-state batteries. We first benchmark the performance of MACE against established SSE families, Na1+xZr2SixP3−xO12 and Li3+xP1−xGexS4−4xO4x, confirming their general applicability while identifying key considerations for robust potential development in chemically diverse systems. This workflow, emphasizing the selection of representative configurations, provides critical insights for constructing reliable models in complex, multi-components environments. We further demonstrate the predictive power of this approach by constructing a high-performance MLIP for the novel halide system Li3InxY1−xBr6yCl6−6y (x, y ∈ [0, 1] and x + y ≥ 1), leading to the identification of the Li3In0.5Y0.5Br3Cl3 stoichiometry with the most favorable predicted ion transport properties. By analyzing the molecular dynamics (MD) trajectories generated in this work using our MLIP, we identified two distinct Li-ion migration pathways in this material. The trained model facilitates the computational investigation of intricate mixed cation/anion substitutions in halide SSEs, offering new insights into higher-entropy systems incorporating multi-components. Our results underscore the capability of MLIPs to accelerate the discovery cycle of complex functional materials and provide a robust computational framework for designing advanced SSEs." />
+<link rel="canonical" href="http://sai-mat-group.github.io/papers/deng-jmca/" />
+<meta property="og:url" content="http://sai-mat-group.github.io/papers/deng-jmca/" />
+<meta property="og:site_name" content="Simulations and Informatics of Materials Group" />
+<meta property="og:image" content="http://sai-mat-group.github.io/images/papers/deng-jmca-2025.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-09-05T00:00:00+05:30" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="http://sai-mat-group.github.io/images/papers/deng-jmca-2025.png" />
+<meta property="twitter:title" content="Accelerating the discovery of disordered multi-component solid-state electrolytes using machine learning interatomic potentials" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Sai Gautam Gopalakrishnan"},"dateModified":"2025-09-05T00:00:00+05:30","datePublished":"2025-09-05T00:00:00+05:30","description":"Abstract Machine learning interatomic potentials (MLIPs) are rapidly emerging as powerful tools for materials simulations, offering a promising pathway to explore complex systems beyond the reach of traditional methods. This study investigates the application of MLIPs focused on the MACE architecture, to multi-component, disordered solid-state electrolytes (SSEs), a critical class of materials for the next-generation solid-state batteries. We first benchmark the performance of MACE against established SSE families, Na1+xZr2SixP3−xO12 and Li3+xP1−xGexS4−4xO4x, confirming their general applicability while identifying key considerations for robust potential development in chemically diverse systems. This workflow, emphasizing the selection of representative configurations, provides critical insights for constructing reliable models in complex, multi-components environments. We further demonstrate the predictive power of this approach by constructing a high-performance MLIP for the novel halide system Li3InxY1−xBr6yCl6−6y (x, y ∈ [0, 1] and x + y ≥ 1), leading to the identification of the Li3In0.5Y0.5Br3Cl3 stoichiometry with the most favorable predicted ion transport properties. By analyzing the molecular dynamics (MD) trajectories generated in this work using our MLIP, we identified two distinct Li-ion migration pathways in this material. The trained model facilitates the computational investigation of intricate mixed cation/anion substitutions in halide SSEs, offering new insights into higher-entropy systems incorporating multi-components. Our results underscore the capability of MLIPs to accelerate the discovery cycle of complex functional materials and provide a robust computational framework for designing advanced SSEs.","headline":"Accelerating the discovery of disordered multi-component solid-state electrolytes using machine learning interatomic potentials","image":"http://sai-mat-group.github.io/images/papers/deng-jmca-2025.png","mainEntityOfPage":{"@type":"WebPage","@id":"http://sai-mat-group.github.io/papers/deng-jmca/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://sai-mat-group.github.io/images/logo.png"},"name":"Sai Gautam Gopalakrishnan"},"url":"http://sai-mat-group.github.io/papers/deng-jmca/"}</script>
+<!-- End Jekyll SEO tag -->
+
+<head>
+	<meta charset="utf-8"/>
+	<title>Accelerating the discovery of disordered multi-component solid-state electrolytes using machine learning interatomic potentials</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<meta name="google-site-verification" content="zEGG9gOi40Xq8GSeRtDEq17a6MV4LyM44AAc8mE7YxA" />
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZRNS1MC6F"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+	
+  	gtag('config', 'G-9ZRNS1MC6F');
+	</script>
+
+	<!-- Global site tag (gtag.js) - Old Google Analytics -->
+	<!--script async src="https://www.googletagmanager.com/gtag/js?id=UA-176100633-1"></script>
+	<script>
+  	window.dataLayer = window.dataLayer || [];
+  	function gtag(){dataLayer.push(arguments);}
+  	gtag('js', new Date());
+
+  	gtag('config', 'UA-176100633-1');
+	</script-->
+
+	<!-- Google Analytics -->
+	<!--script>
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-176100633-1', 'auto');
+	ga('send', 'pageview');
+	</script>
+	<script async src='https://www.google-analytics.com/analytics.js'></script-->
+	<!-- End Old Google Analytics -->
+
+	
+	<!-- RSS feed -->
+	<link rel="alternate" type="application/rss+xml" title="Simulations and Informatics of Materials Group" href="http://sai-mat-group.github.io/feed.xml">
+	
+    <!-- Customized Bootstrap + Font Awesome + Solarized -->
+    <link href="/css/style.css" rel="stylesheet" media="screen">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="/images/favicon.png"/>	
+
+	<!-- Ideal image slider -->
+	<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+
+
+	<!-- Typekit -->
+	<script>
+	  //(function(d) {
+		//var config = {
+		  //kitId: 'xeu8jut',
+		  //scriptTimeout: 3000
+		//},
+		//h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+	  //})(document);
+	</script>
+			
+	<!-- jQuery -->
+	<script src="/js/jquery.min.js"></script>
+
+	<!-- Bootstrap -->
+	<script src="/js/bootstrap.min.js"></script>
+	<!--script src="/js/transition.js"></script>
+	<script src="/js/collapse.js"></script-->
+
+</head>
+
+<body>
+
+	<div id="header">
+		<nav class="navbar navbar-expand-md navbar">	 
+			<div class="container">
+				<a class="navbar-brand" href="/">
+				<img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="/images/logo.svg">
+					SAI MATerials Group</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNav">
+					<ul class="navbar-nav nav-pills ml-auto">
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/research/">Research</a>
+						</li>
+						
+						<li class="nav-link active">
+						
+						<a class="mx-1" href="/papers/">Publications</a>
+						</li>
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/presentations/">Presentations</a>
+						</li>
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/team/">Team</a></li>	  
+						
+						<li class="nav-link">
+						
+						<a class="mx-1" href="/join-us/">Join Us</a>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</div>
+
+	<div class="container mt-4">
+
+	<div class="row">
+	<div class="col-md-12">
+		<div class="media">
+			<div class="col-md-3">
+			
+			<img class="pull-left pad-right media-object" src="/images/papers/deng-jmca-2025.png">
+			
+			</div>
+			<div class="col-md-9">
+			<div class="media-body titlebox">
+				<div class="paper-title media-heading">
+					Accelerating the discovery of disordered multi-component solid-state electrolytes using machine learning interatomic potentials
+				</div>
+				<p>
+				<div class="smallhead">
+					Y. Deng, Y. Li, <b>G. Sai Gautam</b>, B. Zhu, and Z. Deng;
+					J. Mater. Chem. A, Advance Article (2025)
+				</div>
+			</div>
+			</div>
+			<!---<div class="col-md-8">
+				<div class="post">
+					<h1 id="abstract">Abstract</h1>
+<p>Machine learning interatomic potentials (MLIPs) are rapidly emerging as powerful tools for materials simulations, offering a promising pathway to explore complex systems beyond the reach of traditional methods. This study investigates the application of MLIPs focused on the MACE architecture, to multi-component, disordered solid-state electrolytes (SSEs), a critical class of materials for the next-generation solid-state batteries. We first benchmark the performance of MACE against established SSE families, Na<sub>1+x</sub>Zr<sub>2</sub>Si<sub>x</sub>P<sub>3−x</sub>O<sub>12</sub> and Li<sub>3+x</sub>P<sub>1−x</sub>Ge<sub>x</sub>S<sub>4−4x</sub>O<sub>4x</sub>, confirming their general applicability while identifying key considerations for robust potential development in chemically diverse systems. This workflow, emphasizing the selection of representative configurations, provides critical insights for constructing reliable models in complex, multi-components environments. We further demonstrate the predictive power of this approach by constructing a high-performance MLIP for the novel halide system Li<sub>3</sub>In<sub>x</sub>Y<sub>1−x</sub>Br<sub>6y</sub>Cl<sub>6−6y</sub> (x, y ∈ [0, 1] and x + y ≥ 1), leading to the identification of the Li<sub>3</sub>In<sub>0.5</sub>Y<sub>0.5</sub>Br<sub>3</sub>Cl<sub>3</sub> stoichiometry with the most favorable predicted ion transport properties. By analyzing the molecular dynamics (MD) trajectories generated in this work using our MLIP, we identified two distinct Li-ion migration pathways in this material. The trained model facilitates the computational investigation of intricate mixed cation/anion substitutions in halide SSEs, offering new insights into higher-entropy systems incorporating multi-components. Our results underscore the capability of MLIPs to accelerate the discovery cycle of complex functional materials and provide a robust computational framework for designing advanced SSEs.</p>
+
+				</div>
+			</div>-->
+		</div>	
+	</div>
+</div>
+
+<div class="bigspacer"></div>
+
+<div class="row">
+	<div class="col-md-3">
+		<div class="bigspacer"></div>
+		<div class="glyphbox note">
+			
+			<div class="smallhead">
+				PDF
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-file-text-o fa-fw"></i>
+				<a class="off" href="/pdfs/papers/deng-jmca-2025.pdf">deng-jmca-2025.pdf</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+			<div class="smallhead">
+				Supporting Information
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-paperclip fa-fw"></i>
+				<a class="off" href="/pdfs/papers/deng-jmca-2025-si.pdf">deng-jmca-2025-si.pdf</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+			<div class="smallhead">
+				DOI
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="ai ai-doi"></i>
+				<a class="off" href="https://doi.org/10.1039/D5TA05321H">10.1039/D5TA05321H</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+			
+			
+			
+			
+			<div class="smallhead">
+				zenodo
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-solid fa-database"></i>
+				<a class="off" href="https://doi.org/10.5281/zenodo.15771782">10.5281/zenodo.15771782</a>
+			</div>
+			<div class="bigspacer"></div>
+			
+		</div>
+	</div>
+	<div class="col-md-8">
+		<div class="post">
+			<h1 id="abstract">Abstract</h1>
+<p>Machine learning interatomic potentials (MLIPs) are rapidly emerging as powerful tools for materials simulations, offering a promising pathway to explore complex systems beyond the reach of traditional methods. This study investigates the application of MLIPs focused on the MACE architecture, to multi-component, disordered solid-state electrolytes (SSEs), a critical class of materials for the next-generation solid-state batteries. We first benchmark the performance of MACE against established SSE families, Na<sub>1+x</sub>Zr<sub>2</sub>Si<sub>x</sub>P<sub>3−x</sub>O<sub>12</sub> and Li<sub>3+x</sub>P<sub>1−x</sub>Ge<sub>x</sub>S<sub>4−4x</sub>O<sub>4x</sub>, confirming their general applicability while identifying key considerations for robust potential development in chemically diverse systems. This workflow, emphasizing the selection of representative configurations, provides critical insights for constructing reliable models in complex, multi-components environments. We further demonstrate the predictive power of this approach by constructing a high-performance MLIP for the novel halide system Li<sub>3</sub>In<sub>x</sub>Y<sub>1−x</sub>Br<sub>6y</sub>Cl<sub>6−6y</sub> (x, y ∈ [0, 1] and x + y ≥ 1), leading to the identification of the Li<sub>3</sub>In<sub>0.5</sub>Y<sub>0.5</sub>Br<sub>3</sub>Cl<sub>3</sub> stoichiometry with the most favorable predicted ion transport properties. By analyzing the molecular dynamics (MD) trajectories generated in this work using our MLIP, we identified two distinct Li-ion migration pathways in this material. The trained model facilitates the computational investigation of intricate mixed cation/anion substitutions in halide SSEs, offering new insights into higher-entropy systems incorporating multi-components. Our results underscore the capability of MLIPs to accelerate the discovery cycle of complex functional materials and provide a robust computational framework for designing advanced SSEs.</p>
+
+		</div>
+	</div>
+	<div class="col-md-1"></div>
+</div>
+
+
+
+	</div>
+
+	<div class="spacer"></div>
+
+	<div class="container mt-4">
+		<div class="row">
+			<div class="col-lg-12 reduced gutter">
+				<div class="pad-left">
+					<ul class="list-inline">
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/news">Group News</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/misc/funders/">Funders</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" href="/misc/contact/">Contact</a>
+						</li>
+						
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" target="_blank" rel="noopener noreferrer" href="https://materials.iisc.ac.in">Materials Engineering</a>
+						</li>
+						<li class="footernav list-inline-item">
+							<i class="fa fa-angle-right"></i> <a class="off-footer" target="_blank" rel="noopener noreferrer" href="https://iisc.ac.in">IISc</a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://twitter.com/goths19" target="_blank" rel="noopener noreferrer">
+							<i class="fa fa-twitter"></i></a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://linkedin.com/in/sai-gautam-gopalakrishnan" target="_blank" rel="noopener noreferrer">
+							<i class="fa fa-brands fa-linkedin"></i></a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://github.com/sai-mat-group" target="_blank" rel="noopener noreferrer">
+							<i class="fa fa-github"></i></a>
+						</li>
+						<li class="footernav list-inline-item"> <a class="footerimage" href="https://scholar.google.com/citations?user=XGqBCZAAAAAJ&hl=en" target="_blank" rel="noopner noreferrer">
+							<i class="ai ai-google-scholar"></i></a>
+						</li>
+					</ul>
+					<hr>
+					<p class="colophon">&copy; <script>document.write( new Date().getFullYear() );</script> Sai Gautam Gopalakrishnan - Powered by <a class="off-note" href="https://jekyllrb.com" target="_blank" rel="noopener noreferrer">Jekyll</a> and adapted from <a class="off-note" href="https://bedford.io" target=+_blank" rel="noopener noreferrer">bedford.io</a>, with inputs from <a class="off-note" href="https://caneparesearch.org" target="_blank" rel="noopener noreferrer">PC</a>.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+</body>
+</html>
+
