@@ -1333,10 +1333,6 @@
 <lastmod>2025-08-11T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://sai-mat-group.github.io/papers/ghosh-arxiv/</loc>
-<lastmod>2025-08-12T00:00:00+05:30</lastmod>
-</url>
-<url>
 <loc>http://sai-mat-group.github.io/papers/kashyap-jec/</loc>
 <lastmod>2025-08-19T00:00:00+05:30</lastmod>
 </url>
@@ -1359,6 +1355,10 @@
 <url>
 <loc>http://sai-mat-group.github.io/papers/chirumamilla-jmr/</loc>
 <lastmod>2025-10-09T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://sai-mat-group.github.io/papers/ghosh-acsanm/</loc>
+<lastmod>2025-11-26T00:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/calendar/</loc>
@@ -1608,8 +1608,12 @@
 <lastmod>2022-04-25T13:16:52+05:30</lastmod>
 </url>
 <url>
-<loc>http://sai-mat-group.github.io/pdfs/papers/ghosh-arxiv-2025.pdf</loc>
-<lastmod>2025-08-12T07:35:52+05:30</lastmod>
+<loc>http://sai-mat-group.github.io/pdfs/papers/ghosh-acsanm-2025-si.pdf</loc>
+<lastmod>2025-11-27T14:00:21+05:30</lastmod>
+</url>
+<url>
+<loc>http://sai-mat-group.github.io/pdfs/papers/ghosh-acsanm-2025.pdf</loc>
+<lastmod>2025-11-27T14:00:02+05:30</lastmod>
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/pdfs/papers/ghosh-ic-2024-si.pdf</loc>
