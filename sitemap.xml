@@ -1329,10 +1329,6 @@
 <lastmod>2025-08-11T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://sai-mat-group.github.io/papers/devi-arxiv-dataset/</loc>
-<lastmod>2025-08-11T00:00:00+05:30</lastmod>
-</url>
-<url>
 <loc>http://sai-mat-group.github.io/papers/kashyap-jec/</loc>
 <lastmod>2025-08-19T00:00:00+05:30</lastmod>
 </url>
@@ -1365,7 +1361,10 @@
 <lastmod>2025-12-04T00:00:00+05:30</lastmod>
 </url>
 <url>
-<<<<<<< HEAD
+<loc>http://sai-mat-group.github.io/papers/devi-scidata/</loc>
+<lastmod>2025-12-05T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>http://sai-mat-group.github.io/news-archive/reshma-defense/</loc>
 <lastmod>2025-12-17T00:00:00+05:30</lastmod>
 </url>
@@ -1374,8 +1373,6 @@
 <lastmod>2025-12-17T00:00:00+05:30</lastmod>
 </url>
 <url>
-=======
->>>>>>> 2c2cb852100691aeec18fca4d989ffe920942256
 <loc>http://sai-mat-group.github.io/presentations/devi-defense-talk/</loc>
 <lastmod>2025-12-17T00:00:00+05:30</lastmod>
 </url>
@@ -1591,10 +1588,6 @@
 <lastmod>2025-08-11T07:45:52+05:30</lastmod>
 </url>
 <url>
-<loc>http://sai-mat-group.github.io/pdfs/papers/devi-arxiv-dataset-2025.pdf</loc>
-<lastmod>2025-08-11T08:02:53+05:30</lastmod>
-</url>
-<url>
 <loc>http://sai-mat-group.github.io/pdfs/papers/devi-npjcm-2022-si.pdf</loc>
 <lastmod>2023-02-16T12:57:41+05:30</lastmod>
 </url>
@@ -1609,6 +1602,10 @@
 <url>
 <loc>http://sai-mat-group.github.io/pdfs/papers/devi-npjcm-2024.pdf</loc>
 <lastmod>2024-12-21T08:24:03+05:30</lastmod>
+</url>
+<url>
+<loc>http://sai-mat-group.github.io/pdfs/papers/devi-scidata-2025.pdf</loc>
+<lastmod>2025-12-05T21:37:22+05:30</lastmod>
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/pdfs/papers/dey-chemsuschem-2025-si.pdf</loc>
@@ -2128,11 +2125,7 @@
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/pdfs/presentations/purohit-screening-imbrs2025-poster.pdf</loc>
-<<<<<<< HEAD
 <lastmod>2025-12-05T07:20:29+05:30</lastmod>
-=======
-<lastmod>2025-12-04T20:13:57+05:30</lastmod>
->>>>>>> 2c2cb852100691aeec18fca4d989ffe920942256
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/pdfs/presentations/reshma-2025workshop-session4a-handson.pdf</loc>
