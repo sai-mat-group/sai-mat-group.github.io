@@ -1365,6 +1365,7 @@
 <lastmod>2025-12-04T00:00:00+05:30</lastmod>
 </url>
 <url>
+<<<<<<< HEAD
 <loc>http://sai-mat-group.github.io/news-archive/reshma-defense/</loc>
 <lastmod>2025-12-17T00:00:00+05:30</lastmod>
 </url>
@@ -1373,6 +1374,8 @@
 <lastmod>2025-12-17T00:00:00+05:30</lastmod>
 </url>
 <url>
+=======
+>>>>>>> 2c2cb852100691aeec18fca4d989ffe920942256
 <loc>http://sai-mat-group.github.io/presentations/devi-defense-talk/</loc>
 <lastmod>2025-12-17T00:00:00+05:30</lastmod>
 </url>
@@ -2125,7 +2128,11 @@
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/pdfs/presentations/purohit-screening-imbrs2025-poster.pdf</loc>
+<<<<<<< HEAD
 <lastmod>2025-12-05T07:20:29+05:30</lastmod>
+=======
+<lastmod>2025-12-04T20:13:57+05:30</lastmod>
+>>>>>>> 2c2cb852100691aeec18fca4d989ffe920942256
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/pdfs/presentations/reshma-2025workshop-session4a-handson.pdf</loc>
