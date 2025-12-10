@@ -243,6 +243,39 @@
 				<div class="media">
 					<div class="media-body">
 						<div class="title media-heading">
+							<a href="/news/ai-ml-workshop/">Group organizes AI/ML for Materials workshop</a>
+						</div>
+						<div class="smallhead">
+							9 Jan 2025
+						</div>
+						<div class="spacer"></div>
+						<div class="post">
+							<p>The SAI-Mat group, in association with <a href="https://profiles.ucl.ac.uk/25193-keith-butler">Keith Butler</a> at the <a href="https://www.ucl.ac.uk/">University College London</a>, successfully organized a two day workshop on ‘AI/ML for Materials’ at the Department of Materials Engineering, Indian Institute of Science. Spread over January 7 and 8, 2025, the workshop was attended by over 35 attendees (who were selected from over 220 applicants) from various academic institutions and industries across India. The workshop was completely free for all participants, including food during the event, with generous sponsorship from <a href="https://royalsociety.org/">The Royal Society</a> and the <a href="https://www.ukri.org/">UK Research and Innovation</a>.</p>
+
+<p>The workshop covered topics ranging from the basics of machine learning, relevance of graph-based neural networks in materials, the construction of machine learned interatomic potentials, and a few advanced topics (including transfer learning, diffusion and language models for materials). Besides lectures covering theory, the workshop also involved extensive hands-on sessions where participants could execute code-blocks by themselves and reduce the barrier for actual usage of such models in their work.</p>
+
+<p>All the lectures and notebooks used in the workshop are available free-for-all at <a href="https://sai-mat-group.github.io/presentations/">here</a> and <a href="https://github.com/mdi-group/iisc-ml-school">here</a>, respectively. Video recordings of all lectures and hands-on sessions can be found corresponding to each session title at <a href="https://sai-mat-group.github.io/presentations/">this</a> page.</p>
+
+						</div>
+					</div>
+					<a class="pull-right" href="/news/ai-ml-workshop/">
+						<img width=350 class="media-object" src="/images/news/ai-ml-workshop-news-2025.jpeg">
+					</a>
+				</div>
+				<div class="bigspacer"></div>
+				<div class="spacer"></div>
+			</div>
+			<div class="col-md-1"></div>
+		</div>
+	</div>
+	
+	<div class="blog-post">
+		<div class="row">
+			<div class="col-md-1"></div>
+			<div class="col-md-12">
+				<div class="media">
+					<div class="media-body">
+						<div class="title media-heading">
 							<a href="/news/priti-shankar/">Sai Gautam wins the Prof. Priti Shankar Teaching Award</a>
 						</div>
 						<div class="smallhead">
@@ -415,46 +448,6 @@
 					</div>
 					<a class="pull-right" href="/news/january-joinees-2024/">
 						<img width=350 class="media-object" src="/images/news/january-joinees-news-2024.png">
-					</a>
-				</div>
-				<div class="bigspacer"></div>
-				<div class="spacer"></div>
-			</div>
-			<div class="col-md-1"></div>
-		</div>
-	</div>
-	
-	<div class="blog-post">
-		<div class="row">
-			<div class="col-md-1"></div>
-			<div class="col-md-12">
-				<div class="media">
-					<div class="media-body">
-						<div class="title media-heading">
-							<a href="/news/igstc-germany/">Sai Gautam to visit University of Paderborn and other institutions in Germany</a>
-						</div>
-						<div class="smallhead">
-							31 May 2023
-						</div>
-						<div class="spacer"></div>
-						<div class="post">
-							<p>Dr. Sai Gautam Gopalakrishnan will be visiting the <a href="https://chemie.uni-paderborn.de/en/" target="_blank">Department of Chemistry</a> at the <a href="https://www.uni-paderborn.de/en/" target="_blank">University of Paderborn</a> in May 2023. Sai Gautam will be spending all of May in Germany, as part of his <a href="https://www.igstc.org/home/pecfar" target="_blank">Paired Early Career Fellowship in Applied Research (PECFAR)</a> granted by the <a href="https://www.igstc.org/" target="_blank">Indo German Science and Technology Centre (IGSTC)</a>, and will be hosted by <a href="https://chemie.uni-paderborn.de/arbeitskreise/technische-chemie/steinrueck/jun-prof-dr-hans-georg-steinrueck" target="_blank">Jun-Prof. Dr. Hans-Georg Steinrück</a>. While in Germany, Sai Gautam will be delivering talks at the following locations within Germany. Do attend one (or several) of the talks if you are in the area!</p>
-
-<ul>
-<li>8-May: <a href="https://www.hu-berlin.de/en" target="_blank">Humboldt-Universität zu Berlin</a> (Adlershof campus, hosted by <a href="https://adelhelmgroup.com/2021/02/25/philipp-adelhelm/" target="_blank">Prof. Philipp Adelhelm</a>)</li>
-<li>10-May: University of Paderborn (hosted by Jun-Prof. Dr. Hans-Georg Steinrück)</li>
-<li>16-May: <a href="https://www.uni-bayreuth.de/en" target="_blank">University of Bayreuth</a> (hosted by <a href="https://www.bianchini.uni-bayreuth.de/en/team/bianchini/" target="_blank">Prof. Dr. Matteo Bianchini</a>)</li>
-<li>17-May: <a href="https://hiu-batteries.de/en/" target="_blank">Helmholtz-Institut Ulm</a> (hosted by <a href="https://hiu-batteries.de/forschung/forschungsgruppen/solidstatechemistry/prof-dr-maximilian-fichtner/" target="_blank">Prof. Dr. Maximilian Fichtner</a>)</li>
-<li>23-May: <a href="https://www.fz-juelich.de/en/" target="_blank"> Forschungszentrum Jülich</a> (hosted by <a href="https://www.fz-juelich.de/profile/kaghazchi_p" target="_blank">Dr. Payam Kaghazchi</a>)</li>
-<li>25-May: <a href="https://www.uni-muenster.de/en/" target="_blank">Universität Münster</a> (hosted by <a href="https://www.uni-muenster.de/Chemie.ac/forschung/ak_zeier/zeier/index.html" target="_blank">Prof. Wolfgang Zeier</a>)</li>
-</ul>
-
-<p>The slides presented in Sai Gautam’s talks are available at the group website, <a href="https://sai-mat-group.github.io/pdfs/presentations/sai-CaNaSICON_MLIP-Germany-2023-talks.pdf" target="_blank">here</a>.</p>
-
-						</div>
-					</div>
-					<a class="pull-right" href="/news/igstc-germany/">
-						<img width=350 class="media-object" src="/images/IGSTC_logo.jpg">
 					</a>
 				</div>
 				<div class="bigspacer"></div>
