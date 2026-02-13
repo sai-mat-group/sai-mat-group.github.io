@@ -1333,10 +1333,6 @@
 <lastmod>2025-07-15T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://sai-mat-group.github.io/papers/devi-arxiv-barrier/</loc>
-<lastmod>2025-08-11T00:00:00+05:30</lastmod>
-</url>
-<url>
 <loc>http://sai-mat-group.github.io/papers/kashyap-jec/</loc>
 <lastmod>2025-08-19T00:00:00+05:30</lastmod>
 </url>
@@ -1411,6 +1407,10 @@
 <url>
 <loc>http://sai-mat-group.github.io/papers/phukan-small/</loc>
 <lastmod>2026-02-04T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://sai-mat-group.github.io/papers/devi-npjcm-2026/</loc>
+<lastmod>2026-02-13T00:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/calendar/</loc>
@@ -1628,10 +1628,6 @@
 <lastmod>2022-08-04T11:25:41+05:30</lastmod>
 </url>
 <url>
-<loc>http://sai-mat-group.github.io/pdfs/papers/devi-arxiv-barrier-2025.pdf</loc>
-<lastmod>2025-08-11T07:45:52+05:30</lastmod>
-</url>
-<url>
 <loc>http://sai-mat-group.github.io/pdfs/papers/devi-npjcm-2022-si.pdf</loc>
 <lastmod>2023-02-16T12:57:41+05:30</lastmod>
 </url>
@@ -1646,6 +1642,14 @@
 <url>
 <loc>http://sai-mat-group.github.io/pdfs/papers/devi-npjcm-2024.pdf</loc>
 <lastmod>2024-12-21T08:24:03+05:30</lastmod>
+</url>
+<url>
+<loc>http://sai-mat-group.github.io/pdfs/papers/devi-npjcm-2026-si.pdf</loc>
+<lastmod>2026-02-13T19:44:58+05:30</lastmod>
+</url>
+<url>
+<loc>http://sai-mat-group.github.io/pdfs/papers/devi-npjcm-2026.pdf</loc>
+<lastmod>2026-02-13T19:43:21+05:30</lastmod>
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/pdfs/papers/devi-scidata-2025.pdf</loc>
