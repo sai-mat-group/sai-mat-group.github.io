@@ -1433,10 +1433,6 @@
 <lastmod>2026-05-06T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://sai-mat-group.github.io/papers/behara-arxiv/</loc>
-<lastmod>2026-05-26T00:00:00+05:30</lastmod>
-</url>
-<url>
 <loc>http://sai-mat-group.github.io/papers/srivastava-arxiv/</loc>
 <lastmod>2026-05-26T00:00:00+05:30</lastmod>
 </url>
@@ -1467,6 +1463,10 @@
 <url>
 <loc>http://sai-mat-group.github.io/papers/tekliye-arxiv-cav2o4/</loc>
 <lastmod>2026-07-09T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://sai-mat-group.github.io/papers/behara-acsami/</loc>
+<lastmod>2026-08-06T00:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/calendar/</loc>
@@ -1520,8 +1520,12 @@
 <lastmod>2020-08-17T16:44:30+05:30</lastmod>
 </url>
 <url>
-<loc>http://sai-mat-group.github.io/pdfs/papers/behara-arxiv-2026.pdf</loc>
-<lastmod>2026-05-26T08:08:14+05:30</lastmod>
+<loc>http://sai-mat-group.github.io/pdfs/papers/behara-acsami-2026-si.pdf</loc>
+<lastmod>2026-08-07T13:24:55+05:30</lastmod>
+</url>
+<url>
+<loc>http://sai-mat-group.github.io/pdfs/papers/behara-acsami-2026.pdf</loc>
+<lastmod>2026-08-07T13:25:06+05:30</lastmod>
 </url>
 <url>
 <loc>http://sai-mat-group.github.io/pdfs/papers/berman-acssce-2019.pdf</loc>
